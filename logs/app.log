@@ -1,0 +1,824 @@
+2025-06-08T09:28:54.932Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:28:57.884Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:29:28.242Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:29:36.282Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:29:37.509Z [INFO]: undefined
+2025-06-08T09:29:37.512Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:29:38.677Z [INFO]: 📦 Database connected
+2025-06-08T09:29:38.681Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:31:13.151Z [INFO]: 📦 Database connected
+2025-06-08T09:31:13.154Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:31:19.143Z [INFO]: 📦 Database connected
+2025-06-08T09:31:19.145Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:31:20.572Z [INFO]: 📦 Database connected
+2025-06-08T09:31:20.576Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:31:22.321Z [INFO]: 📦 Database connected
+2025-06-08T09:31:22.324Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:33:46.542Z [INFO]: 📦 Database connected
+2025-06-08T09:33:46.546Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:33:52.017Z [INFO]: 📦 Database connected
+2025-06-08T09:33:52.022Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:37:32.229Z [INFO]: 📦 Database connected
+2025-06-08T09:37:32.233Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:37:41.753Z [INFO]: 📦 Database connected
+2025-06-08T09:37:41.757Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:37:45.650Z [INFO]: 📦 Database connected
+2025-06-08T09:37:45.653Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:37:49.268Z [INFO]: 📦 Database connected
+2025-06-08T09:37:49.271Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:37:51.318Z [INFO]: 📦 Database connected
+2025-06-08T09:37:51.321Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:38:18.284Z [INFO]: 📦 Database connected
+2025-06-08T09:38:18.288Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:38:22.664Z [INFO]: 📦 Database connected
+2025-06-08T09:38:22.667Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:38:26.324Z [INFO]: 📦 Database connected
+2025-06-08T09:38:26.327Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:38:27.974Z [INFO]: 📦 Database connected
+2025-06-08T09:38:27.977Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:38:31.134Z [INFO]: 📦 Database connected
+2025-06-08T09:38:31.139Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:38:52.997Z [INFO]: 📦 Database connected
+2025-06-08T09:38:53.000Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:38:55.965Z [INFO]: 📦 Database connected
+2025-06-08T09:38:55.969Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:00.900Z [INFO]: 📦 Database connected
+2025-06-08T09:39:00.903Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:07.747Z [INFO]: 📦 Database connected
+2025-06-08T09:39:07.751Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:15.092Z [INFO]: 📦 Database connected
+2025-06-08T09:39:15.095Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:19.128Z [INFO]: 📦 Database connected
+2025-06-08T09:39:19.131Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:21.817Z [INFO]: 📦 Database connected
+2025-06-08T09:39:21.820Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:25.685Z [INFO]: 📦 Database connected
+2025-06-08T09:39:25.689Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:26.898Z [INFO]: 📦 Database connected
+2025-06-08T09:39:26.901Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:30.548Z [INFO]: 📦 Database connected
+2025-06-08T09:39:30.552Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:33.607Z [INFO]: 📦 Database connected
+2025-06-08T09:39:33.611Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:34.783Z [INFO]: 📦 Database connected
+2025-06-08T09:39:34.787Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:43.062Z [INFO]: 📦 Database connected
+2025-06-08T09:39:43.068Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:49.373Z [INFO]: 📦 Database connected
+2025-06-08T09:39:49.377Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:39:51.180Z [INFO]: 📦 Database connected
+2025-06-08T09:39:51.184Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:40:40.207Z [INFO]: 📦 Database connected
+2025-06-08T09:40:40.211Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:40:44.873Z [INFO]: 📦 Database connected
+2025-06-08T09:40:44.876Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:40:48.523Z [INFO]: 📦 Database connected
+2025-06-08T09:40:48.526Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:40:55.721Z [INFO]: 📦 Database connected
+2025-06-08T09:40:55.725Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:40:58.117Z [INFO]: 📦 Database connected
+2025-06-08T09:40:58.122Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:40:59.898Z [INFO]: 📦 Database connected
+2025-06-08T09:40:59.902Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:41:01.301Z [INFO]: 📦 Database connected
+2025-06-08T09:41:01.304Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:41:05.306Z [INFO]: 📦 Database connected
+2025-06-08T09:41:05.310Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:41:07.308Z [INFO]: 📦 Database connected
+2025-06-08T09:41:07.312Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:41:09.693Z [INFO]: 📦 Database connected
+2025-06-08T09:41:09.696Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:41:13.045Z [INFO]: 📦 Database connected
+2025-06-08T09:41:13.048Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:41:18.618Z [INFO]: 📦 Database connected
+2025-06-08T09:41:18.622Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:41:19.705Z [INFO]: 📦 Database connected
+2025-06-08T09:41:19.710Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:41:32.503Z [INFO]: 📦 Database connected
+2025-06-08T09:41:32.506Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T09:42:46.977Z [INFO]: 📦 Database connected
+2025-06-08T09:42:46.980Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:01.046Z [INFO]: 📦 Database connected
+2025-06-08T10:00:01.049Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:04.568Z [INFO]: 📦 Database connected
+2025-06-08T10:00:04.572Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:07.462Z [INFO]: 📦 Database connected
+2025-06-08T10:00:07.465Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:11.440Z [INFO]: 📦 Database connected
+2025-06-08T10:00:11.443Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:15.444Z [INFO]: 📦 Database connected
+2025-06-08T10:00:15.447Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:17.666Z [INFO]: 📦 Database connected
+2025-06-08T10:00:17.669Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:21.682Z [INFO]: 📦 Database connected
+2025-06-08T10:00:21.686Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:28.065Z [INFO]: 📦 Database connected
+2025-06-08T10:00:28.070Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:31.401Z [INFO]: 📦 Database connected
+2025-06-08T10:00:31.405Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:32.587Z [INFO]: 📦 Database connected
+2025-06-08T10:00:32.590Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:33.643Z [INFO]: 📦 Database connected
+2025-06-08T10:00:33.646Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:36.738Z [INFO]: 📦 Database connected
+2025-06-08T10:00:36.742Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:44.810Z [INFO]: 📦 Database connected
+2025-06-08T10:00:44.815Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:49.123Z [INFO]: 📦 Database connected
+2025-06-08T10:00:49.126Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:51.476Z [INFO]: 📦 Database connected
+2025-06-08T10:00:51.479Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:53.324Z [INFO]: 📦 Database connected
+2025-06-08T10:00:53.327Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:56.585Z [INFO]: 📦 Database connected
+2025-06-08T10:00:56.588Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:00:59.954Z [INFO]: 📦 Database connected
+2025-06-08T10:00:59.957Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:01:02.096Z [INFO]: 📦 Database connected
+2025-06-08T10:01:02.100Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:01:04.320Z [INFO]: 📦 Database connected
+2025-06-08T10:01:04.325Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:01:06.493Z [INFO]: 📦 Database connected
+2025-06-08T10:01:06.496Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:01:12.162Z [INFO]: 📦 Database connected
+2025-06-08T10:01:12.167Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:01:14.474Z [INFO]: 📦 Database connected
+2025-06-08T10:01:14.479Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:01:33.321Z [INFO]: 📦 Database connected
+2025-06-08T10:01:33.324Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:04:21.051Z [INFO]: 📦 Database connected
+2025-06-08T10:04:21.055Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:04:25.337Z [INFO]: 📦 Database connected
+2025-06-08T10:04:25.341Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:04:34.613Z [INFO]: 📦 Database connected
+2025-06-08T10:04:34.617Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:04:39.552Z [INFO]: 📦 Database connected
+2025-06-08T10:04:39.555Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:05:45.584Z [INFO]: 📦 Database connected
+2025-06-08T10:05:45.589Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:05:49.539Z [INFO]: 📦 Database connected
+2025-06-08T10:05:49.542Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:05:50.983Z [INFO]: 📦 Database connected
+2025-06-08T10:05:50.986Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:05:53.838Z [INFO]: 📦 Database connected
+2025-06-08T10:05:53.841Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:05:54.839Z [INFO]: 📦 Database connected
+2025-06-08T10:05:54.843Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:06:23.055Z [INFO]: 📦 Database connected
+2025-06-08T10:06:23.059Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:06:34.558Z [INFO]: 📦 Database connected
+2025-06-08T10:06:34.563Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:07:48.385Z [INFO]: 📦 Database connected
+2025-06-08T10:07:48.390Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:09:28.222Z [INFO]: 📦 Database connected
+2025-06-08T10:09:28.226Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:09:34.655Z [INFO]: 📦 Database connected
+2025-06-08T10:09:34.658Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:11:21.471Z [INFO]: 📦 Database connected
+2025-06-08T10:11:21.475Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:11:33.318Z [INFO]: 📦 Database connected
+2025-06-08T10:11:33.321Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:12:37.807Z [INFO]: 📦 Database connected
+2025-06-08T10:12:37.810Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:12:43.868Z [INFO]: 📦 Database connected
+2025-06-08T10:12:43.874Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:12:45.389Z [INFO]: 📦 Database connected
+2025-06-08T10:12:45.392Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:12:46.646Z [INFO]: 📦 Database connected
+2025-06-08T10:12:46.649Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:13:02.537Z [INFO]: 📦 Database connected
+2025-06-08T10:13:02.540Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:13:30.888Z [INFO]: 📦 Database connected
+2025-06-08T10:13:30.891Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:13:32.175Z [INFO]: 📦 Database connected
+2025-06-08T10:13:32.178Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:16:02.969Z [INFO]: 📦 Database connected
+2025-06-08T10:16:02.973Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:16:11.733Z [INFO]: 📦 Database connected
+2025-06-08T10:16:11.737Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:19:25.721Z [INFO]: 📦 Database connected
+2025-06-08T10:19:25.724Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:19:35.822Z [INFO]: 📦 Database connected
+2025-06-08T10:19:35.827Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:20:42.411Z [INFO]: 📦 Database connected
+2025-06-08T10:20:42.414Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:21:33.716Z [INFO]: 📦 Database connected
+2025-06-08T10:21:33.719Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:21:36.039Z [INFO]: [2025-06-08T10:21:36.038Z] GET /api/modes - ::ffff:127.0.0.1 - Modes fetched successfully
+2025-06-08T10:21:45.275Z [INFO]: 📦 Database connected
+2025-06-08T10:21:45.279Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:21:47.220Z [INFO]: [2025-06-08T10:21:47.220Z] GET /api/modes - ::ffff:127.0.0.1 - Modes fetched successfully
+2025-06-08T10:22:16.086Z [INFO]: 📦 Database connected
+2025-06-08T10:22:16.090Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:22:26.957Z [INFO]: 📦 Database connected
+2025-06-08T10:22:26.960Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:22:31.277Z [INFO]: 📦 Database connected
+2025-06-08T10:22:31.281Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:22:34.641Z [INFO]: 📦 Database connected
+2025-06-08T10:22:34.645Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:22:37.288Z [INFO]: 📦 Database connected
+2025-06-08T10:22:37.291Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:22:42.379Z [INFO]: 📦 Database connected
+2025-06-08T10:22:42.383Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:22:48.250Z [INFO]: 📦 Database connected
+2025-06-08T10:22:48.254Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:22:50.082Z [INFO]: [2025-06-08T10:22:50.081Z] GET /get-modes - ::ffff:127.0.0.1 - Modes fetched successfully
+2025-06-08T10:24:59.004Z [INFO]: 📦 Database connected
+2025-06-08T10:24:59.008Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:25:00.257Z [INFO]: [2025-06-08T10:25:00.256Z] GET /api/v1/admin/get-modes - ::ffff:127.0.0.1 - Modes fetched successfully
+2025-06-08T10:26:42.189Z [INFO]: 📦 Database connected
+2025-06-08T10:26:42.192Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:26:54.187Z [INFO]: 📦 Database connected
+2025-06-08T10:26:54.190Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:27:12.825Z [INFO]: 📦 Database connected
+2025-06-08T10:27:12.828Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:27:16.351Z [INFO]: 📦 Database connected
+2025-06-08T10:27:16.354Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:27:24.299Z [INFO]: 📦 Database connected
+2025-06-08T10:27:24.302Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:27:28.388Z [INFO]: 📦 Database connected
+2025-06-08T10:27:28.391Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:27:49.973Z [INFO]: 📦 Database connected
+2025-06-08T10:27:49.976Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:27:53.867Z [INFO]: 📦 Database connected
+2025-06-08T10:27:53.870Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:27:58.812Z [INFO]: 📦 Database connected
+2025-06-08T10:27:58.815Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:28:19.061Z [INFO]: 📦 Database connected
+2025-06-08T10:28:19.065Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:28:21.573Z [INFO]: 📦 Database connected
+2025-06-08T10:28:21.576Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:28:23.146Z [INFO]: 📦 Database connected
+2025-06-08T10:28:23.149Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:29:26.685Z [INFO]: 📦 Database connected
+2025-06-08T10:29:26.688Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:29:35.029Z [INFO]: 📦 Database connected
+2025-06-08T10:29:35.033Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:29:40.519Z [INFO]: 📦 Database connected
+2025-06-08T10:29:40.523Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:29:51.093Z [INFO]: 📦 Database connected
+2025-06-08T10:29:51.096Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:29:53.713Z [INFO]: 📦 Database connected
+2025-06-08T10:29:53.717Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:29:57.725Z [INFO]: 📦 Database connected
+2025-06-08T10:29:57.729Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:29:59.417Z [INFO]: 📦 Database connected
+2025-06-08T10:29:59.422Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:05.821Z [INFO]: 📦 Database connected
+2025-06-08T10:30:05.824Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:12.274Z [INFO]: 📦 Database connected
+2025-06-08T10:30:12.278Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:23.829Z [INFO]: 📦 Database connected
+2025-06-08T10:30:23.832Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:27.233Z [INFO]: 📦 Database connected
+2025-06-08T10:30:27.237Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:34.080Z [INFO]: 📦 Database connected
+2025-06-08T10:30:34.083Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:37.394Z [INFO]: 📦 Database connected
+2025-06-08T10:30:37.398Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:41.141Z [INFO]: 📦 Database connected
+2025-06-08T10:30:41.144Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:43.615Z [INFO]: 📦 Database connected
+2025-06-08T10:30:43.618Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:45.381Z [INFO]: 📦 Database connected
+2025-06-08T10:30:45.384Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:30:53.178Z [INFO]: 📦 Database connected
+2025-06-08T10:30:53.181Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:31:20.703Z [INFO]: 📦 Database connected
+2025-06-08T10:31:20.708Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:31:24.911Z [INFO]: 📦 Database connected
+2025-06-08T10:31:24.914Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:31:27.706Z [INFO]: 📦 Database connected
+2025-06-08T10:31:27.709Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:31:30.241Z [INFO]: 📦 Database connected
+2025-06-08T10:31:30.244Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:31:37.946Z [INFO]: 📦 Database connected
+2025-06-08T10:31:37.949Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:31:50.373Z [INFO]: [2025-06-08T10:31:50.372Z] GET /api/v1/admin/get-modes - ::ffff:127.0.0.1 - Modes fetched successfully
+2025-06-08T10:32:08.286Z [INFO]: [2025-06-08T10:32:08.285Z] GET /api/v1/user/modes/get-modes - ::ffff:127.0.0.1 - Modes fetched successfully
+2025-06-08T10:32:59.751Z [INFO]: 📦 Database connected
+2025-06-08T10:32:59.755Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:33:01.669Z [INFO]: [2025-06-08T10:33:01.668Z] GET /api/v1/user/categories/get-categories - ::ffff:127.0.0.1 - Modes fetched successfully
+2025-06-08T10:34:48.684Z [INFO]: 📦 Database connected
+2025-06-08T10:34:48.687Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:34:52.684Z [INFO]: 📦 Database connected
+2025-06-08T10:34:52.688Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:34:53.944Z [INFO]: 📦 Database connected
+2025-06-08T10:34:53.947Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:34:56.189Z [INFO]: 📦 Database connected
+2025-06-08T10:34:56.192Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:34:58.982Z [INFO]: 📦 Database connected
+2025-06-08T10:34:58.986Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:35:00.693Z [INFO]: [2025-06-08T10:35:00.693Z] GET /api/v1/user/categories/get-categories - ::ffff:127.0.0.1 - Categories fetched successfully
+2025-06-08T10:37:33.876Z [INFO]: 📦 Database connected
+2025-06-08T10:37:33.879Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:37:44.920Z [INFO]: 📦 Database connected
+2025-06-08T10:37:44.924Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:37:52.660Z [INFO]: 📦 Database connected
+2025-06-08T10:37:52.664Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:37:57.325Z [INFO]: 📦 Database connected
+2025-06-08T10:37:57.328Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:00.163Z [INFO]: 📦 Database connected
+2025-06-08T10:38:00.166Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:02.338Z [INFO]: 📦 Database connected
+2025-06-08T10:38:02.342Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:03.605Z [INFO]: 📦 Database connected
+2025-06-08T10:38:03.608Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:09.703Z [INFO]: 📦 Database connected
+2025-06-08T10:38:09.706Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:13.478Z [INFO]: 📦 Database connected
+2025-06-08T10:38:13.481Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:38.181Z [INFO]: 📦 Database connected
+2025-06-08T10:38:38.185Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:40.999Z [INFO]: 📦 Database connected
+2025-06-08T10:38:41.003Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:43.948Z [INFO]: 📦 Database connected
+2025-06-08T10:38:43.951Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:45.470Z [INFO]: 📦 Database connected
+2025-06-08T10:38:45.474Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:49.613Z [INFO]: 📦 Database connected
+2025-06-08T10:38:49.616Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:51.271Z [INFO]: 📦 Database connected
+2025-06-08T10:38:51.274Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:53.624Z [INFO]: 📦 Database connected
+2025-06-08T10:38:53.628Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:57.014Z [INFO]: 📦 Database connected
+2025-06-08T10:38:57.018Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:38:58.092Z [INFO]: 📦 Database connected
+2025-06-08T10:38:58.095Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:39:01.667Z [INFO]: 📦 Database connected
+2025-06-08T10:39:01.670Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:39:05.820Z [INFO]: 📦 Database connected
+2025-06-08T10:39:05.825Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:42:01.723Z [INFO]: 📦 Database connected
+2025-06-08T10:42:01.727Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:42:12.705Z [INFO]: 📦 Database connected
+2025-06-08T10:42:12.709Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:42:14.840Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:42:14.837Z [INFO]: 📦 Database connected
+2025-06-08T10:42:17.614Z [INFO]: 📦 Database connected
+2025-06-08T10:42:17.618Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:42:22.705Z [INFO]: 📦 Database connected
+2025-06-08T10:42:22.708Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:43:56.130Z [INFO]: 📦 Database connected
+2025-06-08T10:43:56.135Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:43:57.577Z [INFO]: 📦 Database connected
+2025-06-08T10:43:57.580Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:44:25.510Z [INFO]: 📦 Database connected
+2025-06-08T10:44:25.514Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:44:28.145Z [INFO]: 📦 Database connected
+2025-06-08T10:44:28.149Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:44:30.783Z [INFO]: 📦 Database connected
+2025-06-08T10:44:30.786Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:44:35.973Z [INFO]: 📦 Database connected
+2025-06-08T10:44:35.976Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:45:05.370Z [INFO]: 📦 Database connected
+2025-06-08T10:45:05.373Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:45:14.536Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:45:14.533Z [INFO]: 📦 Database connected
+2025-06-08T10:45:24.547Z [INFO]: 📦 Database connected
+2025-06-08T10:45:24.550Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:45:26.468Z [INFO]: 📦 Database connected
+2025-06-08T10:45:26.473Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:45:30.509Z [INFO]: 📦 Database connected
+2025-06-08T10:45:30.512Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:45:36.612Z [INFO]: 📦 Database connected
+2025-06-08T10:45:36.615Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:45:39.667Z [INFO]: 📦 Database connected
+2025-06-08T10:45:39.670Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:45:44.788Z [INFO]: 📦 Database connected
+2025-06-08T10:45:44.792Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:45:56.493Z [INFO]: 📦 Database connected
+2025-06-08T10:45:56.496Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:46:01.531Z [INFO]: 📦 Database connected
+2025-06-08T10:46:01.534Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:46:02.682Z [INFO]: 📦 Database connected
+2025-06-08T10:46:02.686Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:46:20.344Z [INFO]: 📦 Database connected
+2025-06-08T10:46:20.347Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:46:26.162Z [INFO]: 📦 Database connected
+2025-06-08T10:46:26.165Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:48:28.902Z [INFO]: 📦 Database connected
+2025-06-08T10:48:28.907Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:50:01.192Z [INFO]: 📦 Database connected
+2025-06-08T10:50:01.196Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:50:11.922Z [INFO]: 📦 Database connected
+2025-06-08T10:50:11.925Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:50:51.578Z [INFO]: 📦 Database connected
+2025-06-08T10:50:51.583Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:50:55.342Z [INFO]: 📦 Database connected
+2025-06-08T10:50:55.345Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:51:04.177Z [INFO]: 📦 Database connected
+2025-06-08T10:51:04.181Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:51:31.246Z [INFO]: 📦 Database connected
+2025-06-08T10:51:31.250Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:51:38.984Z [INFO]: 📦 Database connected
+2025-06-08T10:51:38.987Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:52:34.210Z [INFO]: 📦 Database connected
+2025-06-08T10:52:34.215Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:52:39.203Z [INFO]: 📦 Database connected
+2025-06-08T10:52:39.207Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:52:42.400Z [INFO]: 📦 Database connected
+2025-06-08T10:52:42.403Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:52:50.219Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:52:50.216Z [INFO]: 📦 Database connected
+2025-06-08T10:53:25.150Z [INFO]: 📦 Database connected
+2025-06-08T10:53:25.153Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:53:36.993Z [INFO]: 📦 Database connected
+2025-06-08T10:53:36.996Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:53:42.465Z [INFO]: 📦 Database connected
+2025-06-08T10:53:42.468Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:53:53.847Z [INFO]: 📦 Database connected
+2025-06-08T10:53:53.850Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:54:05.916Z [INFO]: 📦 Database connected
+2025-06-08T10:54:05.919Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:54:10.387Z [INFO]: 📦 Database connected
+2025-06-08T10:54:10.390Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:54:11.810Z [INFO]: 📦 Database connected
+2025-06-08T10:54:11.813Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:54:13.392Z [INFO]: 📦 Database connected
+2025-06-08T10:54:13.395Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:54:15.245Z [INFO]: 📦 Database connected
+2025-06-08T10:54:15.248Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:54:21.083Z [INFO]: 📦 Database connected
+2025-06-08T10:54:21.087Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:54:24.399Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:54:24.395Z [INFO]: 📦 Database connected
+2025-06-08T10:57:01.448Z [INFO]: 📦 Database connected
+2025-06-08T10:57:01.452Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:57:15.671Z [INFO]: 📦 Database connected
+2025-06-08T10:57:15.674Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T10:58:58.357Z [INFO]: 📦 Database connected
+2025-06-08T10:58:58.360Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:00:05.724Z [INFO]: 📦 Database connected
+2025-06-08T11:00:05.727Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:00:09.655Z [INFO]: 📦 Database connected
+2025-06-08T11:00:09.658Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:02:00.781Z [INFO]: 📦 Database connected
+2025-06-08T11:02:00.784Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:05:43.655Z [INFO]: 📦 Database connected
+2025-06-08T11:05:43.659Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:05:47.831Z [INFO]: 📦 Database connected
+2025-06-08T11:05:47.835Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:05:51.596Z [INFO]: 📦 Database connected
+2025-06-08T11:05:51.599Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:06:25.370Z [INFO]: 📦 Database connected
+2025-06-08T11:06:25.374Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:06:27.384Z [INFO]: 📦 Database connected
+2025-06-08T11:06:27.388Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:06:28.741Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:06:28.738Z [INFO]: 📦 Database connected
+2025-06-08T11:06:34.748Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:06:34.744Z [INFO]: 📦 Database connected
+2025-06-08T11:06:38.115Z [INFO]: 📦 Database connected
+2025-06-08T11:06:38.118Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:06:42.630Z [INFO]: 📦 Database connected
+2025-06-08T11:06:42.633Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:06:45.333Z [INFO]: 📦 Database connected
+2025-06-08T11:06:45.337Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:06:46.695Z [INFO]: 📦 Database connected
+2025-06-08T11:06:46.698Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:06:50.767Z [INFO]: 📦 Database connected
+2025-06-08T11:06:50.770Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:07:15.198Z [INFO]: 📦 Database connected
+2025-06-08T11:07:15.201Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:07:22.699Z [INFO]: 📦 Database connected
+2025-06-08T11:07:22.702Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:07:26.194Z [INFO]: 📦 Database connected
+2025-06-08T11:07:26.198Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:11:30.594Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:11:30.591Z [INFO]: 📦 Database connected
+2025-06-08T11:11:39.531Z [INFO]: 📦 Database connected
+2025-06-08T11:11:39.534Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:11:42.748Z [INFO]: 📦 Database connected
+2025-06-08T11:11:42.752Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:11:47.839Z [INFO]: 📦 Database connected
+2025-06-08T11:11:47.842Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:11:53.927Z [INFO]: 📦 Database connected
+2025-06-08T11:11:53.931Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:13:02.589Z [INFO]: 📦 Database connected
+2025-06-08T11:13:02.593Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:13:06.628Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:13:06.624Z [INFO]: 📦 Database connected
+2025-06-08T11:13:11.708Z [INFO]: 📦 Database connected
+2025-06-08T11:13:11.712Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:13:13.179Z [INFO]: 📦 Database connected
+2025-06-08T11:13:13.183Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:15:57.601Z [INFO]: 📦 Database connected
+2025-06-08T11:15:57.605Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:16:06.645Z [INFO]: 📦 Database connected
+2025-06-08T11:16:06.648Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:16:13.302Z [INFO]: 📦 Database connected
+2025-06-08T11:16:13.305Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:16:18.055Z [INFO]: 📦 Database connected
+2025-06-08T11:16:18.058Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:16:23.562Z [INFO]: 📦 Database connected
+2025-06-08T11:16:23.565Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:16:27.793Z [INFO]: 📦 Database connected
+2025-06-08T11:16:27.796Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:17:21.471Z [INFO]: 📦 Database connected
+2025-06-08T11:17:21.476Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:17:28.506Z [INFO]: 📦 Database connected
+2025-06-08T11:17:28.509Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:19:15.188Z [INFO]: 📦 Database connected
+2025-06-08T11:19:15.191Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:19:19.307Z [INFO]: 📦 Database connected
+2025-06-08T11:19:19.310Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:32:24.640Z [INFO]: 📦 Database connected
+2025-06-08T11:32:24.643Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:32:37.573Z [INFO]: 📦 Database connected
+2025-06-08T11:32:37.576Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:33:06.207Z [INFO]: 📦 Database connected
+2025-06-08T11:33:06.211Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:33:23.108Z [INFO]: 📦 Database connected
+2025-06-08T11:33:23.111Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:33:28.338Z [INFO]: 📦 Database connected
+2025-06-08T11:33:28.341Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:33:29.501Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:33:29.497Z [INFO]: 📦 Database connected
+2025-06-08T11:33:31.568Z [INFO]: 📦 Database connected
+2025-06-08T11:33:31.571Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:34:26.530Z [INFO]: 📦 Database connected
+2025-06-08T11:34:26.533Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:34:28.902Z [INFO]: 📦 Database connected
+2025-06-08T11:34:28.905Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:34:31.580Z [INFO]: 📦 Database connected
+2025-06-08T11:34:31.583Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:34:43.957Z [INFO]: 📦 Database connected
+2025-06-08T11:34:43.960Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:34:50.351Z [INFO]: 📦 Database connected
+2025-06-08T11:34:50.355Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:02.924Z [INFO]: 📦 Database connected
+2025-06-08T11:35:02.927Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:04.263Z [INFO]: 📦 Database connected
+2025-06-08T11:35:04.267Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:09.991Z [INFO]: 📦 Database connected
+2025-06-08T11:35:09.994Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:15.490Z [INFO]: 📦 Database connected
+2025-06-08T11:35:15.494Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:26.873Z [INFO]: 📦 Database connected
+2025-06-08T11:35:26.876Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:28.948Z [INFO]: 📦 Database connected
+2025-06-08T11:35:28.952Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:34.310Z [INFO]: 📦 Database connected
+2025-06-08T11:35:34.313Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:37.491Z [INFO]: 📦 Database connected
+2025-06-08T11:35:37.494Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:38.701Z [INFO]: 📦 Database connected
+2025-06-08T11:35:38.705Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:35:53.106Z [INFO]: 📦 Database connected
+2025-06-08T11:35:53.111Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:36:36.271Z [INFO]: 📦 Database connected
+2025-06-08T11:36:36.274Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:37:24.091Z [INFO]: 📦 Database connected
+2025-06-08T11:37:24.095Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:37:25.320Z [INFO]: 📦 Database connected
+2025-06-08T11:37:25.323Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:37:33.495Z [INFO]: 📦 Database connected
+2025-06-08T11:37:33.499Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:37:40.277Z [INFO]: 📦 Database connected
+2025-06-08T11:37:40.281Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:37:46.610Z [INFO]: 📦 Database connected
+2025-06-08T11:37:46.614Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:37:53.304Z [INFO]: 📦 Database connected
+2025-06-08T11:37:53.307Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:38:13.834Z [INFO]: 📦 Database connected
+2025-06-08T11:38:13.838Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:38:15.275Z [INFO]: 📦 Database connected
+2025-06-08T11:38:15.278Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:38:21.466Z [INFO]: 📦 Database connected
+2025-06-08T11:38:21.469Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:38:26.499Z [INFO]: 📦 Database connected
+2025-06-08T11:38:26.502Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:38:32.037Z [INFO]: 📦 Database connected
+2025-06-08T11:38:32.040Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:38:42.572Z [INFO]: 📦 Database connected
+2025-06-08T11:38:42.576Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:38:43.824Z [INFO]: 📦 Database connected
+2025-06-08T11:38:43.827Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:38:53.082Z [INFO]: 📦 Database connected
+2025-06-08T11:38:53.085Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:38:58.233Z [INFO]: 📦 Database connected
+2025-06-08T11:38:58.237Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:42:50.289Z [INFO]: 📦 Database connected
+2025-06-08T11:42:50.292Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:43:34.466Z [INFO]: 📦 Database connected
+2025-06-08T11:43:34.470Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:44:49.277Z [INFO]: 📦 Database connected
+2025-06-08T11:44:49.280Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:44:58.851Z [INFO]: 📦 Database connected
+2025-06-08T11:44:58.854Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:45:42.123Z [INFO]: 📦 Database connected
+2025-06-08T11:45:42.127Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:45:45.753Z [INFO]: 📦 Database connected
+2025-06-08T11:45:45.757Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:46:27.968Z [INFO]: 📦 Database connected
+2025-06-08T11:46:27.971Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:46:36.298Z [INFO]: 📦 Database connected
+2025-06-08T11:46:36.302Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:46:38.325Z [INFO]: 📦 Database connected
+2025-06-08T11:46:38.328Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:46:43.467Z [INFO]: 📦 Database connected
+2025-06-08T11:46:43.471Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:46:48.639Z [INFO]: 📦 Database connected
+2025-06-08T11:46:48.643Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:46:51.361Z [INFO]: 📦 Database connected
+2025-06-08T11:46:51.364Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:47:06.645Z [INFO]: 📦 Database connected
+2025-06-08T11:47:06.650Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:47:41.873Z [INFO]: 📦 Database connected
+2025-06-08T11:47:41.876Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:47:46.676Z [INFO]: 📦 Database connected
+2025-06-08T11:47:46.680Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:47:49.371Z [INFO]: 📦 Database connected
+2025-06-08T11:47:49.374Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:47:53.592Z [INFO]: 📦 Database connected
+2025-06-08T11:47:53.596Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:47:59.140Z [INFO]: 📦 Database connected
+2025-06-08T11:47:59.143Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:48:06.266Z [INFO]: 📦 Database connected
+2025-06-08T11:48:06.271Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:48:23.049Z [INFO]: 📦 Database connected
+2025-06-08T11:48:23.054Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:48:26.345Z [INFO]: 📦 Database connected
+2025-06-08T11:48:26.349Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:48:29.509Z [INFO]: 📦 Database connected
+2025-06-08T11:48:29.514Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:48:31.077Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:48:31.073Z [INFO]: 📦 Database connected
+2025-06-08T11:48:48.982Z [INFO]: 📦 Database connected
+2025-06-08T11:48:48.985Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:48:50.567Z [INFO]: 📦 Database connected
+2025-06-08T11:48:50.571Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:02.673Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:02.670Z [INFO]: 📦 Database connected
+2025-06-08T11:49:16.504Z [INFO]: 📦 Database connected
+2025-06-08T11:49:16.507Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:18.853Z [INFO]: 📦 Database connected
+2025-06-08T11:49:18.856Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:22.336Z [INFO]: 📦 Database connected
+2025-06-08T11:49:22.339Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:24.823Z [INFO]: 📦 Database connected
+2025-06-08T11:49:24.826Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:27.066Z [INFO]: 📦 Database connected
+2025-06-08T11:49:27.069Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:31.877Z [INFO]: 📦 Database connected
+2025-06-08T11:49:31.880Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:38.099Z [INFO]: 📦 Database connected
+2025-06-08T11:49:38.104Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:42.480Z [INFO]: 📦 Database connected
+2025-06-08T11:49:42.484Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:52.098Z [INFO]: 📦 Database connected
+2025-06-08T11:49:52.101Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:49:57.346Z [INFO]: 📦 Database connected
+2025-06-08T11:49:57.350Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:50:06.715Z [INFO]: 📦 Database connected
+2025-06-08T11:50:06.720Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:50:30.568Z [INFO]: 📦 Database connected
+2025-06-08T11:50:30.571Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:50:32.875Z [INFO]: 📦 Database connected
+2025-06-08T11:50:32.879Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:50:51.872Z [INFO]: 📦 Database connected
+2025-06-08T11:50:51.876Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:50:54.301Z [INFO]: 📦 Database connected
+2025-06-08T11:50:54.305Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:50:55.663Z [INFO]: 📦 Database connected
+2025-06-08T11:50:55.666Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:50:56.932Z [INFO]: 📦 Database connected
+2025-06-08T11:50:56.936Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:51:03.121Z [INFO]: 📦 Database connected
+2025-06-08T11:51:03.125Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:51:04.722Z [INFO]: 📦 Database connected
+2025-06-08T11:51:04.725Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:51:07.588Z [INFO]: 📦 Database connected
+2025-06-08T11:51:07.592Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:51:08.904Z [INFO]: 📦 Database connected
+2025-06-08T11:51:08.907Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:51:11.716Z [INFO]: 📦 Database connected
+2025-06-08T11:51:11.720Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:51:22.929Z [INFO]: 📦 Database connected
+2025-06-08T11:51:22.932Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:51:45.386Z [INFO]: 📦 Database connected
+2025-06-08T11:51:45.390Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:51:52.762Z [INFO]: 📦 Database connected
+2025-06-08T11:51:52.766Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:51:59.157Z [INFO]: 📦 Database connected
+2025-06-08T11:51:59.160Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:52:17.969Z [INFO]: 📦 Database connected
+2025-06-08T11:52:17.972Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:53:24.277Z [INFO]: 📦 Database connected
+2025-06-08T11:53:24.280Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:53:29.095Z [INFO]: 📦 Database connected
+2025-06-08T11:53:29.099Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:53:32.090Z [INFO]: 📦 Database connected
+2025-06-08T11:53:32.094Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:53:36.690Z [INFO]: 📦 Database connected
+2025-06-08T11:53:36.693Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:53:42.494Z [INFO]: 📦 Database connected
+2025-06-08T11:53:42.498Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:53:46.801Z [INFO]: 📦 Database connected
+2025-06-08T11:53:46.805Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:53:54.482Z [INFO]: 📦 Database connected
+2025-06-08T11:53:54.485Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:54:00.402Z [INFO]: 📦 Database connected
+2025-06-08T11:54:00.405Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:54:04.283Z [ERROR]: [2025-06-08T11:54:04.283Z] POST /api/v1/user/login - ::ffff:127.0.0.1 - User not found
+2025-06-08T11:54:08.998Z [ERROR]: [2025-06-08T11:54:08.998Z] POST /api/v1/user/login - ::ffff:127.0.0.1 - User not found
+2025-06-08T11:54:27.322Z [ERROR]: [2025-06-08T11:54:27.322Z] POST undefined - undefined - Something went wrong
+2025-06-08T11:54:53.217Z [INFO]: 📦 Database connected
+2025-06-08T11:54:53.221Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:54:57.874Z [INFO]: 📦 Database connected
+2025-06-08T11:54:57.879Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:55:04.277Z [INFO]: 📦 Database connected
+2025-06-08T11:55:04.281Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:55:08.120Z [ERROR]: [2025-06-08T11:55:08.119Z] POST /api/v1/user/sign-up - ::ffff:127.0.0.1 - All required fields must be provided
+2025-06-08T11:56:11.222Z [INFO]: [2025-06-08T11:56:11.222Z] POST /api/v1/user/sign-up - ::ffff:127.0.0.1 - User created successfully
+2025-06-08T11:56:11.223Z [INFO]: [2025-06-08T11:56:11.223Z] POST /api/v1/user/sign-up - ::ffff:127.0.0.1 - User prabhat@example.com created
+2025-06-08T11:58:59.540Z [INFO]: 📦 Database connected
+2025-06-08T11:58:59.543Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:59:02.279Z [INFO]: 📦 Database connected
+2025-06-08T11:59:02.282Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:59:03.428Z [INFO]: 📦 Database connected
+2025-06-08T11:59:03.431Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:59:26.855Z [INFO]: 📦 Database connected
+2025-06-08T11:59:26.858Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:59:30.023Z [INFO]: 📦 Database connected
+2025-06-08T11:59:30.027Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-08T11:59:32.991Z [ERROR]: [2025-06-08T11:59:32.991Z] POST /api/v1/user/login - ::ffff:127.0.0.1 - Cannot destructure property 'mobile' of 'req.body' as it is undefined.
+2025-06-08T12:00:26.896Z [INFO]: [2025-06-08T12:00:26.895Z] POST /api/v1/user/login - ::ffff:127.0.0.1 - Login successful
+2025-06-08T12:00:26.894Z [INFO]: [2025-06-08T12:00:26.894Z] POST /api/v1/user/login - ::ffff:127.0.0.1 - Login successful
+2025-06-08T13:42:34.647Z [INFO]: [2025-06-08T13:42:34.647Z] POST /api/v1/user/sign-up - ::1 - User created successfully
+2025-06-08T13:42:34.650Z [INFO]: [2025-06-08T13:42:34.649Z] POST /api/v1/user/sign-up - ::1 - User prabhat9468@gmail.com created
+2025-06-08T13:54:07.703Z [ERROR]: [2025-06-08T13:54:07.702Z] POST /api/v1/user/login - ::1 - User not found
+2025-06-08T13:54:13.017Z [ERROR]: [2025-06-08T13:54:13.016Z] POST /api/v1/user/login - ::1 - User not found
+2025-06-08T13:55:33.724Z [INFO]: [2025-06-08T13:55:33.723Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T13:55:33.725Z [INFO]: [2025-06-08T13:55:33.725Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:07:24.395Z [INFO]: [2025-06-08T14:07:24.394Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:07:24.396Z [INFO]: [2025-06-08T14:07:24.395Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:27:34.011Z [INFO]: [2025-06-08T14:27:34.010Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:27:34.012Z [INFO]: [2025-06-08T14:27:34.012Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:41:44.160Z [INFO]: [2025-06-08T14:41:44.160Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:41:44.161Z [INFO]: [2025-06-08T14:41:44.161Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:44:21.544Z [INFO]: [2025-06-08T14:44:21.544Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:44:21.545Z [INFO]: [2025-06-08T14:44:21.545Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:44:51.307Z [INFO]: [2025-06-08T14:44:51.307Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:44:51.308Z [INFO]: [2025-06-08T14:44:51.308Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:45:38.398Z [INFO]: [2025-06-08T14:45:38.398Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:45:38.399Z [INFO]: [2025-06-08T14:45:38.399Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:46:48.566Z [INFO]: [2025-06-08T14:46:48.566Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:46:48.567Z [INFO]: [2025-06-08T14:46:48.567Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:47:56.002Z [INFO]: [2025-06-08T14:47:56.002Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:47:56.003Z [INFO]: [2025-06-08T14:47:56.003Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:48:27.828Z [INFO]: [2025-06-08T14:48:27.828Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:48:27.829Z [INFO]: [2025-06-08T14:48:27.829Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:49:49.951Z [INFO]: [2025-06-08T14:49:49.951Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:49:49.952Z [INFO]: [2025-06-08T14:49:49.952Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:52:24.297Z [INFO]: [2025-06-08T14:52:24.297Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:52:24.298Z [INFO]: [2025-06-08T14:52:24.298Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:52:58.124Z [INFO]: [2025-06-08T14:52:58.124Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:52:58.125Z [INFO]: [2025-06-08T14:52:58.124Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:53:24.544Z [INFO]: [2025-06-08T14:53:24.543Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:53:24.544Z [INFO]: [2025-06-08T14:53:24.544Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:53:50.485Z [INFO]: [2025-06-08T14:53:50.485Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:53:50.486Z [INFO]: [2025-06-08T14:53:50.485Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:55:10.649Z [INFO]: [2025-06-08T14:55:10.649Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:55:10.650Z [INFO]: [2025-06-08T14:55:10.650Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:55:39.184Z [INFO]: [2025-06-08T14:55:39.183Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:55:39.186Z [INFO]: [2025-06-08T14:55:39.185Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:56:05.487Z [INFO]: [2025-06-08T14:56:05.486Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:56:05.488Z [INFO]: [2025-06-08T14:56:05.488Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:58:19.313Z [INFO]: [2025-06-08T14:58:19.312Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:58:19.313Z [INFO]: [2025-06-08T14:58:19.313Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:58:29.706Z [INFO]: [2025-06-08T14:58:29.706Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:58:29.707Z [INFO]: [2025-06-08T14:58:29.706Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:58:49.810Z [INFO]: [2025-06-08T14:58:49.810Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T14:58:49.811Z [INFO]: [2025-06-08T14:58:49.811Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:00:23.039Z [INFO]: [2025-06-08T15:00:23.039Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:00:23.040Z [INFO]: [2025-06-08T15:00:23.040Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:01:20.917Z [INFO]: [2025-06-08T15:01:20.917Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:01:20.916Z [INFO]: [2025-06-08T15:01:20.916Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:02:03.926Z [INFO]: [2025-06-08T15:02:03.925Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:02:03.927Z [INFO]: [2025-06-08T15:02:03.926Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:08:58.259Z [INFO]: [2025-06-08T15:08:58.259Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:08:58.260Z [INFO]: [2025-06-08T15:08:58.260Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:18:37.266Z [INFO]: [2025-06-08T15:18:37.265Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:18:37.267Z [INFO]: [2025-06-08T15:18:37.266Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:27.801Z [INFO]: [2025-06-08T15:20:27.801Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:27.802Z [INFO]: [2025-06-08T15:20:27.802Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:34.219Z [INFO]: [2025-06-08T15:20:34.218Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:34.220Z [INFO]: [2025-06-08T15:20:34.219Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:37.326Z [INFO]: [2025-06-08T15:20:37.325Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:37.327Z [INFO]: [2025-06-08T15:20:37.327Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:57.081Z [INFO]: [2025-06-08T15:20:57.081Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:57.082Z [INFO]: [2025-06-08T15:20:57.082Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:58.151Z [INFO]: [2025-06-08T15:20:58.151Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:58.151Z [INFO]: [2025-06-08T15:20:58.151Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:59.189Z [INFO]: [2025-06-08T15:20:59.189Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:59.190Z [INFO]: [2025-06-08T15:20:59.190Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:20:59.396Z [ERROR]: [2025-06-08T15:20:59.396Z] POST /api/v1/user/login - ::1 - Duplicate entry 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtb2JpbGUiOiIrOTE5NDY4NTg' for key 'user_sessions.IDX_ff5db00dec0f61218cd0d468df'
+2025-06-08T15:21:20.232Z [INFO]: [2025-06-08T15:21:20.232Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:21:20.233Z [INFO]: [2025-06-08T15:21:20.232Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:21:22.918Z [INFO]: [2025-06-08T15:21:22.917Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:21:22.919Z [INFO]: [2025-06-08T15:21:22.918Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:25:19.374Z [INFO]: [2025-06-08T15:25:19.373Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-08T15:25:19.375Z [INFO]: [2025-06-08T15:25:19.374Z] POST /api/v1/user/login - ::1 - Login successful

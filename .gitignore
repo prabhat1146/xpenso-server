@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# build
+dist/
+build/
+out/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# system files
+Thumbs.db
+
+# local db or cache
+.cache/
+*.sqlite
+
+# coverage and testing
+coverage/
+*.lcov
+jest-test-results.json
