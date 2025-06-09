@@ -10,7 +10,7 @@ const getCategoriesController = asyncHandler(async (req, res, next) => {
   const categories = await categoriesRepo.find();
   
 
-  ApiResponse.success(res,200,true, "Categories fetched successfully", categories);
+  ApiResponse.success(req,res,200,true, "Categories fetched successfully", categories);
   Logger.info(`[${new Date().toISOString()}] GET ${req?.originalUrl} - ${req.ip} - Categories fetched successfully`);
   return;
 

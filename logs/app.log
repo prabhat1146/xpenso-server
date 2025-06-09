@@ -892,3 +892,2536 @@
 💾 Database : db_aba303_xpenso
 👤 Username : aba303_xpenso
 2025-06-09T05:11:28.587Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:01:26.827Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T06:01:26.833Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:01:32.576Z [INFO]: [2025-06-09T06:01:32.575Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-09T06:01:32.578Z [INFO]: [2025-06-09T06:01:32.577Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-09T06:09:20.351Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T06:09:20.356Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:09:26.156Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:09:34.441Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:09:45.441Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:10:11.583Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:10:17.038Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:10:26.656Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T06:10:26.659Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:11:51.635Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T06:11:51.642Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:12:13.657Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:12:20.373Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:12:30.262Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:13:52.317Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:14:46.207Z [ERROR]: ❌ Failed to connect to DB:
+2025-06-09T06:15:23.085Z [ERROR]: ❌ Failed to connect to DB: Duplicate entry '' for key 'users.IDX_60375470f2677f1b872599b16e'
+2025-06-09T06:16:36.274Z [ERROR]: ❌ Failed to connect to DB: Duplicate entry '' for key 'users.IDX_60375470f2677f1b872599b16e'
+2025-06-09T06:16:49.920Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:16:49.924Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:21:00.380Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:21:00.384Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:21:04.157Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:21:04.161Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:21:25.923Z [ERROR]: ❌ Failed to connect to DB: Duplicate column name 'refresh_token'
+2025-06-09T06:21:30.397Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:21:30.400Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:22:28.408Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:22:28.412Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:22:33.534Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:22:33.537Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:23:32.872Z [ERROR]: [2025-06-09T06:23:32.871Z] POST /api/v1/user/login - ::1 - User not found
+2025-06-09T06:23:43.600Z [ERROR]: [2025-06-09T06:23:43.600Z] POST /api/v1/user/sign-up - ::1 - Field 'mobileOTP' doesn't have a default value
+2025-06-09T06:25:32.317Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:25:32.320Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:25:33.415Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:25:33.419Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:25:41.497Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:25:41.500Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:25:56.945Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:25:56.949Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:26:04.547Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:26:04.550Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:26:09.384Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:26:09.388Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:27:00.406Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:27:00.410Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:27:07.214Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:27:07.217Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:27:16.279Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:27:16.282Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:29:31.808Z [INFO]: [2025-06-09T06:29:31.807Z] POST /api/v1/user/sign-up - ::1 - User created successfully
+2025-06-09T06:29:31.810Z [INFO]: [2025-06-09T06:29:31.810Z] POST /api/v1/user/sign-up - ::1 - User prabhat9468@gmail.com created
+2025-06-09T06:29:46.421Z [ERROR]: [2025-06-09T06:29:46.421Z] POST /api/v1/user/login - ::1 - Field 'access_token' doesn't have a default value
+2025-06-09T06:31:45.383Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:31:45.387Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:31:55.405Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T06:31:55.408Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T06:33:28.597Z [INFO]: [2025-06-09T06:33:28.597Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-09T06:33:28.595Z [INFO]: [2025-06-09T06:33:28.595Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-09T07:05:00.727Z [INFO]: [2025-06-09T07:05:00.726Z] POST undefined - undefined - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2025-06-09T07:05:00.728Z [ERROR]: [2025-06-09T07:05:00.728Z] POST /api/v1/user/modes/get-modes - ::1 - res.status is not a function
+2025-06-09T07:05:47.398Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:05:47.402Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:05:50.903Z [INFO]: [2025-06-09T07:05:50.902Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:05:50.906Z [INFO]: [2025-06-09T07:05:50.906Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:07:35.170Z [INFO]: [2025-06-09T07:07:35.169Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:07:35.172Z [INFO]: [2025-06-09T07:07:35.171Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:07:35.177Z [INFO]: [2025-06-09T07:07:35.176Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:07:35.178Z [INFO]: [2025-06-09T07:07:35.178Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:12:32.076Z [INFO]: [2025-06-09T07:12:32.076Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:12:32.076Z [INFO]: [2025-06-09T07:12:32.075Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:03.191Z [INFO]: [2025-06-09T07:14:03.191Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:03.193Z [INFO]: [2025-06-09T07:14:03.192Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:03.196Z [INFO]: [2025-06-09T07:14:03.196Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:03.197Z [INFO]: [2025-06-09T07:14:03.196Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:06.158Z [INFO]: [2025-06-09T07:14:06.157Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:06.158Z [INFO]: [2025-06-09T07:14:06.158Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:06.162Z [INFO]: [2025-06-09T07:14:06.161Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:06.163Z [INFO]: [2025-06-09T07:14:06.163Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:15.182Z [INFO]: [2025-06-09T07:14:15.181Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:15.183Z [INFO]: [2025-06-09T07:14:15.183Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:15.187Z [INFO]: [2025-06-09T07:14:15.187Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:15.188Z [INFO]: [2025-06-09T07:14:15.187Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:23.169Z [INFO]: [2025-06-09T07:14:23.169Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:23.170Z [INFO]: [2025-06-09T07:14:23.170Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:23.174Z [INFO]: [2025-06-09T07:14:23.174Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:23.175Z [INFO]: [2025-06-09T07:14:23.174Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:28.931Z [INFO]: [2025-06-09T07:14:28.931Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:28.935Z [INFO]: [2025-06-09T07:14:28.933Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:28.943Z [INFO]: [2025-06-09T07:14:28.940Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:14:28.950Z [INFO]: [2025-06-09T07:14:28.944Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:15:11.171Z [INFO]: [2025-06-09T07:15:11.171Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:15:11.172Z [INFO]: [2025-06-09T07:15:11.172Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:15:11.176Z [INFO]: [2025-06-09T07:15:11.175Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:15:11.177Z [INFO]: [2025-06-09T07:15:11.176Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:20:04.407Z [INFO]: [2025-06-09T07:20:04.406Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:20:04.406Z [INFO]: [2025-06-09T07:20:04.405Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:20:04.413Z [INFO]: [2025-06-09T07:20:04.413Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:20:04.411Z [INFO]: [2025-06-09T07:20:04.410Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:22:33.294Z [INFO]: [2025-06-09T07:22:33.294Z] POST undefined - undefined - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2025-06-09T07:22:33.295Z [ERROR]: [2025-06-09T07:22:33.295Z] POST /api/v1/user/categories/get-categories - ::1 - res.status is not a function
+2025-06-09T07:22:55.540Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:22:55.579Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:22:55.657Z [INFO]: [2025-06-09T07:22:55.650Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:22:55.677Z [INFO]: [2025-06-09T07:22:55.674Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:24:35.068Z [INFO]: [2025-06-09T07:24:35.067Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:24:35.069Z [INFO]: [2025-06-09T07:24:35.069Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:24:42.198Z [INFO]: [2025-06-09T07:24:42.197Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:24:42.198Z [INFO]: [2025-06-09T07:24:42.198Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:24:42.202Z [INFO]: [2025-06-09T07:24:42.201Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:24:42.202Z [INFO]: [2025-06-09T07:24:42.202Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:26:18.534Z [INFO]: [2025-06-09T07:26:18.534Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:26:18.548Z [INFO]: [2025-06-09T07:26:18.535Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:26:18.554Z [INFO]: [2025-06-09T07:26:18.554Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:26:18.555Z [INFO]: [2025-06-09T07:26:18.555Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:26:18.561Z [INFO]: [2025-06-09T07:26:18.560Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:26:18.562Z [INFO]: [2025-06-09T07:26:18.562Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:26:18.566Z [INFO]: [2025-06-09T07:26:18.566Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:26:18.568Z [INFO]: [2025-06-09T07:26:18.568Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:26:45.195Z [INFO]: [2025-06-09T07:26:45.194Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:26:45.198Z [INFO]: [2025-06-09T07:26:45.195Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:26:45.204Z [INFO]: [2025-06-09T07:26:45.204Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:26:45.206Z [INFO]: [2025-06-09T07:26:45.206Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:26:45.211Z [INFO]: [2025-06-09T07:26:45.208Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:26:45.207Z [INFO]: [2025-06-09T07:26:45.207Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:26:45.215Z [INFO]: [2025-06-09T07:26:45.214Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:26:45.215Z [INFO]: [2025-06-09T07:26:45.215Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:28:41.587Z [INFO]: [2025-06-09T07:28:41.587Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:28:41.591Z [INFO]: [2025-06-09T07:28:41.590Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:28:41.590Z [INFO]: [2025-06-09T07:28:41.589Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:28:41.588Z [INFO]: [2025-06-09T07:28:41.588Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:28:41.594Z [INFO]: [2025-06-09T07:28:41.594Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:28:41.598Z [INFO]: [2025-06-09T07:28:41.597Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:28:41.596Z [INFO]: [2025-06-09T07:28:41.595Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:28:41.599Z [INFO]: [2025-06-09T07:28:41.599Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:29:44.073Z [INFO]: [2025-06-09T07:29:44.072Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:29:44.074Z [INFO]: [2025-06-09T07:29:44.074Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:29:44.075Z [INFO]: [2025-06-09T07:29:44.075Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:29:44.073Z [INFO]: [2025-06-09T07:29:44.073Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:29:47.144Z [INFO]: [2025-06-09T07:29:47.144Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:29:47.145Z [INFO]: [2025-06-09T07:29:47.145Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:29:47.147Z [INFO]: [2025-06-09T07:29:47.146Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:29:47.148Z [INFO]: [2025-06-09T07:29:47.148Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:29:47.152Z [INFO]: [2025-06-09T07:29:47.152Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:29:47.154Z [INFO]: [2025-06-09T07:29:47.153Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:29:47.173Z [INFO]: [2025-06-09T07:29:47.173Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:29:47.172Z [INFO]: [2025-06-09T07:29:47.157Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:30:29.072Z [INFO]: [2025-06-09T07:30:29.071Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:30:29.075Z [INFO]: [2025-06-09T07:30:29.075Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:30:29.072Z [INFO]: [2025-06-09T07:30:29.072Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:30:29.076Z [INFO]: [2025-06-09T07:30:29.076Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:03.179Z [INFO]: [2025-06-09T07:31:03.179Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:03.180Z [INFO]: [2025-06-09T07:31:03.180Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:03.183Z [INFO]: [2025-06-09T07:31:03.183Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:03.187Z [INFO]: [2025-06-09T07:31:03.187Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:03.186Z [INFO]: [2025-06-09T07:31:03.186Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:03.185Z [INFO]: [2025-06-09T07:31:03.185Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:03.190Z [INFO]: [2025-06-09T07:31:03.190Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:03.191Z [INFO]: [2025-06-09T07:31:03.191Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:06.163Z [INFO]: [2025-06-09T07:31:06.162Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:06.165Z [INFO]: [2025-06-09T07:31:06.165Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:06.164Z [INFO]: [2025-06-09T07:31:06.164Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:06.167Z [INFO]: [2025-06-09T07:31:06.167Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:06.170Z [INFO]: [2025-06-09T07:31:06.169Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:06.171Z [INFO]: [2025-06-09T07:31:06.171Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:06.174Z [INFO]: [2025-06-09T07:31:06.174Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:06.176Z [INFO]: [2025-06-09T07:31:06.176Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:08.188Z [INFO]: [2025-06-09T07:31:08.187Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:08.189Z [INFO]: [2025-06-09T07:31:08.189Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:08.192Z [INFO]: [2025-06-09T07:31:08.191Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:08.193Z [INFO]: [2025-06-09T07:31:08.192Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:08.193Z [INFO]: [2025-06-09T07:31:08.193Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:08.194Z [INFO]: [2025-06-09T07:31:08.194Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:08.198Z [INFO]: [2025-06-09T07:31:08.197Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:08.200Z [INFO]: [2025-06-09T07:31:08.200Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:47.185Z [INFO]: [2025-06-09T07:31:47.185Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:47.186Z [INFO]: [2025-06-09T07:31:47.186Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:47.188Z [INFO]: [2025-06-09T07:31:47.188Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:47.189Z [INFO]: [2025-06-09T07:31:47.189Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:47.192Z [INFO]: [2025-06-09T07:31:47.192Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:47.194Z [INFO]: [2025-06-09T07:31:47.193Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:47.229Z [INFO]: [2025-06-09T07:31:47.195Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:47.231Z [INFO]: [2025-06-09T07:31:47.231Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:49.195Z [INFO]: [2025-06-09T07:31:49.194Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:49.198Z [INFO]: [2025-06-09T07:31:49.198Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:49.197Z [INFO]: [2025-06-09T07:31:49.197Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:49.196Z [INFO]: [2025-06-09T07:31:49.195Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:49.201Z [INFO]: [2025-06-09T07:31:49.201Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:31:49.207Z [INFO]: [2025-06-09T07:31:49.206Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:49.208Z [INFO]: [2025-06-09T07:31:49.208Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:31:49.203Z [INFO]: [2025-06-09T07:31:49.202Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:32:00.166Z [INFO]: [2025-06-09T07:32:00.165Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:32:00.167Z [INFO]: [2025-06-09T07:32:00.167Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:32:00.172Z [INFO]: [2025-06-09T07:32:00.171Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:32:00.176Z [INFO]: [2025-06-09T07:32:00.174Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:32:00.180Z [INFO]: [2025-06-09T07:32:00.179Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:32:00.181Z [INFO]: [2025-06-09T07:32:00.181Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:32:00.186Z [INFO]: [2025-06-09T07:32:00.184Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:32:00.189Z [INFO]: [2025-06-09T07:32:00.187Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:37:44.075Z [INFO]: [2025-06-09T07:37:44.074Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:37:44.077Z [INFO]: [2025-06-09T07:37:44.076Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:37:44.103Z [INFO]: [2025-06-09T07:37:44.102Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:37:44.104Z [INFO]: [2025-06-09T07:37:44.104Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:37:47.072Z [INFO]: [2025-06-09T07:37:47.072Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:37:47.074Z [INFO]: [2025-06-09T07:37:47.074Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:37:47.073Z [INFO]: [2025-06-09T07:37:47.073Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:37:47.075Z [INFO]: [2025-06-09T07:37:47.075Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:38:14.069Z [INFO]: [2025-06-09T07:38:14.068Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:38:14.071Z [INFO]: [2025-06-09T07:38:14.070Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:38:14.069Z [INFO]: [2025-06-09T07:38:14.069Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:38:14.071Z [INFO]: [2025-06-09T07:38:14.071Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:40:09.617Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:09.621Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:14.180Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:14.184Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:16.401Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:16.406Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:19.069Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:19.074Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:21.735Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:21.739Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:22.935Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:22.939Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:24.243Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:24.246Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:28.827Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:28.831Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:32.058Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:32.061Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:38.252Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:38.255Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:40.984Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:40.987Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:42.163Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:42.166Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:43.166Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:43.169Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:44.715Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:44.718Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:48.067Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:48.071Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:40:50.462Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:40:50.465Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:41:46.146Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:41:46.149Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:41:47.196Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:41:47.199Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:41:49.617Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:41:49.622Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:41:58.139Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:41:58.143Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:02.358Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:02.361Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:03.467Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:03.472Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:06.478Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:06.482Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:09.735Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:09.741Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:35.805Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:35.808Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:38.718Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:38.722Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:41.144Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:41.147Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:45.109Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:45.112Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:47.025Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:47.029Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:48.416Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:48.419Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:50.613Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:50.616Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:55.311Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:55.314Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:42:57.648Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:42:57.651Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:10.569Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:10.572Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:11.643Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:11.646Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:14.991Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:14.994Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:22.165Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:22.168Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:23.665Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:23.669Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:27.148Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:27.152Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:29.316Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:29.319Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:30.582Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:30.586Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:31.733Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:31.736Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:37.608Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:37.612Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:41.248Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:41.251Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:45.916Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:45.919Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:49.609Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:49.613Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:52.930Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:52.933Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:53.869Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:53.873Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:58.138Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:58.142Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:43:59.271Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:43:59.275Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:08.416Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:08.419Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:09.528Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:09.531Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:10.611Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:10.615Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:13.508Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:13.513Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:14.710Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:14.714Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:20.040Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:20.044Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:21.492Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:21.496Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:22.701Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:22.704Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:31.873Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:31.876Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:33.106Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:33.109Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:38.476Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:38.479Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:41.555Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:41.558Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:42.820Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:42.824Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:48.412Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:48.415Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:57.880Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:57.883Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:44:58.985Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:44:58.988Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:01.876Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:01.879Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:04.301Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:04.304Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:08.872Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:08.868Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:10.311Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:10.315Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:11.591Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:11.594Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:13.849Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:13.844Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:14.975Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:14.980Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:17.095Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:17.099Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:20.167Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:20.171Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:22.986Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:22.990Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:24.640Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:24.643Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:31.681Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:31.685Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:34.912Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:34.915Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:36.611Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:36.614Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:41.474Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:41.478Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:48.598Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:48.601Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:51.402Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:51.406Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:45:57.958Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:45:57.961Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:18.552Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:18.557Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:22.271Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:22.275Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:31.458Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:31.462Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:32.991Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:32.994Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:35.546Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:35.550Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:39.380Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:39.383Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:40.745Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:40.749Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:45.852Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:45.856Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:48.089Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:48.092Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:53.324Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:53.328Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:46:55.398Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:46:55.401Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:47:02.091Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:47:02.094Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:47:03.115Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:47:03.119Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:50:04.936Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:50:04.939Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:50:13.519Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:50:13.522Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:50:17.374Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:50:17.377Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:52:30.286Z [INFO]: [2025-06-09T07:52:30.285Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:52:30.290Z [INFO]: [2025-06-09T07:52:30.289Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:52:30.298Z [INFO]: [2025-06-09T07:52:30.298Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:52:30.300Z [INFO]: [2025-06-09T07:52:30.299Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T07:52:30.306Z [INFO]: [2025-06-09T07:52:30.305Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:52:30.307Z [INFO]: [2025-06-09T07:52:30.307Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:52:30.312Z [INFO]: [2025-06-09T07:52:30.311Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:52:30.313Z [INFO]: [2025-06-09T07:52:30.313Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T07:53:56.559Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:53:56.563Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:54:04.961Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:54:04.964Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:54:31.297Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:54:31.302Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:54:39.993Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:54:39.996Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:54:46.841Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:54:46.843Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:54:48.549Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:54:48.553Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:54:54.106Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:54:54.110Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:55:03.456Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:55:03.460Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:55:04.939Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:55:04.941Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:55:24.409Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:55:24.412Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:55:27.202Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:55:27.205Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T07:55:36.067Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T07:55:36.071Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T08:00:56.028Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T08:00:56.031Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T08:01:03.401Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T08:01:03.404Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T08:01:12.108Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T08:01:12.111Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T08:01:15.671Z [ERROR]: [2025-06-09T08:01:15.670Z] POST /api/v1/user/transactions/add-transaction - ::1 - All fields are required.
+2025-06-09T08:01:55.552Z [ERROR]: [2025-06-09T08:01:55.551Z] POST /api/v1/user/transactions/add-transaction - ::1 - All fields are required.
+2025-06-09T08:02:28.494Z [ERROR]: [2025-06-09T08:02:28.494Z] POST /api/v1/user/transactions/add-transaction - ::1 - All fields are required.
+2025-06-09T08:04:45.837Z [INFO]: [2025-06-09T08:04:45.835Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:04:45.838Z [INFO]: [2025-06-09T08:04:45.838Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:04:45.847Z [INFO]: [2025-06-09T08:04:45.844Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:04:45.856Z [INFO]: [2025-06-09T08:04:45.848Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:04:45.861Z [INFO]: [2025-06-09T08:04:45.861Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:04:45.863Z [INFO]: [2025-06-09T08:04:45.863Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:04:45.875Z [INFO]: [2025-06-09T08:04:45.874Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:04:45.878Z [INFO]: [2025-06-09T08:04:45.877Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:04:57.631Z [ERROR]: [2025-06-09T08:04:57.631Z] POST /api/v1/user/transactions/add-transaction - ::1 - All fields are required.
+2025-06-09T08:07:23.613Z [INFO]: [2025-06-09T08:07:23.613Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:07:23.614Z [INFO]: [2025-06-09T08:07:23.614Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:07:23.616Z [INFO]: [2025-06-09T08:07:23.615Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:07:23.617Z [INFO]: [2025-06-09T08:07:23.617Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:07:23.620Z [INFO]: [2025-06-09T08:07:23.620Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:07:23.621Z [INFO]: [2025-06-09T08:07:23.621Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:07:23.624Z [INFO]: [2025-06-09T08:07:23.623Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:07:23.627Z [INFO]: [2025-06-09T08:07:23.626Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:07:28.035Z [INFO]: [2025-06-09T08:07:28.034Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:07:28.036Z [INFO]: [2025-06-09T08:07:28.036Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:07:28.039Z [INFO]: [2025-06-09T08:07:28.038Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:07:28.040Z [INFO]: [2025-06-09T08:07:28.040Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:07:28.047Z [INFO]: [2025-06-09T08:07:28.046Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:07:28.048Z [INFO]: [2025-06-09T08:07:28.048Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:07:28.050Z [INFO]: [2025-06-09T08:07:28.050Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:07:28.052Z [INFO]: [2025-06-09T08:07:28.052Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:07:42.503Z [ERROR]: [2025-06-09T08:07:42.503Z] POST /api/v1/user/transactions/add-transaction - ::1 - All fields are required.
+2025-06-09T08:10:05.033Z [ERROR]: [2025-06-09T08:10:05.033Z] POST /api/v1/user/transactions/add-transaction - ::1 - All fields are required.
+2025-06-09T08:10:13.082Z [ERROR]: [2025-06-09T08:10:13.082Z] POST /api/v1/user/transactions/add-transaction - ::1 - All fields are required.
+2025-06-09T08:10:28.648Z [INFO]: [2025-06-09T08:10:28.648Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:10:28.649Z [INFO]: [2025-06-09T08:10:28.649Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:10:28.651Z [INFO]: [2025-06-09T08:10:28.651Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:10:28.652Z [INFO]: [2025-06-09T08:10:28.652Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:10:28.658Z [INFO]: [2025-06-09T08:10:28.657Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:10:28.659Z [INFO]: [2025-06-09T08:10:28.658Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:10:28.666Z [INFO]: [2025-06-09T08:10:28.663Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:10:28.668Z [INFO]: [2025-06-09T08:10:28.667Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:15:38.064Z [INFO]: [2025-06-09T08:15:38.064Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:15:38.063Z [INFO]: [2025-06-09T08:15:38.063Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:15:38.065Z [INFO]: [2025-06-09T08:15:38.065Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:15:38.066Z [INFO]: [2025-06-09T08:15:38.066Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:17:59.278Z [INFO]: [2025-06-09T08:17:59.278Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:17:59.279Z [INFO]: [2025-06-09T08:17:59.279Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:17:59.282Z [INFO]: [2025-06-09T08:17:59.281Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:17:59.283Z [INFO]: [2025-06-09T08:17:59.283Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:17:59.288Z [INFO]: [2025-06-09T08:17:59.287Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:17:59.289Z [INFO]: [2025-06-09T08:17:59.289Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:17:59.294Z [INFO]: [2025-06-09T08:17:59.294Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:17:59.293Z [INFO]: [2025-06-09T08:17:59.291Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:18:11.197Z [INFO]: [2025-06-09T08:18:11.196Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:18:11.198Z [INFO]: [2025-06-09T08:18:11.197Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:18:11.202Z [INFO]: [2025-06-09T08:18:11.201Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:18:11.201Z [INFO]: [2025-06-09T08:18:11.200Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:18:11.205Z [INFO]: [2025-06-09T08:18:11.204Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:18:11.206Z [INFO]: [2025-06-09T08:18:11.205Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:18:11.209Z [INFO]: [2025-06-09T08:18:11.209Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:18:11.211Z [INFO]: [2025-06-09T08:18:11.210Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:18:19.832Z [ERROR]: [2025-06-09T08:18:19.831Z] POST /api/v1/user/transactions/add-transaction - ::1 - category?.trim is not a function
+2025-06-09T08:19:59.525Z [INFO]: [2025-06-09T08:19:59.525Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:19:59.526Z [INFO]: [2025-06-09T08:19:59.526Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:19:59.543Z [INFO]: [2025-06-09T08:19:59.528Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:19:59.545Z [INFO]: [2025-06-09T08:19:59.544Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:19:59.549Z [INFO]: [2025-06-09T08:19:59.548Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:19:59.550Z [INFO]: [2025-06-09T08:19:59.550Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:19:59.553Z [INFO]: [2025-06-09T08:19:59.552Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:19:59.555Z [INFO]: [2025-06-09T08:19:59.554Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:16.184Z [INFO]: [2025-06-09T08:20:16.184Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:16.185Z [INFO]: [2025-06-09T08:20:16.184Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:16.189Z [INFO]: [2025-06-09T08:20:16.189Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:16.192Z [INFO]: [2025-06-09T08:20:16.192Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:16.191Z [INFO]: [2025-06-09T08:20:16.191Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:16.190Z [INFO]: [2025-06-09T08:20:16.190Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:16.195Z [INFO]: [2025-06-09T08:20:16.195Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:16.197Z [INFO]: [2025-06-09T08:20:16.196Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:19.887Z [INFO]: [2025-06-09T08:20:19.887Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:19.888Z [INFO]: [2025-06-09T08:20:19.888Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:19.890Z [INFO]: [2025-06-09T08:20:19.889Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:19.893Z [INFO]: [2025-06-09T08:20:19.891Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:19.897Z [INFO]: [2025-06-09T08:20:19.896Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:19.900Z [INFO]: [2025-06-09T08:20:19.898Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:19.906Z [INFO]: [2025-06-09T08:20:19.906Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:19.907Z [INFO]: [2025-06-09T08:20:19.907Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:32.205Z [INFO]: [2025-06-09T08:20:32.205Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:32.206Z [INFO]: [2025-06-09T08:20:32.205Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:32.209Z [INFO]: [2025-06-09T08:20:32.209Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:32.210Z [INFO]: [2025-06-09T08:20:32.210Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:32.212Z [INFO]: [2025-06-09T08:20:32.212Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:32.211Z [INFO]: [2025-06-09T08:20:32.211Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:32.215Z [INFO]: [2025-06-09T08:20:32.215Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:32.216Z [INFO]: [2025-06-09T08:20:32.216Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:37.122Z [INFO]: [2025-06-09T08:20:37.122Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:37.137Z [INFO]: [2025-06-09T08:20:37.123Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:37.147Z [INFO]: [2025-06-09T08:20:37.147Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:37.150Z [INFO]: [2025-06-09T08:20:37.149Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:37.159Z [INFO]: [2025-06-09T08:20:37.159Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:37.163Z [INFO]: [2025-06-09T08:20:37.162Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:37.164Z [INFO]: [2025-06-09T08:20:37.163Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:37.161Z [INFO]: [2025-06-09T08:20:37.160Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:47.181Z [INFO]: [2025-06-09T08:20:47.181Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:47.182Z [INFO]: [2025-06-09T08:20:47.181Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:47.183Z [INFO]: [2025-06-09T08:20:47.182Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:47.184Z [INFO]: [2025-06-09T08:20:47.183Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:47.188Z [INFO]: [2025-06-09T08:20:47.187Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:20:47.190Z [INFO]: [2025-06-09T08:20:47.190Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:47.191Z [INFO]: [2025-06-09T08:20:47.191Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:20:47.188Z [INFO]: [2025-06-09T08:20:47.188Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:22:34.622Z [INFO]: [2025-06-09T08:22:34.622Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:22:34.624Z [INFO]: [2025-06-09T08:22:34.624Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:22:34.623Z [INFO]: [2025-06-09T08:22:34.623Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:22:34.625Z [INFO]: [2025-06-09T08:22:34.625Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:22:34.628Z [INFO]: [2025-06-09T08:22:34.627Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:22:34.631Z [INFO]: [2025-06-09T08:22:34.628Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:22:34.635Z [INFO]: [2025-06-09T08:22:34.635Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:22:34.633Z [INFO]: [2025-06-09T08:22:34.632Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:22:48.182Z [INFO]: [2025-06-09T08:22:48.182Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:22:48.183Z [INFO]: [2025-06-09T08:22:48.183Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:22:48.186Z [INFO]: [2025-06-09T08:22:48.186Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:22:48.188Z [INFO]: [2025-06-09T08:22:48.187Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:22:48.189Z [INFO]: [2025-06-09T08:22:48.189Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:22:48.190Z [INFO]: [2025-06-09T08:22:48.189Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:22:48.193Z [INFO]: [2025-06-09T08:22:48.193Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:22:48.195Z [INFO]: [2025-06-09T08:22:48.194Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:23:07.427Z [INFO]: [2025-06-09T08:23:07.427Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:23:07.428Z [INFO]: [2025-06-09T08:23:07.428Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:23:07.430Z [INFO]: [2025-06-09T08:23:07.430Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:23:07.429Z [INFO]: [2025-06-09T08:23:07.429Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:23:07.433Z [INFO]: [2025-06-09T08:23:07.433Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:23:07.434Z [INFO]: [2025-06-09T08:23:07.433Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:23:07.437Z [INFO]: [2025-06-09T08:23:07.436Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:23:07.439Z [INFO]: [2025-06-09T08:23:07.438Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:24:21.431Z [INFO]: [2025-06-09T08:24:21.426Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:24:21.433Z [INFO]: [2025-06-09T08:24:21.431Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:24:21.435Z [INFO]: [2025-06-09T08:24:21.435Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:24:21.438Z [INFO]: [2025-06-09T08:24:21.436Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:24:21.447Z [INFO]: [2025-06-09T08:24:21.440Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:24:21.448Z [INFO]: [2025-06-09T08:24:21.448Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:24:21.452Z [INFO]: [2025-06-09T08:24:21.452Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:24:21.456Z [INFO]: [2025-06-09T08:24:21.454Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:24:30.798Z [ERROR]: [2025-06-09T08:24:30.797Z] POST /api/v1/user/transactions/add-transaction - ::1 - category?.trim is not a function
+2025-06-09T08:25:01.085Z [INFO]: [2025-06-09T08:25:01.085Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:25:01.085Z [INFO]: [2025-06-09T08:25:01.085Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:25:01.088Z [INFO]: [2025-06-09T08:25:01.088Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:25:01.090Z [INFO]: [2025-06-09T08:25:01.089Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:25:01.093Z [INFO]: [2025-06-09T08:25:01.092Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:25:01.092Z [INFO]: [2025-06-09T08:25:01.090Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:25:01.096Z [INFO]: [2025-06-09T08:25:01.096Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:25:01.098Z [INFO]: [2025-06-09T08:25:01.097Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:25:05.615Z [ERROR]: [2025-06-09T08:25:05.615Z] POST /api/v1/user/transactions/add-transaction - ::1 - category?.trim is not a function
+2025-06-09T08:25:25.693Z [ERROR]: [2025-06-09T08:25:25.692Z] POST /api/v1/user/transactions/add-transaction - ::1 - category?.trim is not a function
+2025-06-09T08:26:30.122Z [INFO]: [2025-06-09T08:26:30.122Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:26:30.123Z [INFO]: [2025-06-09T08:26:30.122Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:26:30.124Z [INFO]: [2025-06-09T08:26:30.124Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:26:30.126Z [INFO]: [2025-06-09T08:26:30.125Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:26:30.133Z [INFO]: [2025-06-09T08:26:30.132Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:26:30.133Z [INFO]: [2025-06-09T08:26:30.133Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T08:26:30.135Z [INFO]: [2025-06-09T08:26:30.135Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:26:30.136Z [INFO]: [2025-06-09T08:26:30.136Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T08:26:34.405Z [ERROR]: [2025-06-09T08:26:34.405Z] POST /api/v1/user/transactions/add-transaction - ::1 - category?.trim is not a function
+2025-06-09T10:07:45.361Z [ERROR]: ❌ Failed to connect to DB: getaddrinfo ENOTFOUND https://78.46.174.46
+2025-06-09T10:08:13.948Z [ERROR]: ❌ Failed to connect to DB: getaddrinfo ENOTFOUND https://businessbasket.in
+2025-06-09T10:25:08.327Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:25:08.330Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:25:33.997Z [ERROR]: [2025-06-09T10:25:33.997Z] POST /api/v1/user/transactions/add-transaction - ::ffff:127.0.0.1 - Cannot read properties of undefined (reading 'trim')
+2025-06-09T10:25:51.317Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:25:51.321Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:26:00.833Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:26:00.836Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:26:33.693Z [ERROR]: [2025-06-09T10:26:33.693Z] POST /api/v1/user/transactions/add-transaction - ::ffff:127.0.0.1 - All fields are required.
+2025-06-09T10:26:56.023Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:26:56.027Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:27:04.591Z [INFO]: [2025-06-09T10:27:04.590Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:27:04.594Z [INFO]: [2025-06-09T10:27:04.594Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:27:04.605Z [INFO]: [2025-06-09T10:27:04.605Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:27:04.606Z [INFO]: [2025-06-09T10:27:04.606Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:27:04.615Z [INFO]: [2025-06-09T10:27:04.615Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:27:04.619Z [INFO]: [2025-06-09T10:27:04.619Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:27:04.618Z [INFO]: [2025-06-09T10:27:04.618Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:27:04.616Z [INFO]: [2025-06-09T10:27:04.616Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:27:16.012Z [ERROR]: [2025-06-09T10:27:16.011Z] POST /api/v1/user/transactions/add-transaction - ::1 - category?.trim is not a function
+2025-06-09T10:29:29.110Z [INFO]: [2025-06-09T10:29:29.110Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:29:29.115Z [INFO]: [2025-06-09T10:29:29.115Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:29:29.114Z [INFO]: [2025-06-09T10:29:29.113Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:29:29.112Z [INFO]: [2025-06-09T10:29:29.111Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:30:18.072Z [INFO]: [2025-06-09T10:30:18.071Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:30:18.075Z [INFO]: [2025-06-09T10:30:18.074Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:30:18.072Z [INFO]: [2025-06-09T10:30:18.072Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:30:18.076Z [INFO]: [2025-06-09T10:30:18.076Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:52.397Z [INFO]: [2025-06-09T10:31:52.396Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:52.397Z [INFO]: [2025-06-09T10:31:52.397Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:52.399Z [INFO]: [2025-06-09T10:31:52.399Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:52.400Z [INFO]: [2025-06-09T10:31:52.400Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:52.406Z [INFO]: [2025-06-09T10:31:52.406Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:52.408Z [INFO]: [2025-06-09T10:31:52.408Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:52.411Z [INFO]: [2025-06-09T10:31:52.410Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:52.413Z [INFO]: [2025-06-09T10:31:52.412Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:55.764Z [INFO]: [2025-06-09T10:31:55.763Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:55.766Z [INFO]: [2025-06-09T10:31:55.766Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:55.764Z [INFO]: [2025-06-09T10:31:55.764Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:55.767Z [INFO]: [2025-06-09T10:31:55.767Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:55.776Z [INFO]: [2025-06-09T10:31:55.775Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:55.774Z [INFO]: [2025-06-09T10:31:55.774Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:55.779Z [INFO]: [2025-06-09T10:31:55.779Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:55.778Z [INFO]: [2025-06-09T10:31:55.777Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:57.593Z [INFO]: [2025-06-09T10:31:57.592Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:57.593Z [INFO]: [2025-06-09T10:31:57.593Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:57.596Z [INFO]: [2025-06-09T10:31:57.596Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:57.599Z [INFO]: [2025-06-09T10:31:57.598Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:57.608Z [INFO]: [2025-06-09T10:31:57.608Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:57.611Z [INFO]: [2025-06-09T10:31:57.609Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:57.621Z [INFO]: [2025-06-09T10:31:57.620Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:57.627Z [INFO]: [2025-06-09T10:31:57.626Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:58.959Z [INFO]: [2025-06-09T10:31:58.959Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:58.960Z [INFO]: [2025-06-09T10:31:58.960Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:58.962Z [INFO]: [2025-06-09T10:31:58.962Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:58.963Z [INFO]: [2025-06-09T10:31:58.963Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:58.966Z [INFO]: [2025-06-09T10:31:58.966Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:58.967Z [INFO]: [2025-06-09T10:31:58.967Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:31:58.971Z [INFO]: [2025-06-09T10:31:58.970Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:31:58.972Z [INFO]: [2025-06-09T10:31:58.971Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:00.222Z [INFO]: [2025-06-09T10:32:00.221Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:00.221Z [INFO]: [2025-06-09T10:32:00.221Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:00.225Z [INFO]: [2025-06-09T10:32:00.225Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:00.224Z [INFO]: [2025-06-09T10:32:00.223Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:00.228Z [INFO]: [2025-06-09T10:32:00.228Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:00.229Z [INFO]: [2025-06-09T10:32:00.229Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:00.233Z [INFO]: [2025-06-09T10:32:00.232Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:00.231Z [INFO]: [2025-06-09T10:32:00.231Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:20.192Z [INFO]: [2025-06-09T10:32:20.191Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:20.192Z [INFO]: [2025-06-09T10:32:20.192Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:20.195Z [INFO]: [2025-06-09T10:32:20.195Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:20.196Z [INFO]: [2025-06-09T10:32:20.196Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:20.200Z [INFO]: [2025-06-09T10:32:20.200Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:20.199Z [INFO]: [2025-06-09T10:32:20.199Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:20.203Z [INFO]: [2025-06-09T10:32:20.203Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:20.202Z [INFO]: [2025-06-09T10:32:20.202Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:33.201Z [INFO]: [2025-06-09T10:32:33.200Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:33.201Z [INFO]: [2025-06-09T10:32:33.201Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:33.204Z [INFO]: [2025-06-09T10:32:33.203Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:33.205Z [INFO]: [2025-06-09T10:32:33.205Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:33.209Z [INFO]: [2025-06-09T10:32:33.207Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:33.210Z [INFO]: [2025-06-09T10:32:33.209Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:33.213Z [INFO]: [2025-06-09T10:32:33.213Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:33.217Z [INFO]: [2025-06-09T10:32:33.214Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:43.344Z [INFO]: [2025-06-09T10:32:43.343Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:43.346Z [INFO]: [2025-06-09T10:32:43.344Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:43.348Z [INFO]: [2025-06-09T10:32:43.347Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:43.350Z [INFO]: [2025-06-09T10:32:43.349Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:43.359Z [INFO]: [2025-06-09T10:32:43.358Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:43.358Z [INFO]: [2025-06-09T10:32:43.353Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:32:43.361Z [INFO]: [2025-06-09T10:32:43.361Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:43.363Z [INFO]: [2025-06-09T10:32:43.363Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:32:51.075Z [ERROR]: [2025-06-09T10:32:51.075Z] POST /api/v1/user/transactions/add-transaction - ::1 - mode?.trim is not a function
+2025-06-09T10:33:53.983Z [INFO]: [2025-06-09T10:33:53.983Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:33:53.984Z [INFO]: [2025-06-09T10:33:53.983Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:33:53.985Z [INFO]: [2025-06-09T10:33:53.985Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:33:53.986Z [INFO]: [2025-06-09T10:33:53.986Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:33:53.990Z [INFO]: [2025-06-09T10:33:53.989Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:33:53.992Z [INFO]: [2025-06-09T10:33:53.990Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T10:33:53.994Z [INFO]: [2025-06-09T10:33:53.994Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:33:53.996Z [INFO]: [2025-06-09T10:33:53.995Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T10:33:57.822Z [ERROR]: [2025-06-09T10:33:57.822Z] POST /api/v1/user/transactions/add-transaction - ::1 - mode?.trim is not a function
+2025-06-09T10:35:13.304Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:35:13.307Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:35:19.983Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:35:19.987Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:35:21.628Z [ERROR]: [2025-06-09T10:35:21.627Z] POST /api/v1/user/transactions/add-transaction - ::1 - mode?.trim is not a function
+2025-06-09T10:35:57.880Z [ERROR]: [2025-06-09T10:35:57.880Z] POST /api/v1/user/transactions/add-transaction - ::1 - mode?.trim is not a function
+2025-06-09T10:36:23.311Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:36:23.314Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:36:29.731Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:36:29.734Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:36:33.800Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:36:33.804Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:36:38.561Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:36:38.564Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:36:48.630Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:36:48.633Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:33.229Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:33.232Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:34.722Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:34.726Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:37.435Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:37.438Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:40.262Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:40.266Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:43.320Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:43.323Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:44.562Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:44.566Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:46.946Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:46.952Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:48.923Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:48.927Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:52.936Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:52.939Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:55.928Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:55.932Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:39:58.063Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:39:58.069Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:40:32.045Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:40:32.049Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:40:33.819Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:40:33.821Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:40:36.960Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:40:36.963Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:40:38.906Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:40:38.902Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:40:40.807Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:40:40.810Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:40:47.402Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:40:47.406Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:40:48.662Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:40:48.667Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:40:56.626Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:40:56.629Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:40:59.403Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:40:59.407Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:09.405Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:09.410Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:12.626Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:12.629Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:13.826Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:13.829Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:14.932Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:14.935Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:34.431Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:34.434Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:37.072Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:37.075Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:40.571Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:40.576Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:41.897Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:41.901Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:46.100Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:46.103Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:41:48.827Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:41:48.831Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:09.542Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:09.545Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:13.893Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:13.896Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:15.131Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:15.134Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:19.512Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:19.516Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:24.847Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:24.850Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:28.630Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:28.633Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:30.222Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:30.225Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:33.207Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:33.212Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:35.590Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:35.594Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:41.449Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:41.453Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:44.923Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:44.926Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:51.163Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:51.167Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:42:58.052Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:42:58.055Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:43:01.408Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:43:01.412Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:43:05.522Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:43:05.526Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:43:08.553Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:43:08.550Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:43:10.792Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:43:10.795Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:43:47.089Z [ERROR]: [2025-06-09T10:43:47.088Z] POST /api/v1/user/transactions/add-transaction - ::1 - Cannot save, given value must be an entity, instead "undefined" is given.
+2025-06-09T10:43:52.653Z [ERROR]: [2025-06-09T10:43:52.653Z] POST /api/v1/user/transactions/add-transaction - ::1 - Cannot save, given value must be an entity, instead "undefined" is given.
+2025-06-09T10:45:28.868Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:45:28.871Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:45:35.135Z [ERROR]: [2025-06-09T10:45:35.134Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T10:46:03.360Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:46:03.364Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:46:05.421Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:46:05.424Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:46:07.533Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:46:07.537Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:46:10.273Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:46:10.276Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:46:51.849Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:46:51.853Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:46:53.350Z [ERROR]: [2025-06-09T10:46:53.350Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T10:47:10.636Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:47:10.639Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:47:11.813Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:47:11.816Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:47:14.508Z [ERROR]: [2025-06-09T10:47:14.508Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T10:50:17.028Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:50:17.033Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:50:18.690Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:50:18.693Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:50:21.817Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:50:21.823Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:50:25.249Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:50:25.252Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:50:26.958Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:50:26.961Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:50:30.539Z [ERROR]: [2025-06-09T10:50:30.538Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T10:50:55.282Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:50:55.285Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:50:56.797Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:50:56.800Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:50:58.649Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:50:58.653Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:51:02.512Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:51:02.515Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:51:08.598Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:51:08.602Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:51:11.198Z [ERROR]: [2025-06-09T10:51:11.197Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T10:54:35.727Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:54:35.730Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:55:10.698Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:55:10.701Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:55:46.816Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:55:46.821Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:56:03.098Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:56:03.102Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:56:06.677Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:56:06.682Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:57:45.556Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:57:45.559Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:57:53.803Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:57:53.806Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:57:58.248Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:57:58.251Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:58:25.015Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:58:25.019Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:59:13.492Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:59:13.495Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:59:14.782Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:59:14.786Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:59:20.457Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:59:20.460Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T10:59:40.536Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T10:59:40.539Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:00:19.967Z [INFO]: [2025-06-09T11:00:19.967Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T11:00:19.969Z [INFO]: [2025-06-09T11:00:19.969Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T11:00:31.834Z [INFO]: [2025-06-09T11:00:31.833Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:00:31.838Z [INFO]: [2025-06-09T11:00:31.838Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:00:31.836Z [INFO]: [2025-06-09T11:00:31.836Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:00:31.839Z [INFO]: [2025-06-09T11:00:31.838Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:00:31.850Z [INFO]: [2025-06-09T11:00:31.849Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:00:31.853Z [INFO]: [2025-06-09T11:00:31.853Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:00:31.851Z [INFO]: [2025-06-09T11:00:31.851Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:00:31.854Z [INFO]: [2025-06-09T11:00:31.854Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:00:36.619Z [ERROR]: [2025-06-09T11:00:36.619Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:01:04.374Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:01:04.377Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:02:10.223Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:02:10.226Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:02:29.113Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:02:29.116Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:02:52.915Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:02:52.918Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:02:55.145Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:02:55.149Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:03:27.267Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:03:27.272Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:03:35.668Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:03:35.670Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:03:55.184Z [INFO]: [2025-06-09T11:03:55.183Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T11:03:55.188Z [INFO]: [2025-06-09T11:03:55.187Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T11:04:25.971Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:04:25.975Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:04:27.587Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:04:27.592Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:04:50.514Z [INFO]: [2025-06-09T11:04:50.514Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:04:50.516Z [INFO]: [2025-06-09T11:04:50.516Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:04:50.532Z [INFO]: [2025-06-09T11:04:50.532Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:04:50.531Z [INFO]: [2025-06-09T11:04:50.531Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:04:50.541Z [INFO]: [2025-06-09T11:04:50.541Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:04:50.543Z [INFO]: [2025-06-09T11:04:50.542Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:04:50.546Z [INFO]: [2025-06-09T11:04:50.545Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:04:50.547Z [INFO]: [2025-06-09T11:04:50.547Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:04:54.953Z [ERROR]: [2025-06-09T11:04:54.953Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:05:38.700Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:05:38.703Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:05:40.913Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:05:40.916Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:05:42.942Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:05:42.946Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:05:47.277Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:05:47.281Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:05:53.958Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:05:53.961Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:05:56.512Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:05:56.515Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:05:58.748Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:05:58.752Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:06:02.203Z [ERROR]: [2025-06-09T11:06:02.202Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:08:18.516Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:08:18.522Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:08:20.256Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:08:20.262Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:09:24.026Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:09:24.032Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:09:26.426Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:09:26.429Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:09:32.959Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:09:32.962Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:10:11.625Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:10:11.630Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:10:19.135Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:10:19.139Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:10:29.636Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:10:29.640Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:10:32.369Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:10:32.373Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:10:40.689Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:10:40.693Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:10:51.478Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:10:51.484Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:10:58.737Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:10:58.740Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:11:01.037Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:11:01.040Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:11:09.866Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:11:09.870Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:11:12.259Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:11:12.263Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:11:15.177Z [ERROR]: [2025-06-09T11:11:15.176Z] POST /api/v1/user/transactions/add-transaction - ::1 - Incorrect date value: '09-06-2025' for column 'transaction_date' at row 1
+2025-06-09T11:11:34.023Z [ERROR]: ❌ Failed to connect to DB: Data type "String" in "Transaction.transactionDate" is not supported by "mysql" database.
+2025-06-09T11:13:17.952Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:13:17.956Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:13:32.604Z [INFO]: [2025-06-09T11:13:32.603Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:28:12.467Z [INFO]: [2025-06-09T11:28:12.467Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T11:28:12.469Z [INFO]: [2025-06-09T11:28:12.469Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T11:28:18.069Z [INFO]: [2025-06-09T11:28:18.069Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:28:18.071Z [INFO]: [2025-06-09T11:28:18.070Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:28:18.084Z [INFO]: [2025-06-09T11:28:18.082Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:28:18.087Z [INFO]: [2025-06-09T11:28:18.086Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:28:18.092Z [INFO]: [2025-06-09T11:28:18.092Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:28:18.095Z [INFO]: [2025-06-09T11:28:18.095Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:28:18.106Z [INFO]: [2025-06-09T11:28:18.106Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:28:18.104Z [INFO]: [2025-06-09T11:28:18.104Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:28:23.048Z [INFO]: [2025-06-09T11:28:23.047Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:28:27.939Z [INFO]: [2025-06-09T11:28:27.939Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:28:39.304Z [INFO]: [2025-06-09T11:28:39.303Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:30:05.233Z [INFO]: [2025-06-09T11:30:05.233Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:30:05.235Z [INFO]: [2025-06-09T11:30:05.235Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:30:05.239Z [INFO]: [2025-06-09T11:30:05.239Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:30:05.243Z [INFO]: [2025-06-09T11:30:05.242Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:30:05.257Z [INFO]: [2025-06-09T11:30:05.257Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:30:05.258Z [INFO]: [2025-06-09T11:30:05.258Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:30:05.263Z [INFO]: [2025-06-09T11:30:05.263Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:30:05.261Z [INFO]: [2025-06-09T11:30:05.261Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:30:57.796Z [INFO]: [2025-06-09T11:30:57.796Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:31:25.174Z [INFO]: [2025-06-09T11:31:25.173Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:32:17.422Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:32:17.426Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:32:21.751Z [ERROR]: [2025-06-09T11:32:21.750Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:33:35.304Z [INFO]: [2025-06-09T11:33:35.298Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:33:35.307Z [INFO]: [2025-06-09T11:33:35.305Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:33:35.318Z [INFO]: [2025-06-09T11:33:35.318Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:33:35.322Z [INFO]: [2025-06-09T11:33:35.321Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:33:35.340Z [INFO]: [2025-06-09T11:33:35.340Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:33:35.341Z [INFO]: [2025-06-09T11:33:35.341Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:33:35.344Z [INFO]: [2025-06-09T11:33:35.344Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:33:35.347Z [INFO]: [2025-06-09T11:33:35.346Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:33:38.880Z [ERROR]: [2025-06-09T11:33:38.879Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:33:59.589Z [INFO]: [2025-06-09T11:33:59.588Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:33:59.590Z [INFO]: [2025-06-09T11:33:59.589Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:33:59.592Z [INFO]: [2025-06-09T11:33:59.592Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:33:59.591Z [INFO]: [2025-06-09T11:33:59.591Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:33:59.599Z [INFO]: [2025-06-09T11:33:59.598Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:33:59.641Z [INFO]: [2025-06-09T11:33:59.601Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:33:59.600Z [INFO]: [2025-06-09T11:33:59.600Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:33:59.643Z [INFO]: [2025-06-09T11:33:59.643Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:34:03.912Z [INFO]: [2025-06-09T11:34:03.912Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:34:03.913Z [INFO]: [2025-06-09T11:34:03.913Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:34:03.914Z [INFO]: [2025-06-09T11:34:03.914Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:34:03.915Z [INFO]: [2025-06-09T11:34:03.915Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:34:03.922Z [INFO]: [2025-06-09T11:34:03.922Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:34:03.923Z [INFO]: [2025-06-09T11:34:03.923Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:34:03.925Z [INFO]: [2025-06-09T11:34:03.925Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:34:03.927Z [INFO]: [2025-06-09T11:34:03.927Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:34:08.412Z [ERROR]: [2025-06-09T11:34:08.412Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:34:52.783Z [ERROR]: [2025-06-09T11:34:52.783Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:40:18.284Z [ERROR]: [2025-06-09T11:40:18.284Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:40:24.043Z [ERROR]: [2025-06-09T11:40:24.043Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:40:25.350Z [ERROR]: [2025-06-09T11:40:25.350Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:40:26.326Z [ERROR]: [2025-06-09T11:40:26.326Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:41:11.500Z [ERROR]: [2025-06-09T11:41:11.499Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:41:12.953Z [ERROR]: [2025-06-09T11:41:12.952Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:41:28.351Z [ERROR]: [2025-06-09T11:41:28.351Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:41:31.982Z [INFO]: [2025-06-09T11:41:31.982Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:41:31.983Z [INFO]: [2025-06-09T11:41:31.983Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:41:31.986Z [INFO]: [2025-06-09T11:41:31.985Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:41:31.987Z [INFO]: [2025-06-09T11:41:31.987Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:41:32.061Z [INFO]: [2025-06-09T11:41:32.051Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:41:32.064Z [INFO]: [2025-06-09T11:41:32.063Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:41:32.070Z [INFO]: [2025-06-09T11:41:32.069Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:41:32.071Z [INFO]: [2025-06-09T11:41:32.071Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:42:05.068Z [INFO]: [2025-06-09T11:42:05.067Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:42:05.070Z [INFO]: [2025-06-09T11:42:05.070Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:42:05.067Z [INFO]: [2025-06-09T11:42:05.066Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:42:05.069Z [INFO]: [2025-06-09T11:42:05.069Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:42:18.264Z [INFO]: [2025-06-09T11:42:18.264Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:42:18.265Z [INFO]: [2025-06-09T11:42:18.265Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:42:18.267Z [INFO]: [2025-06-09T11:42:18.266Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:42:18.268Z [INFO]: [2025-06-09T11:42:18.267Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:42:18.274Z [INFO]: [2025-06-09T11:42:18.273Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:42:18.275Z [INFO]: [2025-06-09T11:42:18.275Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:42:18.277Z [INFO]: [2025-06-09T11:42:18.277Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:42:18.280Z [INFO]: [2025-06-09T11:42:18.279Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:42:29.569Z [ERROR]: [2025-06-09T11:42:29.569Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:43:01.347Z [INFO]: [2025-06-09T11:43:01.346Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:43:01.348Z [INFO]: [2025-06-09T11:43:01.348Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:43:01.353Z [INFO]: [2025-06-09T11:43:01.353Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:43:01.355Z [INFO]: [2025-06-09T11:43:01.355Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:43:01.354Z [INFO]: [2025-06-09T11:43:01.354Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:43:01.356Z [INFO]: [2025-06-09T11:43:01.356Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:43:01.362Z [INFO]: [2025-06-09T11:43:01.362Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:43:01.364Z [INFO]: [2025-06-09T11:43:01.363Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:43:08.087Z [ERROR]: [2025-06-09T11:43:08.087Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T11:44:14.209Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:44:14.212Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:44:47.525Z [ERROR]: [2025-06-09T11:44:47.525Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:45:01.617Z [ERROR]: [2025-06-09T11:45:01.617Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:49:25.841Z [ERROR]: [2025-06-09T11:49:25.841Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:50:16.895Z [ERROR]: [2025-06-09T11:50:16.895Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:50:31.884Z [INFO]: [2025-06-09T11:50:31.882Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:50:31.886Z [INFO]: [2025-06-09T11:50:31.886Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:50:31.899Z [INFO]: [2025-06-09T11:50:31.898Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:50:31.902Z [INFO]: [2025-06-09T11:50:31.901Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:50:31.908Z [INFO]: [2025-06-09T11:50:31.907Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:50:31.909Z [INFO]: [2025-06-09T11:50:31.909Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:50:31.912Z [INFO]: [2025-06-09T11:50:31.911Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:50:31.913Z [INFO]: [2025-06-09T11:50:31.913Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:50:35.498Z [ERROR]: [2025-06-09T11:50:35.498Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:51:05.286Z [ERROR]: [2025-06-09T11:51:05.286Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:53:03.772Z [ERROR]: [2025-06-09T11:53:03.772Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:53:08.467Z [INFO]: [2025-06-09T11:53:08.466Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:53:08.468Z [INFO]: [2025-06-09T11:53:08.468Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:53:08.470Z [INFO]: [2025-06-09T11:53:08.469Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:53:08.471Z [INFO]: [2025-06-09T11:53:08.471Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:53:08.479Z [INFO]: [2025-06-09T11:53:08.478Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:53:08.480Z [INFO]: [2025-06-09T11:53:08.480Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:53:08.483Z [INFO]: [2025-06-09T11:53:08.483Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:53:08.485Z [INFO]: [2025-06-09T11:53:08.485Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:53:13.130Z [ERROR]: [2025-06-09T11:53:13.129Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-09T11:54:03.831Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:54:03.834Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:54:16.285Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T11:54:16.289Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T11:54:24.064Z [INFO]: [2025-06-09T11:54:24.064Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:54:24.066Z [INFO]: [2025-06-09T11:54:24.066Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:54:24.080Z [INFO]: [2025-06-09T11:54:24.080Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:54:24.081Z [INFO]: [2025-06-09T11:54:24.081Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:54:24.093Z [INFO]: [2025-06-09T11:54:24.090Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:54:24.095Z [INFO]: [2025-06-09T11:54:24.094Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:54:24.098Z [INFO]: [2025-06-09T11:54:24.097Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:54:24.099Z [INFO]: [2025-06-09T11:54:24.099Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:54:31.382Z [INFO]: [2025-06-09T11:54:31.381Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:55:34.530Z [INFO]: [2025-06-09T11:55:34.530Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:55:52.045Z [INFO]: [2025-06-09T11:55:52.045Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:56:01.163Z [INFO]: [2025-06-09T11:56:01.163Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:57:11.662Z [INFO]: [2025-06-09T11:57:11.662Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:57:11.664Z [INFO]: [2025-06-09T11:57:11.664Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:57:11.668Z [INFO]: [2025-06-09T11:57:11.668Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:57:11.670Z [INFO]: [2025-06-09T11:57:11.670Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:57:11.685Z [INFO]: [2025-06-09T11:57:11.684Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:57:11.687Z [INFO]: [2025-06-09T11:57:11.687Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:57:11.692Z [INFO]: [2025-06-09T11:57:11.691Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:57:11.695Z [INFO]: [2025-06-09T11:57:11.694Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:57:16.929Z [INFO]: [2025-06-09T11:57:16.929Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:57:35.777Z [INFO]: [2025-06-09T11:57:35.777Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:57:51.634Z [INFO]: [2025-06-09T11:57:51.634Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:58:08.222Z [INFO]: [2025-06-09T11:58:08.221Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:58:08.224Z [INFO]: [2025-06-09T11:58:08.224Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:58:08.222Z [INFO]: [2025-06-09T11:58:08.222Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:58:08.225Z [INFO]: [2025-06-09T11:58:08.225Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:58:08.232Z [INFO]: [2025-06-09T11:58:08.232Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:58:08.233Z [INFO]: [2025-06-09T11:58:08.233Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T11:58:08.235Z [INFO]: [2025-06-09T11:58:08.235Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:58:08.236Z [INFO]: [2025-06-09T11:58:08.236Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T11:58:13.802Z [INFO]: [2025-06-09T11:58:13.801Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T11:58:23.936Z [INFO]: [2025-06-09T11:58:23.935Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:00:38.360Z [INFO]: [2025-06-09T12:00:38.359Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:01:27.197Z [INFO]: [2025-06-09T12:01:27.196Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:01:27.197Z [INFO]: [2025-06-09T12:01:27.197Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:01:27.200Z [INFO]: [2025-06-09T12:01:27.199Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:01:27.201Z [INFO]: [2025-06-09T12:01:27.201Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:01:27.212Z [INFO]: [2025-06-09T12:01:27.212Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:01:27.214Z [INFO]: [2025-06-09T12:01:27.213Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:01:27.216Z [INFO]: [2025-06-09T12:01:27.215Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:01:27.217Z [INFO]: [2025-06-09T12:01:27.217Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:01:30.902Z [INFO]: [2025-06-09T12:01:30.901Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:01:36.336Z [INFO]: [2025-06-09T12:01:36.336Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:19:22.074Z [INFO]: [2025-06-09T12:19:22.074Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:19:22.078Z [INFO]: [2025-06-09T12:19:22.077Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:19:22.077Z [INFO]: [2025-06-09T12:19:22.076Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:19:22.075Z [INFO]: [2025-06-09T12:19:22.075Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:22:48.073Z [INFO]: [2025-06-09T12:22:48.073Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:22:48.076Z [INFO]: [2025-06-09T12:22:48.076Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:22:48.074Z [INFO]: [2025-06-09T12:22:48.074Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:22:48.078Z [INFO]: [2025-06-09T12:22:48.077Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:22:50.061Z [INFO]: [2025-06-09T12:22:50.060Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:22:50.063Z [INFO]: [2025-06-09T12:22:50.063Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:22:50.061Z [INFO]: [2025-06-09T12:22:50.061Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:22:50.064Z [INFO]: [2025-06-09T12:22:50.064Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:23:24.420Z [INFO]: [2025-06-09T12:23:24.420Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:23:28.288Z [INFO]: [2025-06-09T12:23:28.287Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:23:28.290Z [INFO]: [2025-06-09T12:23:28.290Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:23:28.292Z [INFO]: [2025-06-09T12:23:28.291Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:23:28.288Z [INFO]: [2025-06-09T12:23:28.288Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:23:28.301Z [INFO]: [2025-06-09T12:23:28.300Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:23:28.305Z [INFO]: [2025-06-09T12:23:28.305Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:23:28.304Z [INFO]: [2025-06-09T12:23:28.304Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:23:28.302Z [INFO]: [2025-06-09T12:23:28.302Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:23:32.020Z [INFO]: [2025-06-09T12:23:32.020Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:23:39.317Z [INFO]: [2025-06-09T12:23:39.317Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:24:03.729Z [INFO]: [2025-06-09T12:24:03.729Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:24:39.340Z [INFO]: [2025-06-09T12:24:39.340Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:25:30.856Z [INFO]: [2025-06-09T12:25:30.856Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:25:33.600Z [INFO]: [2025-06-09T12:25:33.600Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:26:39.230Z [INFO]: [2025-06-09T12:26:39.230Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:26:51.942Z [INFO]: [2025-06-09T12:26:51.942Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:26:57.704Z [INFO]: [2025-06-09T12:26:57.703Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:27:03.682Z [INFO]: [2025-06-09T12:27:03.681Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:27:20.108Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T12:27:20.112Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T12:27:22.211Z [ERROR]: [2025-06-09T12:27:22.210Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T12:28:59.523Z [INFO]: [2025-06-09T12:28:59.523Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T12:28:59.524Z [INFO]: [2025-06-09T12:28:59.524Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T12:29:03.139Z [INFO]: [2025-06-09T12:29:03.139Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:29:03.141Z [INFO]: [2025-06-09T12:29:03.141Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:29:03.149Z [INFO]: [2025-06-09T12:29:03.149Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:29:03.151Z [INFO]: [2025-06-09T12:29:03.151Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:29:03.159Z [INFO]: [2025-06-09T12:29:03.158Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:29:03.161Z [INFO]: [2025-06-09T12:29:03.161Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:29:03.167Z [INFO]: [2025-06-09T12:29:03.167Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:29:03.169Z [INFO]: [2025-06-09T12:29:03.169Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:29:06.879Z [ERROR]: [2025-06-09T12:29:06.879Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'transaction_date' doesn't have a default value
+2025-06-09T12:29:16.296Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T12:29:16.299Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T12:29:20.842Z [INFO]: [2025-06-09T12:29:20.841Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-09T12:44:54.728Z [INFO]: [2025-06-09T12:44:54.728Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T12:44:54.729Z [INFO]: [2025-06-09T12:44:54.729Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-09T12:45:00.712Z [INFO]: [2025-06-09T12:45:00.712Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:45:00.711Z [INFO]: [2025-06-09T12:45:00.711Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:45:00.722Z [INFO]: [2025-06-09T12:45:00.721Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:45:00.723Z [INFO]: [2025-06-09T12:45:00.723Z] GET /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-09T12:45:00.742Z [INFO]: [2025-06-09T12:45:00.742Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:45:00.744Z [INFO]: [2025-06-09T12:45:00.744Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:45:00.751Z [INFO]: [2025-06-09T12:45:00.750Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:45:00.752Z [INFO]: [2025-06-09T12:45:00.752Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully

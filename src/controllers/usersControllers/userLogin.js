@@ -36,7 +36,7 @@ const loginController = asyncHandler(async (req, res) => {
 
   const session = sessionRepo.create({
     mobile: user.mobile,
-    token: accessToken,
+    accessToken,
     refreshToken,
     deviceInfo: deviceInfo || req.headers["user-agent"],
     ipAddress: req.ip,

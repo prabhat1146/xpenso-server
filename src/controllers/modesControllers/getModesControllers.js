@@ -11,7 +11,7 @@ const getModesController = asyncHandler(async (req, res, next) => {
   const modes = await modeRepo.find();
   
 
-  ApiResponse.success(res,200,true, "Modes fetched successfully", modes);
+  ApiResponse.success(req,res,200,true, "Modes fetched successfully", modes);
   Logger.info(`[${new Date().toISOString()}] GET ${req?.originalUrl} - ${req.ip} - Modes fetched successfully`);
   return;
 

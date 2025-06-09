@@ -36,7 +36,7 @@ module.exports = new EntitySchema({
       nullable: true,
     },
     transactionDate: {
-      type: "date",
+      type: "varchar",
       nullable: false,
       name: "transaction_date",
     },

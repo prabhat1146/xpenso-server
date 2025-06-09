@@ -8,6 +8,17 @@ module.exports = new EntitySchema({
       type: String,
       primary: true,
     },
+    mobileOTP: {
+      type: String,
+      primary: false,
+      nullable: true,
+    },
+    isMobileVerified: {
+      type: Boolean,
+      primary: false,
+      default:false,
+      nullable:false
+    },
     firstName: {
       type: String,
       nullable: false,
@@ -24,6 +35,12 @@ module.exports = new EntitySchema({
       type: String,
       unique: true,
       nullable: false,
+    },
+    isEmailVerified: {
+      type: Boolean,
+      unique: false,
+      nullable: false,
+      default:false
     },
     passwordHash: {
       type: String,

@@ -32,7 +32,7 @@ AppDataSource.initialize()
     });
   })
   .catch((error) => {
-    Logger.error("❌ Failed to connect to DB:", error);
+    Logger.error(`❌ Failed to connect to DB: ${error.message}`);
   });
 
 

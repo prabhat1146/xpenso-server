@@ -12,14 +12,15 @@ module.exports = new EntitySchema({
     },
     mobile: {
       type: "varchar",
-      length: 20, // adjust length as needed, e.g. including country code
+      length: 13,
       nullable: false,
     },
-    token: {
+    accessToken: {
       type: "varchar",
       length: 512,
       nullable: false,
       unique: true,
+      name: "access_token",
     },
     refreshToken: {
       type: "varchar",
