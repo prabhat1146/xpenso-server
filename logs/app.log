@@ -822,3 +822,59 @@
 2025-06-08T15:21:22.919Z [INFO]: [2025-06-08T15:21:22.918Z] POST /api/v1/user/login - ::1 - Login successful
 2025-06-08T15:25:19.374Z [INFO]: [2025-06-08T15:25:19.373Z] POST /api/v1/user/login - ::1 - Login successful
 2025-06-08T15:25:19.375Z [INFO]: [2025-06-08T15:25:19.374Z] POST /api/v1/user/login - ::1 - Login successful
+2025-06-09T04:41:15.347Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:41:15.289Z [INFO]: 📦 Database connected
+2025-06-09T04:42:31.170Z [INFO]: 📦 Database connected
+2025-06-09T04:42:31.178Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:43:00.207Z [INFO]: 📦 Database connected
+2025-06-09T04:43:00.214Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:44:16.849Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:44:16.843Z [INFO]: 📦 Database connected
+2025-06-09T04:44:52.381Z [INFO]: 📦 Database connected
+2025-06-09T04:44:52.387Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:48:55.378Z [INFO]: 📦 Database connected
+2025-06-09T04:48:55.383Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:49:41.557Z [INFO]: 📦 Database connected successfully.
+2025-06-09T04:49:41.564Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:50:12.488Z [INFO]: 📦 Database connected successfully.
+ Host: MYSQL1002.site4now.net
+2025-06-09T04:50:12.500Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:50:23.853Z [INFO]: 📦 Database connected successfully.
+ Host: MYSQL1002.site4now.net 
+ Host: MYSQL1002.site4now.net
+2025-06-09T04:50:23.858Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:50:42.800Z [INFO]: 📦 Database connected successfully.
+ Type: mysql 
+ Host: MYSQL1002.site4now.net
+2025-06-09T04:50:42.807Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:51:08.095Z [INFO]: 📦 Database connected successfully.
+ Type: mysql 
+ Host: MYSQL1002.site4now.net 
+ Database: MYSQL1002.site4now.net
+2025-06-09T04:51:08.101Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:51:17.102Z [INFO]: 📦 Database connected successfully.
+ Type: mysql 
+ Host: MYSQL1002.site4now.net 
+ Database: db_aba303_xpenso
+2025-06-09T04:51:17.108Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:52:55.202Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T04:52:55.206Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:54:47.225Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T04:54:47.231Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T04:55:07.377Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T04:55:07.382Z [INFO]: 🚀 Server is running on http://localhost:5000

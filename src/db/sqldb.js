@@ -9,12 +9,13 @@ const username=process.env.SQL_DB_USERNAME;
 const password=process.env.SQL_DB_PASSWORD;
 const db_name=process.env.SQL_DB_NAME
 const host=process.env.SQL_DB_HOST;
+const port=process.env.SQL_DB_PORT;
 
 
 const AppDataSource = new DataSource({
   type: "mysql",           // Change to your DB type (e.g. "postgres", "sqlite", etc.)
   host: host,
-  port: 3306,
+  port: port,
   username: username,
   password: password,
   database: db_name,

@@ -9,8 +9,16 @@ const port = process.env.PORT || 8000;
 
 
 AppDataSource.initialize()
-  .then(() => {
-    Logger.info("📦 Database connected")
+  .then((res) => {
+    const options=res.options;
+    console.log(options)
+    Logger.info("📦 Database connected successfully:\n" +
+      `🔌 Type     : ${options.type}\n` +
+      `🌐 Host     : ${options.host}\n` +
+      `📍 Port     : ${options.port}\n` +
+      `💾 Database : ${options.database}\n` +
+      `👤 Username : ${options.username}`
+    );
     app.listen(port, async(err) => {
         if(err){
             Logger.info(err.message)
