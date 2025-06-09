@@ -11,7 +11,7 @@ const port = process.env.PORT || 8000;
 AppDataSource.initialize()
   .then((res) => {
     const options=res.options;
-    console.log(options)
+    // console.log(options)
     Logger.info("📦 Database connected successfully:\n" +
       `🔌 Type     : ${options.type}\n` +
       `🌐 Host     : ${options.host}\n` +
