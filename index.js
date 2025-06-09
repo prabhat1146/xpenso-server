@@ -6,6 +6,7 @@ const seedModes = require("./src/data/Mode.seed.js");
 const seedCategories = require("./src/data/Category.seed.js");
 const Logger = require("./src/utility/logger.js");
 const port = process.env.PORT || 8000;
+const host=process.env.SERVER_HOST;
 
 
 AppDataSource.initialize()
@@ -24,7 +25,7 @@ AppDataSource.initialize()
             Logger.info(err.message)
             return;
         }
-      Logger.info(`🚀 Server is running on http://localhost:${port}`)
+      Logger.info(`🚀 Server is running on ${host}: ${port}`)
     //   await seedModes(AppDataSource)
     // await seedCategories(AppDataSource);
       

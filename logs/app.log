@@ -878,3 +878,17 @@
 💾 Database : db_aba303_xpenso
 👤 Username : aba303_xpenso
 2025-06-09T04:55:07.382Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T05:11:14.220Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T05:11:14.227Z [INFO]: 🚀 Server is running on http://localhost:5000
+2025-06-09T05:11:28.580Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T05:11:28.587Z [INFO]: 🚀 Server is running on http://localhost: 5000
