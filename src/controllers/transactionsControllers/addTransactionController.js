@@ -23,8 +23,8 @@ const addTransactionsController = asyncHandler(async (req, res) => {
 
   const transaction={
     type,
-    mode,
-    category,
+    modeId:mode,
+    categoryId:category,
     amount,
     notes,
     mobile:req?.user?.mobile,
