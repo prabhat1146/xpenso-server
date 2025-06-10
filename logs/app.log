@@ -3425,3 +3425,1012 @@
 2025-06-09T12:45:00.744Z [INFO]: [2025-06-09T12:45:00.744Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
 2025-06-09T12:45:00.751Z [INFO]: [2025-06-09T12:45:00.750Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
 2025-06-09T12:45:00.752Z [INFO]: [2025-06-09T12:45:00.752Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-09T12:50:26.871Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-09T12:50:26.874Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T12:53:57.830Z [ERROR]: ❌ Failed to connect to DB: Cannot add or update a child row: a foreign key constraint fails
+2025-06-09T13:05:28.961Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T13:05:28.967Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T13:05:47.716Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T13:05:47.723Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T13:06:03.323Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T13:06:03.329Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T13:06:48.400Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-09T13:06:48.404Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T13:06:52.416Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-09T13:06:52.412Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-10T04:27:13.205Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-10T04:27:13.219Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-10T04:28:46.968Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-10T04:28:46.973Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-10T04:28:53.902Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-10T04:28:53.907Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-10T04:29:05.624Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-10T04:29:05.632Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-10T04:29:07.926Z [INFO]: [2025-06-10T04:29:07.925Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T04:31:00.615Z [INFO]: [2025-06-10T04:31:00.614Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T04:31:27.168Z [INFO]: [2025-06-10T04:31:27.167Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T04:31:27.188Z [INFO]: [2025-06-10T04:31:27.187Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T04:31:27.206Z [INFO]: [2025-06-10T04:31:27.205Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T04:31:27.210Z [INFO]: [2025-06-10T04:31:27.209Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T04:31:27.226Z [INFO]: [2025-06-10T04:31:27.226Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T04:31:27.230Z [INFO]: [2025-06-10T04:31:27.229Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T04:31:32.366Z [ERROR]: [2025-06-10T04:31:32.365Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-10T04:31:50.819Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-10T04:31:50.826Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-10T04:32:05.298Z [INFO]: [2025-06-10T04:32:05.297Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-10T04:32:05.295Z [INFO]: [2025-06-10T04:32:05.294Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-10T04:32:08.821Z [INFO]: [2025-06-10T04:32:08.819Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T04:32:08.845Z [INFO]: [2025-06-10T04:32:08.844Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T04:32:08.857Z [INFO]: [2025-06-10T04:32:08.856Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T04:32:08.860Z [INFO]: [2025-06-10T04:32:08.859Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T04:32:08.879Z [INFO]: [2025-06-10T04:32:08.878Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T04:32:08.883Z [INFO]: [2025-06-10T04:32:08.882Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T04:32:13.880Z [INFO]: [2025-06-10T04:32:13.879Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-10T04:32:31.241Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-10T04:32:31.248Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-10T04:32:33.438Z [INFO]: [2025-06-10T04:32:33.436Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:01:34.271Z [INFO]: [2025-06-10T05:01:34.270Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:01:34.279Z [INFO]: [2025-06-10T05:01:34.279Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:02:10.417Z [INFO]: [2025-06-10T05:02:10.417Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:02:10.424Z [INFO]: [2025-06-10T05:02:10.424Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:02:29.378Z [INFO]: [2025-06-10T05:02:29.378Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:02:29.384Z [INFO]: [2025-06-10T05:02:29.383Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:06:51.542Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-10T05:06:51.546Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-10T05:07:06.217Z [INFO]: [2025-06-10T05:07:06.216Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:16:33.014Z [INFO]: [2025-06-10T05:16:33.014Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:16:33.023Z [INFO]: [2025-06-10T05:16:33.022Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:22:11.568Z [INFO]: [2025-06-10T05:22:11.567Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:22:11.576Z [INFO]: [2025-06-10T05:22:11.576Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:22:11.582Z [INFO]: [2025-06-10T05:22:11.582Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:22:33.560Z [INFO]: [2025-06-10T05:22:33.560Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:29:28.554Z [INFO]: [2025-06-10T05:29:28.553Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:35:51.583Z [INFO]: [2025-06-10T05:35:51.582Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:35:51.591Z [INFO]: [2025-06-10T05:35:51.591Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:35:58.794Z [INFO]: [2025-06-10T05:35:58.793Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:35:58.797Z [INFO]: [2025-06-10T05:35:58.796Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:35:58.801Z [INFO]: [2025-06-10T05:35:58.801Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:35:58.804Z [INFO]: [2025-06-10T05:35:58.804Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:37:15.949Z [INFO]: [2025-06-10T05:37:15.949Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:37:15.952Z [INFO]: [2025-06-10T05:37:15.952Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:37:15.955Z [INFO]: [2025-06-10T05:37:15.955Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:37:15.961Z [INFO]: [2025-06-10T05:37:15.961Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:37:26.488Z [INFO]: [2025-06-10T05:37:26.487Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:37:26.483Z [INFO]: [2025-06-10T05:37:26.482Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:37:26.498Z [INFO]: [2025-06-10T05:37:26.498Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:37:26.503Z [INFO]: [2025-06-10T05:37:26.502Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:37:45.292Z [INFO]: [2025-06-10T05:37:45.292Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:37:45.296Z [INFO]: [2025-06-10T05:37:45.296Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:37:45.300Z [INFO]: [2025-06-10T05:37:45.300Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:37:45.305Z [INFO]: [2025-06-10T05:37:45.303Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:38:05.426Z [INFO]: [2025-06-10T05:38:05.426Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:38:05.431Z [INFO]: [2025-06-10T05:38:05.430Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:38:07.839Z [INFO]: [2025-06-10T05:38:07.839Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:38:07.843Z [INFO]: [2025-06-10T05:38:07.842Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:38:07.850Z [INFO]: [2025-06-10T05:38:07.846Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:38:07.873Z [INFO]: [2025-06-10T05:38:07.864Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:38:28.108Z [INFO]: [2025-06-10T05:38:28.107Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:38:28.113Z [INFO]: [2025-06-10T05:38:28.112Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:38:28.125Z [INFO]: [2025-06-10T05:38:28.117Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:38:28.148Z [INFO]: [2025-06-10T05:38:28.136Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:39:35.587Z [INFO]: [2025-06-10T05:39:35.587Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:39:35.590Z [INFO]: [2025-06-10T05:39:35.590Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:39:35.594Z [INFO]: [2025-06-10T05:39:35.594Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:39:35.598Z [INFO]: [2025-06-10T05:39:35.597Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:52:25.645Z [INFO]: [2025-06-10T05:52:25.644Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:52:25.654Z [INFO]: [2025-06-10T05:52:25.654Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:52:25.657Z [INFO]: [2025-06-10T05:52:25.656Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:25.658Z [INFO]: [2025-06-10T05:52:25.658Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:25.661Z [INFO]: [2025-06-10T05:52:25.661Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:52:25.667Z [INFO]: [2025-06-10T05:52:25.666Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:25.668Z [INFO]: [2025-06-10T05:52:25.668Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:25.671Z [INFO]: [2025-06-10T05:52:25.671Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:52:32.637Z [INFO]: [2025-06-10T05:52:32.636Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:52:32.644Z [INFO]: [2025-06-10T05:52:32.644Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:52:32.646Z [INFO]: [2025-06-10T05:52:32.646Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:32.647Z [INFO]: [2025-06-10T05:52:32.647Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:32.653Z [INFO]: [2025-06-10T05:52:32.653Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:52:32.656Z [INFO]: [2025-06-10T05:52:32.656Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:32.657Z [INFO]: [2025-06-10T05:52:32.657Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:32.658Z [INFO]: [2025-06-10T05:52:32.658Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:52:36.626Z [INFO]: [2025-06-10T05:52:36.626Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:36.623Z [INFO]: [2025-06-10T05:52:36.623Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:52:36.627Z [INFO]: [2025-06-10T05:52:36.627Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:36.631Z [INFO]: [2025-06-10T05:52:36.630Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:52:36.637Z [INFO]: [2025-06-10T05:52:36.633Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:52:36.642Z [INFO]: [2025-06-10T05:52:36.642Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:36.643Z [INFO]: [2025-06-10T05:52:36.643Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:36.646Z [INFO]: [2025-06-10T05:52:36.646Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:52:45.698Z [INFO]: [2025-06-10T05:52:45.698Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:52:45.702Z [INFO]: [2025-06-10T05:52:45.702Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:45.703Z [INFO]: [2025-06-10T05:52:45.703Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:45.707Z [INFO]: [2025-06-10T05:52:45.706Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:52:45.712Z [INFO]: [2025-06-10T05:52:45.710Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:52:45.717Z [INFO]: [2025-06-10T05:52:45.716Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:45.719Z [INFO]: [2025-06-10T05:52:45.718Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:52:45.721Z [INFO]: [2025-06-10T05:52:45.721Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:53:22.514Z [INFO]: [2025-06-10T05:53:22.513Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:53:22.517Z [INFO]: [2025-06-10T05:53:22.516Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:53:22.521Z [INFO]: [2025-06-10T05:53:22.521Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:53:22.522Z [INFO]: [2025-06-10T05:53:22.522Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:53:22.523Z [INFO]: [2025-06-10T05:53:22.522Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:53:22.525Z [INFO]: [2025-06-10T05:53:22.525Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:53:22.529Z [INFO]: [2025-06-10T05:53:22.529Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:53:22.532Z [INFO]: [2025-06-10T05:53:22.530Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:53:25.042Z [INFO]: [2025-06-10T05:53:25.042Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:53:25.043Z [INFO]: [2025-06-10T05:53:25.043Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:53:25.046Z [INFO]: [2025-06-10T05:53:25.045Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:53:25.044Z [INFO]: [2025-06-10T05:53:25.044Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:53:25.049Z [INFO]: [2025-06-10T05:53:25.049Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:53:25.052Z [INFO]: [2025-06-10T05:53:25.052Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:53:25.054Z [INFO]: [2025-06-10T05:53:25.053Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:53:25.056Z [INFO]: [2025-06-10T05:53:25.055Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:54:45.698Z [INFO]: [2025-06-10T05:54:45.697Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:54:45.701Z [INFO]: [2025-06-10T05:54:45.700Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:54:45.705Z [INFO]: [2025-06-10T05:54:45.704Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:54:45.707Z [INFO]: [2025-06-10T05:54:45.707Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:54:48.594Z [INFO]: [2025-06-10T05:54:48.594Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:54:48.596Z [INFO]: [2025-06-10T05:54:48.596Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:54:48.600Z [INFO]: [2025-06-10T05:54:48.599Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:54:48.605Z [INFO]: [2025-06-10T05:54:48.605Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:56:03.900Z [INFO]: [2025-06-10T05:56:03.900Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:56:03.905Z [INFO]: [2025-06-10T05:56:03.904Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:03.906Z [INFO]: [2025-06-10T05:56:03.905Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:03.910Z [INFO]: [2025-06-10T05:56:03.910Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:56:03.915Z [INFO]: [2025-06-10T05:56:03.914Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:56:03.918Z [INFO]: [2025-06-10T05:56:03.917Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:03.920Z [INFO]: [2025-06-10T05:56:03.919Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:03.924Z [INFO]: [2025-06-10T05:56:03.924Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:56:46.477Z [INFO]: [2025-06-10T05:56:46.476Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:56:46.482Z [INFO]: [2025-06-10T05:56:46.482Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:56:46.488Z [INFO]: [2025-06-10T05:56:46.485Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:46.489Z [INFO]: [2025-06-10T05:56:46.489Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:46.494Z [INFO]: [2025-06-10T05:56:46.492Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:56:46.498Z [INFO]: [2025-06-10T05:56:46.496Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:56:46.512Z [INFO]: [2025-06-10T05:56:46.512Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:46.514Z [INFO]: [2025-06-10T05:56:46.513Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:49.955Z [INFO]: [2025-06-10T05:56:49.955Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:56:49.958Z [INFO]: [2025-06-10T05:56:49.958Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:49.959Z [INFO]: [2025-06-10T05:56:49.959Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:49.962Z [INFO]: [2025-06-10T05:56:49.961Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:56:49.971Z [INFO]: [2025-06-10T05:56:49.968Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:56:49.974Z [INFO]: [2025-06-10T05:56:49.974Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:49.975Z [INFO]: [2025-06-10T05:56:49.975Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:56:49.979Z [INFO]: [2025-06-10T05:56:49.979Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:57:48.664Z [INFO]: [2025-06-10T05:57:48.664Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:57:48.667Z [INFO]: [2025-06-10T05:57:48.667Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:57:48.668Z [INFO]: [2025-06-10T05:57:48.668Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:57:48.670Z [INFO]: [2025-06-10T05:57:48.670Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:57:48.674Z [INFO]: [2025-06-10T05:57:48.673Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:57:48.677Z [INFO]: [2025-06-10T05:57:48.676Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:57:48.678Z [INFO]: [2025-06-10T05:57:48.678Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:57:48.680Z [INFO]: [2025-06-10T05:57:48.679Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:57:57.705Z [INFO]: [2025-06-10T05:57:57.704Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:57:57.706Z [INFO]: [2025-06-10T05:57:57.706Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:57:57.703Z [INFO]: [2025-06-10T05:57:57.703Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:57:57.708Z [INFO]: [2025-06-10T05:57:57.708Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:57:57.712Z [INFO]: [2025-06-10T05:57:57.712Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:57:57.715Z [INFO]: [2025-06-10T05:57:57.715Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:57:57.717Z [INFO]: [2025-06-10T05:57:57.717Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:57:57.719Z [INFO]: [2025-06-10T05:57:57.719Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:03.622Z [INFO]: [2025-06-10T05:58:03.622Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:03.627Z [INFO]: [2025-06-10T05:58:03.626Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:03.630Z [INFO]: [2025-06-10T05:58:03.630Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:03.632Z [INFO]: [2025-06-10T05:58:03.631Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:03.628Z [INFO]: [2025-06-10T05:58:03.628Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:03.636Z [INFO]: [2025-06-10T05:58:03.635Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:03.639Z [INFO]: [2025-06-10T05:58:03.639Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:03.637Z [INFO]: [2025-06-10T05:58:03.637Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:35.638Z [INFO]: [2025-06-10T05:58:35.638Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:35.639Z [INFO]: [2025-06-10T05:58:35.639Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:35.641Z [INFO]: [2025-06-10T05:58:35.640Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:35.647Z [INFO]: [2025-06-10T05:58:35.646Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:35.644Z [INFO]: [2025-06-10T05:58:35.644Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:35.648Z [INFO]: [2025-06-10T05:58:35.648Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:35.650Z [INFO]: [2025-06-10T05:58:35.649Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:35.654Z [INFO]: [2025-06-10T05:58:35.654Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:41.573Z [INFO]: [2025-06-10T05:58:41.573Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:41.577Z [INFO]: [2025-06-10T05:58:41.576Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:41.578Z [INFO]: [2025-06-10T05:58:41.578Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:41.580Z [INFO]: [2025-06-10T05:58:41.580Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:41.582Z [INFO]: [2025-06-10T05:58:41.581Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:41.587Z [INFO]: [2025-06-10T05:58:41.587Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:41.589Z [INFO]: [2025-06-10T05:58:41.588Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:41.591Z [INFO]: [2025-06-10T05:58:41.590Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:48.329Z [INFO]: [2025-06-10T05:58:48.329Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:48.335Z [INFO]: [2025-06-10T05:58:48.334Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:48.338Z [INFO]: [2025-06-10T05:58:48.337Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:48.341Z [INFO]: [2025-06-10T05:58:48.339Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:48.344Z [INFO]: [2025-06-10T05:58:48.343Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:48.351Z [INFO]: [2025-06-10T05:58:48.349Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:48.359Z [INFO]: [2025-06-10T05:58:48.358Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:48.361Z [INFO]: [2025-06-10T05:58:48.360Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:50.703Z [INFO]: [2025-06-10T05:58:50.702Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:50.706Z [INFO]: [2025-06-10T05:58:50.706Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:50.708Z [INFO]: [2025-06-10T05:58:50.708Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:50.717Z [INFO]: [2025-06-10T05:58:50.716Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:58:50.719Z [INFO]: [2025-06-10T05:58:50.719Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:58:50.721Z [INFO]: [2025-06-10T05:58:50.720Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:50.722Z [INFO]: [2025-06-10T05:58:50.722Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:58:50.730Z [INFO]: [2025-06-10T05:58:50.730Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:28.764Z [INFO]: [2025-06-10T05:59:28.761Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:28.835Z [INFO]: [2025-06-10T05:59:28.833Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:28.837Z [INFO]: [2025-06-10T05:59:28.836Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:28.838Z [INFO]: [2025-06-10T05:59:28.838Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:28.840Z [INFO]: [2025-06-10T05:59:28.840Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:28.885Z [INFO]: [2025-06-10T05:59:28.844Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:28.896Z [INFO]: [2025-06-10T05:59:28.886Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:28.901Z [INFO]: [2025-06-10T05:59:28.898Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:30.628Z [INFO]: [2025-06-10T05:59:30.628Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:30.630Z [INFO]: [2025-06-10T05:59:30.629Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:30.631Z [INFO]: [2025-06-10T05:59:30.630Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:30.632Z [INFO]: [2025-06-10T05:59:30.632Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:30.639Z [INFO]: [2025-06-10T05:59:30.636Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:30.643Z [INFO]: [2025-06-10T05:59:30.641Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:30.644Z [INFO]: [2025-06-10T05:59:30.644Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:30.647Z [INFO]: [2025-06-10T05:59:30.646Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:32.650Z [INFO]: [2025-06-10T05:59:32.649Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:32.653Z [INFO]: [2025-06-10T05:59:32.652Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:32.654Z [INFO]: [2025-06-10T05:59:32.654Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:32.656Z [INFO]: [2025-06-10T05:59:32.655Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:32.660Z [INFO]: [2025-06-10T05:59:32.659Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:32.663Z [INFO]: [2025-06-10T05:59:32.663Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:32.664Z [INFO]: [2025-06-10T05:59:32.664Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:32.667Z [INFO]: [2025-06-10T05:59:32.666Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:38.665Z [INFO]: [2025-06-10T05:59:38.665Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:38.668Z [INFO]: [2025-06-10T05:59:38.668Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:38.671Z [INFO]: [2025-06-10T05:59:38.671Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:38.667Z [INFO]: [2025-06-10T05:59:38.666Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:38.678Z [INFO]: [2025-06-10T05:59:38.677Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:38.680Z [INFO]: [2025-06-10T05:59:38.679Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:38.683Z [INFO]: [2025-06-10T05:59:38.683Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:38.681Z [INFO]: [2025-06-10T05:59:38.681Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:46.644Z [INFO]: [2025-06-10T05:59:46.644Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:46.649Z [INFO]: [2025-06-10T05:59:46.649Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:46.648Z [INFO]: [2025-06-10T05:59:46.648Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:46.651Z [INFO]: [2025-06-10T05:59:46.651Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:46.654Z [INFO]: [2025-06-10T05:59:46.653Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:46.657Z [INFO]: [2025-06-10T05:59:46.657Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:46.658Z [INFO]: [2025-06-10T05:59:46.658Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:46.660Z [INFO]: [2025-06-10T05:59:46.660Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:50.614Z [INFO]: [2025-06-10T05:59:50.613Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:50.615Z [INFO]: [2025-06-10T05:59:50.615Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:50.616Z [INFO]: [2025-06-10T05:59:50.616Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:50.618Z [INFO]: [2025-06-10T05:59:50.617Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:50.625Z [INFO]: [2025-06-10T05:59:50.621Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:50.628Z [INFO]: [2025-06-10T05:59:50.626Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:50.633Z [INFO]: [2025-06-10T05:59:50.629Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:50.645Z [INFO]: [2025-06-10T05:59:50.644Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:53.435Z [INFO]: [2025-06-10T05:59:53.435Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:53.440Z [INFO]: [2025-06-10T05:59:53.439Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:53.442Z [INFO]: [2025-06-10T05:59:53.442Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:53.444Z [INFO]: [2025-06-10T05:59:53.444Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T05:59:53.447Z [INFO]: [2025-06-10T05:59:53.446Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T05:59:53.461Z [INFO]: [2025-06-10T05:59:53.459Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:53.463Z [INFO]: [2025-06-10T05:59:53.462Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T05:59:53.465Z [INFO]: [2025-06-10T05:59:53.465Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:00:49.651Z [INFO]: [2025-06-10T06:00:49.651Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:00:49.656Z [INFO]: [2025-06-10T06:00:49.655Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:00:49.658Z [INFO]: [2025-06-10T06:00:49.658Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:00:49.657Z [INFO]: [2025-06-10T06:00:49.657Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:00:49.659Z [INFO]: [2025-06-10T06:00:49.659Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:00:49.663Z [INFO]: [2025-06-10T06:00:49.662Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:00:49.664Z [INFO]: [2025-06-10T06:00:49.664Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:00:49.666Z [INFO]: [2025-06-10T06:00:49.666Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:00:52.700Z [INFO]: [2025-06-10T06:00:52.700Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:00:52.703Z [INFO]: [2025-06-10T06:00:52.702Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:00:52.703Z [INFO]: [2025-06-10T06:00:52.703Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:00:52.705Z [INFO]: [2025-06-10T06:00:52.704Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:00:52.714Z [INFO]: [2025-06-10T06:00:52.713Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:00:52.715Z [INFO]: [2025-06-10T06:00:52.715Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:00:52.712Z [INFO]: [2025-06-10T06:00:52.709Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:00:52.719Z [INFO]: [2025-06-10T06:00:52.719Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:13.717Z [INFO]: [2025-06-10T06:01:13.717Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:13.721Z [INFO]: [2025-06-10T06:01:13.720Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:13.722Z [INFO]: [2025-06-10T06:01:13.722Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:13.724Z [INFO]: [2025-06-10T06:01:13.724Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:13.727Z [INFO]: [2025-06-10T06:01:13.727Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:13.731Z [INFO]: [2025-06-10T06:01:13.730Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:13.733Z [INFO]: [2025-06-10T06:01:13.733Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:13.734Z [INFO]: [2025-06-10T06:01:13.734Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:17.636Z [INFO]: [2025-06-10T06:01:17.635Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:17.638Z [INFO]: [2025-06-10T06:01:17.637Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:17.639Z [INFO]: [2025-06-10T06:01:17.639Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:17.641Z [INFO]: [2025-06-10T06:01:17.640Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:17.646Z [INFO]: [2025-06-10T06:01:17.645Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:17.649Z [INFO]: [2025-06-10T06:01:17.649Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:17.651Z [INFO]: [2025-06-10T06:01:17.650Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:17.652Z [INFO]: [2025-06-10T06:01:17.652Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:21.729Z [INFO]: [2025-06-10T06:01:21.728Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:21.731Z [INFO]: [2025-06-10T06:01:21.731Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:21.732Z [INFO]: [2025-06-10T06:01:21.732Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:21.734Z [INFO]: [2025-06-10T06:01:21.733Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:21.739Z [INFO]: [2025-06-10T06:01:21.738Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:21.741Z [INFO]: [2025-06-10T06:01:21.741Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:21.742Z [INFO]: [2025-06-10T06:01:21.742Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:21.744Z [INFO]: [2025-06-10T06:01:21.743Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:44.678Z [INFO]: [2025-06-10T06:01:44.677Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:44.682Z [INFO]: [2025-06-10T06:01:44.681Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:44.682Z [INFO]: [2025-06-10T06:01:44.682Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:44.685Z [INFO]: [2025-06-10T06:01:44.684Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:44.686Z [INFO]: [2025-06-10T06:01:44.686Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:44.690Z [INFO]: [2025-06-10T06:01:44.690Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:44.691Z [INFO]: [2025-06-10T06:01:44.691Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:44.693Z [INFO]: [2025-06-10T06:01:44.692Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:55.628Z [INFO]: [2025-06-10T06:01:55.628Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:55.634Z [INFO]: [2025-06-10T06:01:55.633Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:55.636Z [INFO]: [2025-06-10T06:01:55.635Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:55.638Z [INFO]: [2025-06-10T06:01:55.638Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:55.639Z [INFO]: [2025-06-10T06:01:55.638Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:01:55.645Z [INFO]: [2025-06-10T06:01:55.645Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:01:55.648Z [INFO]: [2025-06-10T06:01:55.647Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:01:55.649Z [INFO]: [2025-06-10T06:01:55.649Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:02:02.642Z [INFO]: [2025-06-10T06:02:02.642Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:02:02.647Z [INFO]: [2025-06-10T06:02:02.647Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:02:02.650Z [INFO]: [2025-06-10T06:02:02.650Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:02:02.649Z [INFO]: [2025-06-10T06:02:02.648Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:02:02.653Z [INFO]: [2025-06-10T06:02:02.653Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:02:02.655Z [INFO]: [2025-06-10T06:02:02.655Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:02:02.656Z [INFO]: [2025-06-10T06:02:02.656Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:02:02.659Z [INFO]: [2025-06-10T06:02:02.659Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:02:06.809Z [INFO]: [2025-06-10T06:02:06.809Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:02:06.811Z [INFO]: [2025-06-10T06:02:06.810Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:02:06.812Z [INFO]: [2025-06-10T06:02:06.812Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:02:06.815Z [INFO]: [2025-06-10T06:02:06.815Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:02:06.819Z [INFO]: [2025-06-10T06:02:06.818Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:02:06.822Z [INFO]: [2025-06-10T06:02:06.821Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:02:06.823Z [INFO]: [2025-06-10T06:02:06.823Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:02:06.827Z [INFO]: [2025-06-10T06:02:06.827Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:03:43.653Z [INFO]: [2025-06-10T06:03:43.653Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:03:43.656Z [INFO]: [2025-06-10T06:03:43.656Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:03:43.657Z [INFO]: [2025-06-10T06:03:43.657Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:03:43.659Z [INFO]: [2025-06-10T06:03:43.659Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:03:43.661Z [INFO]: [2025-06-10T06:03:43.660Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:03:43.666Z [INFO]: [2025-06-10T06:03:43.666Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:03:43.667Z [INFO]: [2025-06-10T06:03:43.667Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:03:43.669Z [INFO]: [2025-06-10T06:03:43.668Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:03:55.236Z [INFO]: [2025-06-10T06:03:55.236Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:03:55.238Z [INFO]: [2025-06-10T06:03:55.238Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:03:55.241Z [INFO]: [2025-06-10T06:03:55.240Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:03:55.239Z [INFO]: [2025-06-10T06:03:55.239Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:03:55.244Z [INFO]: [2025-06-10T06:03:55.244Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:03:55.248Z [INFO]: [2025-06-10T06:03:55.247Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:03:55.250Z [INFO]: [2025-06-10T06:03:55.250Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:03:55.252Z [INFO]: [2025-06-10T06:03:55.252Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:06:45.651Z [INFO]: [2025-06-10T06:06:45.650Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:06:45.658Z [INFO]: [2025-06-10T06:06:45.657Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:06:45.656Z [INFO]: [2025-06-10T06:06:45.655Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:06:45.660Z [INFO]: [2025-06-10T06:06:45.660Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:06:45.677Z [INFO]: [2025-06-10T06:06:45.664Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:06:45.685Z [INFO]: [2025-06-10T06:06:45.685Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:06:45.686Z [INFO]: [2025-06-10T06:06:45.686Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:06:45.688Z [INFO]: [2025-06-10T06:06:45.688Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:06:46.703Z [INFO]: [2025-06-10T06:06:46.702Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:06:46.705Z [INFO]: [2025-06-10T06:06:46.705Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:06:46.706Z [INFO]: [2025-06-10T06:06:46.706Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:06:46.708Z [INFO]: [2025-06-10T06:06:46.708Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:06:46.713Z [INFO]: [2025-06-10T06:06:46.712Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:06:46.714Z [INFO]: [2025-06-10T06:06:46.714Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:06:46.717Z [INFO]: [2025-06-10T06:06:46.716Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:06:46.715Z [INFO]: [2025-06-10T06:06:46.714Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:01.652Z [INFO]: [2025-06-10T06:07:01.652Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:07:01.656Z [INFO]: [2025-06-10T06:07:01.656Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:01.657Z [INFO]: [2025-06-10T06:07:01.657Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:01.660Z [INFO]: [2025-06-10T06:07:01.660Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:07:01.664Z [INFO]: [2025-06-10T06:07:01.661Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:07:01.668Z [INFO]: [2025-06-10T06:07:01.668Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:01.670Z [INFO]: [2025-06-10T06:07:01.669Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:01.672Z [INFO]: [2025-06-10T06:07:01.671Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:07:17.612Z [INFO]: [2025-06-10T06:07:17.611Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:07:17.614Z [INFO]: [2025-06-10T06:07:17.613Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:17.614Z [INFO]: [2025-06-10T06:07:17.614Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:17.616Z [INFO]: [2025-06-10T06:07:17.616Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:07:17.619Z [INFO]: [2025-06-10T06:07:17.619Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:07:17.621Z [INFO]: [2025-06-10T06:07:17.621Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:17.622Z [INFO]: [2025-06-10T06:07:17.622Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:17.624Z [INFO]: [2025-06-10T06:07:17.623Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:07:24.643Z [INFO]: [2025-06-10T06:07:24.642Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:07:24.654Z [INFO]: [2025-06-10T06:07:24.650Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:24.649Z [INFO]: [2025-06-10T06:07:24.647Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:24.657Z [INFO]: [2025-06-10T06:07:24.656Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:07:24.662Z [INFO]: [2025-06-10T06:07:24.660Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:07:24.665Z [INFO]: [2025-06-10T06:07:24.665Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:24.667Z [INFO]: [2025-06-10T06:07:24.666Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:07:24.683Z [INFO]: [2025-06-10T06:07:24.670Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:09.696Z [INFO]: [2025-06-10T06:08:09.696Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:09.698Z [INFO]: [2025-06-10T06:08:09.697Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:09.702Z [INFO]: [2025-06-10T06:08:09.699Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:09.704Z [INFO]: [2025-06-10T06:08:09.703Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:09.739Z [INFO]: [2025-06-10T06:08:09.738Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:09.743Z [INFO]: [2025-06-10T06:08:09.742Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:09.745Z [INFO]: [2025-06-10T06:08:09.744Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:09.747Z [INFO]: [2025-06-10T06:08:09.747Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:29.678Z [INFO]: [2025-06-10T06:08:29.678Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:29.682Z [INFO]: [2025-06-10T06:08:29.682Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:29.685Z [INFO]: [2025-06-10T06:08:29.685Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:29.684Z [INFO]: [2025-06-10T06:08:29.684Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:29.689Z [INFO]: [2025-06-10T06:08:29.688Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:29.693Z [INFO]: [2025-06-10T06:08:29.693Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:29.695Z [INFO]: [2025-06-10T06:08:29.695Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:29.697Z [INFO]: [2025-06-10T06:08:29.696Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:33.591Z [INFO]: [2025-06-10T06:08:33.591Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:33.594Z [INFO]: [2025-06-10T06:08:33.594Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:33.595Z [INFO]: [2025-06-10T06:08:33.595Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:33.597Z [INFO]: [2025-06-10T06:08:33.597Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:33.600Z [INFO]: [2025-06-10T06:08:33.600Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:33.603Z [INFO]: [2025-06-10T06:08:33.602Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:33.604Z [INFO]: [2025-06-10T06:08:33.603Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:33.605Z [INFO]: [2025-06-10T06:08:33.605Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:37.632Z [INFO]: [2025-06-10T06:08:37.632Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:37.636Z [INFO]: [2025-06-10T06:08:37.635Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:37.637Z [INFO]: [2025-06-10T06:08:37.636Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:37.638Z [INFO]: [2025-06-10T06:08:37.638Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:37.640Z [INFO]: [2025-06-10T06:08:37.640Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:37.645Z [INFO]: [2025-06-10T06:08:37.644Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:37.646Z [INFO]: [2025-06-10T06:08:37.646Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:37.648Z [INFO]: [2025-06-10T06:08:37.648Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:45.740Z [INFO]: [2025-06-10T06:08:45.740Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:45.743Z [INFO]: [2025-06-10T06:08:45.743Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:45.745Z [INFO]: [2025-06-10T06:08:45.744Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:45.747Z [INFO]: [2025-06-10T06:08:45.747Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:45.749Z [INFO]: [2025-06-10T06:08:45.748Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:45.754Z [INFO]: [2025-06-10T06:08:45.753Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:45.752Z [INFO]: [2025-06-10T06:08:45.752Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:45.755Z [INFO]: [2025-06-10T06:08:45.755Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:49.711Z [INFO]: [2025-06-10T06:08:49.710Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:49.712Z [INFO]: [2025-06-10T06:08:49.712Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:49.713Z [INFO]: [2025-06-10T06:08:49.713Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:49.715Z [INFO]: [2025-06-10T06:08:49.714Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:08:49.718Z [INFO]: [2025-06-10T06:08:49.718Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:08:49.721Z [INFO]: [2025-06-10T06:08:49.720Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:49.722Z [INFO]: [2025-06-10T06:08:49.722Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:08:49.724Z [INFO]: [2025-06-10T06:08:49.723Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:12:14.545Z [INFO]: [2025-06-10T06:12:14.545Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:12:14.548Z [INFO]: [2025-06-10T06:12:14.547Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:12:14.548Z [INFO]: [2025-06-10T06:12:14.548Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:12:14.549Z [INFO]: [2025-06-10T06:12:14.549Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:19:10.639Z [INFO]: [2025-06-10T06:19:10.638Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:19:10.640Z [INFO]: [2025-06-10T06:19:10.640Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:19:10.641Z [INFO]: [2025-06-10T06:19:10.640Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:19:10.642Z [INFO]: [2025-06-10T06:19:10.641Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:19:10.646Z [INFO]: [2025-06-10T06:19:10.646Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:19:10.648Z [INFO]: [2025-06-10T06:19:10.647Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:19:10.649Z [INFO]: [2025-06-10T06:19:10.649Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:19:10.651Z [INFO]: [2025-06-10T06:19:10.650Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:19:19.924Z [INFO]: [2025-06-10T06:19:19.924Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:19:19.926Z [INFO]: [2025-06-10T06:19:19.926Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:19:19.927Z [INFO]: [2025-06-10T06:19:19.927Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:19:19.929Z [INFO]: [2025-06-10T06:19:19.929Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:19:19.939Z [INFO]: [2025-06-10T06:19:19.938Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:19:19.941Z [INFO]: [2025-06-10T06:19:19.941Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:19:19.942Z [INFO]: [2025-06-10T06:19:19.942Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:19:19.944Z [INFO]: [2025-06-10T06:19:19.943Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:20:07.654Z [INFO]: [2025-06-10T06:20:07.654Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:20:07.659Z [INFO]: [2025-06-10T06:20:07.659Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:07.663Z [INFO]: [2025-06-10T06:20:07.660Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:07.665Z [INFO]: [2025-06-10T06:20:07.664Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:20:07.669Z [INFO]: [2025-06-10T06:20:07.668Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:20:07.675Z [INFO]: [2025-06-10T06:20:07.671Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:07.678Z [INFO]: [2025-06-10T06:20:07.676Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:07.680Z [INFO]: [2025-06-10T06:20:07.680Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:20:26.901Z [INFO]: [2025-06-10T06:20:26.900Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:20:26.905Z [INFO]: [2025-06-10T06:20:26.905Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:26.907Z [INFO]: [2025-06-10T06:20:26.906Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:26.909Z [INFO]: [2025-06-10T06:20:26.908Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:20:26.913Z [INFO]: [2025-06-10T06:20:26.911Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:20:26.918Z [INFO]: [2025-06-10T06:20:26.917Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:26.919Z [INFO]: [2025-06-10T06:20:26.918Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:26.920Z [INFO]: [2025-06-10T06:20:26.920Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:20:29.595Z [INFO]: [2025-06-10T06:20:29.595Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:20:29.598Z [INFO]: [2025-06-10T06:20:29.598Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:29.596Z [INFO]: [2025-06-10T06:20:29.596Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:29.599Z [INFO]: [2025-06-10T06:20:29.599Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:20:29.606Z [INFO]: [2025-06-10T06:20:29.605Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:20:29.608Z [INFO]: [2025-06-10T06:20:29.607Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:29.609Z [INFO]: [2025-06-10T06:20:29.609Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:20:29.611Z [INFO]: [2025-06-10T06:20:29.611Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:21:00.686Z [INFO]: [2025-06-10T06:21:00.685Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:21:00.689Z [INFO]: [2025-06-10T06:21:00.689Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:21:00.690Z [INFO]: [2025-06-10T06:21:00.690Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:21:00.692Z [INFO]: [2025-06-10T06:21:00.692Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:21:00.695Z [INFO]: [2025-06-10T06:21:00.695Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:21:00.698Z [INFO]: [2025-06-10T06:21:00.697Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:21:00.700Z [INFO]: [2025-06-10T06:21:00.699Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:21:00.707Z [INFO]: [2025-06-10T06:21:00.704Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:26:39.034Z [INFO]: [2025-06-10T06:26:39.033Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:26:39.035Z [INFO]: [2025-06-10T06:26:39.035Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:26:39.039Z [INFO]: [2025-06-10T06:26:39.038Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:26:39.036Z [INFO]: [2025-06-10T06:26:39.036Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:26:39.044Z [INFO]: [2025-06-10T06:26:39.043Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:26:39.050Z [INFO]: [2025-06-10T06:26:39.048Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:26:39.051Z [INFO]: [2025-06-10T06:26:39.051Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:26:39.053Z [INFO]: [2025-06-10T06:26:39.052Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:26:44.853Z [INFO]: [2025-06-10T06:26:44.853Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:26:44.855Z [INFO]: [2025-06-10T06:26:44.855Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:26:44.856Z [INFO]: [2025-06-10T06:26:44.856Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:26:44.857Z [INFO]: [2025-06-10T06:26:44.857Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:26:44.862Z [INFO]: [2025-06-10T06:26:44.862Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:26:44.864Z [INFO]: [2025-06-10T06:26:44.864Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:26:44.865Z [INFO]: [2025-06-10T06:26:44.865Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:26:44.868Z [INFO]: [2025-06-10T06:26:44.867Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:27:13.119Z [INFO]: [2025-06-10T06:27:13.119Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:27:13.123Z [INFO]: [2025-06-10T06:27:13.123Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:27:13.126Z [INFO]: [2025-06-10T06:27:13.125Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:27:13.128Z [INFO]: [2025-06-10T06:27:13.127Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:27:13.129Z [INFO]: [2025-06-10T06:27:13.128Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:27:13.134Z [INFO]: [2025-06-10T06:27:13.134Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:27:13.136Z [INFO]: [2025-06-10T06:27:13.136Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:27:13.138Z [INFO]: [2025-06-10T06:27:13.138Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:27:34.500Z [INFO]: [2025-06-10T06:27:34.500Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:27:34.507Z [INFO]: [2025-06-10T06:27:34.507Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:27:34.515Z [INFO]: [2025-06-10T06:27:34.512Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:27:34.516Z [INFO]: [2025-06-10T06:27:34.516Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:27:34.519Z [INFO]: [2025-06-10T06:27:34.517Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:27:34.532Z [INFO]: [2025-06-10T06:27:34.525Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:27:34.536Z [INFO]: [2025-06-10T06:27:34.534Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:27:34.539Z [INFO]: [2025-06-10T06:27:34.538Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:28:15.960Z [INFO]: [2025-06-10T06:28:15.960Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:28:15.967Z [INFO]: [2025-06-10T06:28:15.966Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:28:15.968Z [INFO]: [2025-06-10T06:28:15.968Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:28:15.973Z [INFO]: [2025-06-10T06:28:15.972Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:28:15.974Z [INFO]: [2025-06-10T06:28:15.974Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:28:15.978Z [INFO]: [2025-06-10T06:28:15.977Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:28:15.981Z [INFO]: [2025-06-10T06:28:15.980Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:28:15.985Z [INFO]: [2025-06-10T06:28:15.985Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:29:46.696Z [INFO]: [2025-06-10T06:29:46.695Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:29:46.693Z [INFO]: [2025-06-10T06:29:46.693Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:29:46.697Z [INFO]: [2025-06-10T06:29:46.697Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:29:46.699Z [INFO]: [2025-06-10T06:29:46.698Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:29:46.703Z [INFO]: [2025-06-10T06:29:46.702Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:29:46.704Z [INFO]: [2025-06-10T06:29:46.704Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:29:46.706Z [INFO]: [2025-06-10T06:29:46.705Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:29:46.709Z [INFO]: [2025-06-10T06:29:46.708Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:30:46.604Z [INFO]: [2025-06-10T06:30:46.602Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:30:46.608Z [INFO]: [2025-06-10T06:30:46.608Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:30:46.610Z [INFO]: [2025-06-10T06:30:46.610Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:30:46.612Z [INFO]: [2025-06-10T06:30:46.612Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:30:46.616Z [INFO]: [2025-06-10T06:30:46.616Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:30:46.627Z [INFO]: [2025-06-10T06:30:46.620Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:30:46.629Z [INFO]: [2025-06-10T06:30:46.629Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:30:46.640Z [INFO]: [2025-06-10T06:30:46.630Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:31:16.095Z [INFO]: [2025-06-10T06:31:16.095Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:31:16.099Z [INFO]: [2025-06-10T06:31:16.099Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:31:16.101Z [INFO]: [2025-06-10T06:31:16.100Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:31:16.104Z [INFO]: [2025-06-10T06:31:16.104Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:31:16.107Z [INFO]: [2025-06-10T06:31:16.106Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:31:16.112Z [INFO]: [2025-06-10T06:31:16.109Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:31:16.114Z [INFO]: [2025-06-10T06:31:16.113Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:31:16.119Z [INFO]: [2025-06-10T06:31:16.119Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:31:49.499Z [INFO]: [2025-06-10T06:31:49.498Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:31:49.502Z [INFO]: [2025-06-10T06:31:49.502Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:31:49.506Z [INFO]: [2025-06-10T06:31:49.505Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:31:49.504Z [INFO]: [2025-06-10T06:31:49.503Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:31:49.508Z [INFO]: [2025-06-10T06:31:49.507Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:31:49.512Z [INFO]: [2025-06-10T06:31:49.512Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:31:49.514Z [INFO]: [2025-06-10T06:31:49.513Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:31:49.516Z [INFO]: [2025-06-10T06:31:49.515Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:33:08.711Z [INFO]: [2025-06-10T06:33:08.711Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:33:08.711Z [INFO]: [2025-06-10T06:33:08.710Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:33:08.709Z [INFO]: [2025-06-10T06:33:08.709Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:33:08.713Z [INFO]: [2025-06-10T06:33:08.712Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:33:08.716Z [INFO]: [2025-06-10T06:33:08.716Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:33:08.720Z [INFO]: [2025-06-10T06:33:08.719Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:33:08.719Z [INFO]: [2025-06-10T06:33:08.718Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:33:08.722Z [INFO]: [2025-06-10T06:33:08.722Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:34:36.453Z [INFO]: [2025-06-10T06:34:36.453Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:34:36.458Z [INFO]: [2025-06-10T06:34:36.458Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:34:36.461Z [INFO]: [2025-06-10T06:34:36.460Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:34:36.464Z [INFO]: [2025-06-10T06:34:36.463Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:34:36.467Z [INFO]: [2025-06-10T06:34:36.466Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:34:36.469Z [INFO]: [2025-06-10T06:34:36.469Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:34:36.470Z [INFO]: [2025-06-10T06:34:36.470Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:34:36.472Z [INFO]: [2025-06-10T06:34:36.471Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:35:27.983Z [INFO]: [2025-06-10T06:35:27.982Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:35:27.986Z [INFO]: [2025-06-10T06:35:27.986Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:35:27.987Z [INFO]: [2025-06-10T06:35:27.987Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:35:27.990Z [INFO]: [2025-06-10T06:35:27.990Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:35:27.991Z [INFO]: [2025-06-10T06:35:27.991Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:35:27.997Z [INFO]: [2025-06-10T06:35:27.995Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:35:27.999Z [INFO]: [2025-06-10T06:35:27.998Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:35:28.002Z [INFO]: [2025-06-10T06:35:28.001Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:38:55.125Z [INFO]: [2025-06-10T06:38:55.124Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:38:55.127Z [INFO]: [2025-06-10T06:38:55.126Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:38:55.128Z [INFO]: [2025-06-10T06:38:55.127Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:38:55.130Z [INFO]: [2025-06-10T06:38:55.129Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:38:55.134Z [INFO]: [2025-06-10T06:38:55.132Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:38:55.135Z [INFO]: [2025-06-10T06:38:55.135Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:38:55.136Z [INFO]: [2025-06-10T06:38:55.136Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:38:55.140Z [INFO]: [2025-06-10T06:38:55.140Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:40:25.480Z [INFO]: [2025-06-10T06:40:25.480Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:40:25.486Z [INFO]: [2025-06-10T06:40:25.483Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:40:25.490Z [INFO]: [2025-06-10T06:40:25.488Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:40:25.493Z [INFO]: [2025-06-10T06:40:25.492Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:40:25.500Z [INFO]: [2025-06-10T06:40:25.499Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:40:25.502Z [INFO]: [2025-06-10T06:40:25.502Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:40:25.504Z [INFO]: [2025-06-10T06:40:25.503Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:40:25.505Z [INFO]: [2025-06-10T06:40:25.505Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:41:05.630Z [INFO]: [2025-06-10T06:41:05.630Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:41:05.640Z [INFO]: [2025-06-10T06:41:05.637Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:41:05.635Z [INFO]: [2025-06-10T06:41:05.635Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:41:05.643Z [INFO]: [2025-06-10T06:41:05.643Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:41:05.642Z [INFO]: [2025-06-10T06:41:05.641Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:41:05.648Z [INFO]: [2025-06-10T06:41:05.648Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:41:05.652Z [INFO]: [2025-06-10T06:41:05.651Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:41:05.654Z [INFO]: [2025-06-10T06:41:05.653Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:41:31.544Z [INFO]: [2025-06-10T06:41:31.543Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:41:31.547Z [INFO]: [2025-06-10T06:41:31.547Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:41:31.548Z [INFO]: [2025-06-10T06:41:31.548Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:41:31.550Z [INFO]: [2025-06-10T06:41:31.550Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:41:31.552Z [INFO]: [2025-06-10T06:41:31.552Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:41:31.557Z [INFO]: [2025-06-10T06:41:31.557Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:41:31.559Z [INFO]: [2025-06-10T06:41:31.558Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:41:31.564Z [INFO]: [2025-06-10T06:41:31.563Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:42:39.749Z [INFO]: [2025-06-10T06:42:39.749Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:42:39.750Z [INFO]: [2025-06-10T06:42:39.750Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:42:39.752Z [INFO]: [2025-06-10T06:42:39.752Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:42:39.751Z [INFO]: [2025-06-10T06:42:39.751Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:42:39.756Z [INFO]: [2025-06-10T06:42:39.756Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:42:39.761Z [INFO]: [2025-06-10T06:42:39.760Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:42:39.759Z [INFO]: [2025-06-10T06:42:39.758Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:42:39.763Z [INFO]: [2025-06-10T06:42:39.762Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:43:28.917Z [INFO]: [2025-06-10T06:43:28.917Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:43:28.919Z [INFO]: [2025-06-10T06:43:28.919Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:43:28.922Z [INFO]: [2025-06-10T06:43:28.921Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:43:28.923Z [INFO]: [2025-06-10T06:43:28.923Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:43:28.927Z [INFO]: [2025-06-10T06:43:28.926Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:43:28.933Z [INFO]: [2025-06-10T06:43:28.931Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:43:28.936Z [INFO]: [2025-06-10T06:43:28.935Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:43:28.962Z [INFO]: [2025-06-10T06:43:28.937Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:44:03.584Z [INFO]: [2025-06-10T06:44:03.584Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:44:03.589Z [INFO]: [2025-06-10T06:44:03.589Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:44:03.594Z [INFO]: [2025-06-10T06:44:03.592Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:44:03.595Z [INFO]: [2025-06-10T06:44:03.595Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:44:03.596Z [INFO]: [2025-06-10T06:44:03.595Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:44:03.602Z [INFO]: [2025-06-10T06:44:03.601Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:44:03.604Z [INFO]: [2025-06-10T06:44:03.603Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:44:03.605Z [INFO]: [2025-06-10T06:44:03.605Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:44:35.634Z [INFO]: [2025-06-10T06:44:35.634Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:44:35.639Z [INFO]: [2025-06-10T06:44:35.639Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:44:35.640Z [INFO]: [2025-06-10T06:44:35.640Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:44:35.641Z [INFO]: [2025-06-10T06:44:35.641Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:44:35.642Z [INFO]: [2025-06-10T06:44:35.642Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:44:35.645Z [INFO]: [2025-06-10T06:44:35.645Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:44:35.646Z [INFO]: [2025-06-10T06:44:35.646Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:44:35.649Z [INFO]: [2025-06-10T06:44:35.648Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:45:26.597Z [INFO]: [2025-06-10T06:45:26.596Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:45:26.601Z [INFO]: [2025-06-10T06:45:26.600Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:45:26.603Z [INFO]: [2025-06-10T06:45:26.603Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:45:26.604Z [INFO]: [2025-06-10T06:45:26.604Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:45:26.606Z [INFO]: [2025-06-10T06:45:26.606Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:45:26.609Z [INFO]: [2025-06-10T06:45:26.608Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:45:26.614Z [INFO]: [2025-06-10T06:45:26.614Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:45:26.615Z [INFO]: [2025-06-10T06:45:26.615Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:12.608Z [INFO]: [2025-06-10T06:46:12.607Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:12.611Z [INFO]: [2025-06-10T06:46:12.610Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:12.612Z [INFO]: [2025-06-10T06:46:12.611Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:12.613Z [INFO]: [2025-06-10T06:46:12.613Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:12.619Z [INFO]: [2025-06-10T06:46:12.618Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:12.620Z [INFO]: [2025-06-10T06:46:12.620Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:12.625Z [INFO]: [2025-06-10T06:46:12.625Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:12.623Z [INFO]: [2025-06-10T06:46:12.621Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:13.618Z [INFO]: [2025-06-10T06:46:13.618Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:13.622Z [INFO]: [2025-06-10T06:46:13.621Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:13.623Z [INFO]: [2025-06-10T06:46:13.622Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:13.625Z [INFO]: [2025-06-10T06:46:13.624Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:13.626Z [INFO]: [2025-06-10T06:46:13.626Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:13.629Z [INFO]: [2025-06-10T06:46:13.629Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:13.630Z [INFO]: [2025-06-10T06:46:13.630Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:13.632Z [INFO]: [2025-06-10T06:46:13.631Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:24.680Z [INFO]: [2025-06-10T06:46:24.679Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:24.682Z [INFO]: [2025-06-10T06:46:24.682Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:24.683Z [INFO]: [2025-06-10T06:46:24.683Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:24.688Z [INFO]: [2025-06-10T06:46:24.687Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:24.693Z [INFO]: [2025-06-10T06:46:24.692Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:24.694Z [INFO]: [2025-06-10T06:46:24.694Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:24.695Z [INFO]: [2025-06-10T06:46:24.695Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:24.700Z [INFO]: [2025-06-10T06:46:24.699Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:36.569Z [INFO]: [2025-06-10T06:46:36.569Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:36.573Z [INFO]: [2025-06-10T06:46:36.572Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:36.574Z [INFO]: [2025-06-10T06:46:36.574Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:36.576Z [INFO]: [2025-06-10T06:46:36.575Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:36.581Z [INFO]: [2025-06-10T06:46:36.580Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:36.584Z [INFO]: [2025-06-10T06:46:36.583Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:36.585Z [INFO]: [2025-06-10T06:46:36.585Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:36.587Z [INFO]: [2025-06-10T06:46:36.587Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:40.557Z [INFO]: [2025-06-10T06:46:40.557Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:40.561Z [INFO]: [2025-06-10T06:46:40.561Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:40.563Z [INFO]: [2025-06-10T06:46:40.563Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:40.562Z [INFO]: [2025-06-10T06:46:40.562Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:40.566Z [INFO]: [2025-06-10T06:46:40.566Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:40.568Z [INFO]: [2025-06-10T06:46:40.568Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:40.569Z [INFO]: [2025-06-10T06:46:40.569Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:40.571Z [INFO]: [2025-06-10T06:46:40.570Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:43.588Z [INFO]: [2025-06-10T06:46:43.588Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:43.591Z [INFO]: [2025-06-10T06:46:43.591Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:43.594Z [INFO]: [2025-06-10T06:46:43.594Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:43.592Z [INFO]: [2025-06-10T06:46:43.592Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:43.596Z [INFO]: [2025-06-10T06:46:43.596Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:43.599Z [INFO]: [2025-06-10T06:46:43.599Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:43.598Z [INFO]: [2025-06-10T06:46:43.597Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:43.602Z [INFO]: [2025-06-10T06:46:43.602Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:45.575Z [INFO]: [2025-06-10T06:46:45.574Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:45.578Z [INFO]: [2025-06-10T06:46:45.577Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:45.579Z [INFO]: [2025-06-10T06:46:45.578Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:45.580Z [INFO]: [2025-06-10T06:46:45.580Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:45.585Z [INFO]: [2025-06-10T06:46:45.583Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:45.587Z [INFO]: [2025-06-10T06:46:45.586Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:45.588Z [INFO]: [2025-06-10T06:46:45.588Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:45.592Z [INFO]: [2025-06-10T06:46:45.591Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:47.566Z [INFO]: [2025-06-10T06:46:47.566Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:47.564Z [INFO]: [2025-06-10T06:46:47.564Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:47.567Z [INFO]: [2025-06-10T06:46:47.567Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:47.569Z [INFO]: [2025-06-10T06:46:47.568Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:47.572Z [INFO]: [2025-06-10T06:46:47.572Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:47.575Z [INFO]: [2025-06-10T06:46:47.574Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:47.575Z [INFO]: [2025-06-10T06:46:47.575Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:47.577Z [INFO]: [2025-06-10T06:46:47.576Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:51.090Z [INFO]: [2025-06-10T06:46:51.090Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:51.095Z [INFO]: [2025-06-10T06:46:51.095Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:51.100Z [INFO]: [2025-06-10T06:46:51.100Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:46:51.098Z [INFO]: [2025-06-10T06:46:51.097Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:51.104Z [INFO]: [2025-06-10T06:46:51.104Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:46:51.106Z [INFO]: [2025-06-10T06:46:51.105Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:51.107Z [INFO]: [2025-06-10T06:46:51.107Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:46:51.111Z [INFO]: [2025-06-10T06:46:51.110Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:48:20.592Z [INFO]: [2025-06-10T06:48:20.592Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:48:20.594Z [INFO]: [2025-06-10T06:48:20.594Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:20.595Z [INFO]: [2025-06-10T06:48:20.595Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:20.597Z [INFO]: [2025-06-10T06:48:20.596Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:48:20.600Z [INFO]: [2025-06-10T06:48:20.600Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:48:20.602Z [INFO]: [2025-06-10T06:48:20.601Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:20.603Z [INFO]: [2025-06-10T06:48:20.603Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:20.605Z [INFO]: [2025-06-10T06:48:20.605Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:48:35.563Z [INFO]: [2025-06-10T06:48:35.563Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:35.562Z [INFO]: [2025-06-10T06:48:35.562Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:48:35.564Z [INFO]: [2025-06-10T06:48:35.564Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:35.573Z [INFO]: [2025-06-10T06:48:35.573Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:48:35.576Z [INFO]: [2025-06-10T06:48:35.576Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:48:35.586Z [INFO]: [2025-06-10T06:48:35.586Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:35.588Z [INFO]: [2025-06-10T06:48:35.587Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:48:35.584Z [INFO]: [2025-06-10T06:48:35.584Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:37.565Z [INFO]: [2025-06-10T06:48:37.564Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:48:37.567Z [INFO]: [2025-06-10T06:48:37.566Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:37.568Z [INFO]: [2025-06-10T06:48:37.568Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:37.571Z [INFO]: [2025-06-10T06:48:37.570Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:48:37.572Z [INFO]: [2025-06-10T06:48:37.572Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:48:37.574Z [INFO]: [2025-06-10T06:48:37.573Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:37.575Z [INFO]: [2025-06-10T06:48:37.575Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:37.578Z [INFO]: [2025-06-10T06:48:37.578Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:48:52.555Z [INFO]: [2025-06-10T06:48:52.555Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:48:52.561Z [INFO]: [2025-06-10T06:48:52.561Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:52.563Z [INFO]: [2025-06-10T06:48:52.562Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:52.566Z [INFO]: [2025-06-10T06:48:52.565Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:48:52.568Z [INFO]: [2025-06-10T06:48:52.568Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:48:52.572Z [INFO]: [2025-06-10T06:48:52.572Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:52.581Z [INFO]: [2025-06-10T06:48:52.574Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:48:52.589Z [INFO]: [2025-06-10T06:48:52.583Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:49:57.578Z [INFO]: [2025-06-10T06:49:57.578Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:49:57.579Z [INFO]: [2025-06-10T06:49:57.579Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:49:57.582Z [INFO]: [2025-06-10T06:49:57.581Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:49:57.580Z [INFO]: [2025-06-10T06:49:57.580Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:49:57.586Z [INFO]: [2025-06-10T06:49:57.585Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:49:57.591Z [INFO]: [2025-06-10T06:49:57.588Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:49:57.593Z [INFO]: [2025-06-10T06:49:57.593Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:49:57.595Z [INFO]: [2025-06-10T06:49:57.594Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:49:58.602Z [INFO]: [2025-06-10T06:49:58.602Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:49:58.606Z [INFO]: [2025-06-10T06:49:58.605Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:49:58.607Z [INFO]: [2025-06-10T06:49:58.607Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:49:58.609Z [INFO]: [2025-06-10T06:49:58.609Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:49:58.612Z [INFO]: [2025-06-10T06:49:58.612Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:49:58.614Z [INFO]: [2025-06-10T06:49:58.614Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:49:58.613Z [INFO]: [2025-06-10T06:49:58.613Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:49:58.619Z [INFO]: [2025-06-10T06:49:58.618Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:51:38.592Z [INFO]: [2025-06-10T06:51:38.592Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:51:38.594Z [INFO]: [2025-06-10T06:51:38.594Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:51:38.597Z [INFO]: [2025-06-10T06:51:38.597Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:51:38.595Z [INFO]: [2025-06-10T06:51:38.595Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:51:38.600Z [INFO]: [2025-06-10T06:51:38.600Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:51:38.602Z [INFO]: [2025-06-10T06:51:38.602Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:51:38.603Z [INFO]: [2025-06-10T06:51:38.603Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:51:38.606Z [INFO]: [2025-06-10T06:51:38.606Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:55:54.593Z [INFO]: [2025-06-10T06:55:54.593Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:55:54.596Z [INFO]: [2025-06-10T06:55:54.596Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:55:54.597Z [INFO]: [2025-06-10T06:55:54.596Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:55:54.599Z [INFO]: [2025-06-10T06:55:54.599Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:55:54.601Z [INFO]: [2025-06-10T06:55:54.601Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:55:54.602Z [INFO]: [2025-06-10T06:55:54.602Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:55:54.604Z [INFO]: [2025-06-10T06:55:54.604Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:55:54.608Z [INFO]: [2025-06-10T06:55:54.608Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:55:58.447Z [INFO]: [2025-06-10T06:55:58.446Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:55:58.450Z [INFO]: [2025-06-10T06:55:58.450Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:55:58.451Z [INFO]: [2025-06-10T06:55:58.451Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:55:58.453Z [INFO]: [2025-06-10T06:55:58.453Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T06:55:58.457Z [INFO]: [2025-06-10T06:55:58.456Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T06:55:58.461Z [INFO]: [2025-06-10T06:55:58.460Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:55:58.464Z [INFO]: [2025-06-10T06:55:58.463Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T06:55:58.466Z [INFO]: [2025-06-10T06:55:58.465Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:00:09.581Z [INFO]: [2025-06-10T07:00:09.581Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:00:09.584Z [INFO]: [2025-06-10T07:00:09.583Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:00:09.585Z [INFO]: [2025-06-10T07:00:09.585Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:00:09.587Z [INFO]: [2025-06-10T07:00:09.586Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:00:09.591Z [INFO]: [2025-06-10T07:00:09.589Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:00:09.593Z [INFO]: [2025-06-10T07:00:09.592Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:00:09.595Z [INFO]: [2025-06-10T07:00:09.594Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:00:09.598Z [INFO]: [2025-06-10T07:00:09.598Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:00:28.702Z [INFO]: [2025-06-10T07:00:28.702Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:00:28.703Z [INFO]: [2025-06-10T07:00:28.703Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:00:28.704Z [INFO]: [2025-06-10T07:00:28.704Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:00:28.710Z [INFO]: [2025-06-10T07:00:28.708Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:00:28.713Z [INFO]: [2025-06-10T07:00:28.713Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:00:28.712Z [INFO]: [2025-06-10T07:00:28.711Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:00:28.715Z [INFO]: [2025-06-10T07:00:28.714Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:00:28.718Z [INFO]: [2025-06-10T07:00:28.718Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:06:45.394Z [INFO]: [2025-06-10T07:06:45.393Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:06:45.391Z [INFO]: [2025-06-10T07:06:45.390Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:06:45.394Z [INFO]: [2025-06-10T07:06:45.394Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:06:45.397Z [INFO]: [2025-06-10T07:06:45.397Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:06:45.416Z [INFO]: [2025-06-10T07:06:45.416Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:06:45.412Z [INFO]: [2025-06-10T07:06:45.401Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:06:45.415Z [INFO]: [2025-06-10T07:06:45.413Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:06:45.435Z [INFO]: [2025-06-10T07:06:45.431Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:08:07.833Z [INFO]: [2025-06-10T07:08:07.833Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:08:07.835Z [INFO]: [2025-06-10T07:08:07.834Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:08:07.836Z [INFO]: [2025-06-10T07:08:07.835Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:08:07.838Z [INFO]: [2025-06-10T07:08:07.838Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:08:07.845Z [INFO]: [2025-06-10T07:08:07.841Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:08:07.848Z [INFO]: [2025-06-10T07:08:07.847Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:08:07.850Z [INFO]: [2025-06-10T07:08:07.850Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:08:07.855Z [INFO]: [2025-06-10T07:08:07.855Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:09:11.551Z [INFO]: [2025-06-10T07:09:11.551Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:09:11.552Z [INFO]: [2025-06-10T07:09:11.552Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:09:11.553Z [INFO]: [2025-06-10T07:09:11.553Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:09:11.558Z [INFO]: [2025-06-10T07:09:11.557Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:09:11.559Z [INFO]: [2025-06-10T07:09:11.559Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:09:11.561Z [INFO]: [2025-06-10T07:09:11.560Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:09:19.238Z [ERROR]: [2025-06-10T07:09:19.238Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-10T07:09:28.708Z [INFO]: [2025-06-10T07:09:28.708Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-10T07:09:28.709Z [INFO]: [2025-06-10T07:09:28.709Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-06-10T07:09:33.410Z [INFO]: [2025-06-10T07:09:33.409Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:09:33.411Z [INFO]: [2025-06-10T07:09:33.411Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:09:33.413Z [INFO]: [2025-06-10T07:09:33.412Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:09:33.415Z [INFO]: [2025-06-10T07:09:33.415Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:09:33.418Z [INFO]: [2025-06-10T07:09:33.418Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:09:33.421Z [INFO]: [2025-06-10T07:09:33.419Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:09:44.633Z [ERROR]: [2025-06-10T07:09:44.633Z] POST /api/v1/user/transactions/add-transaction - ::1 - Field 'mobile' doesn't have a default value
+2025-06-10T07:09:58.967Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-10T07:09:58.970Z [INFO]: 🚀 Server is running on http://localhost: 5000
+2025-06-10T07:10:01.764Z [INFO]: [2025-06-10T07:10:01.763Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-10T07:10:08.783Z [INFO]: [2025-06-10T07:10:08.782Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:10:08.792Z [INFO]: [2025-06-10T07:10:08.792Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:10:08.796Z [INFO]: [2025-06-10T07:10:08.796Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:08.797Z [INFO]: [2025-06-10T07:10:08.797Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:08.806Z [INFO]: [2025-06-10T07:10:08.806Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:10:08.814Z [INFO]: [2025-06-10T07:10:08.813Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:08.815Z [INFO]: [2025-06-10T07:10:08.815Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:08.820Z [INFO]: [2025-06-10T07:10:08.820Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:10:12.772Z [INFO]: [2025-06-10T07:10:12.772Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:10:12.774Z [INFO]: [2025-06-10T07:10:12.774Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:12.776Z [INFO]: [2025-06-10T07:10:12.776Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:12.779Z [INFO]: [2025-06-10T07:10:12.778Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:10:12.797Z [INFO]: [2025-06-10T07:10:12.796Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:10:12.799Z [INFO]: [2025-06-10T07:10:12.798Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:12.805Z [INFO]: [2025-06-10T07:10:12.805Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:10:12.801Z [INFO]: [2025-06-10T07:10:12.801Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:44.908Z [INFO]: [2025-06-10T07:10:44.908Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:10:44.911Z [INFO]: [2025-06-10T07:10:44.910Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:44.912Z [INFO]: [2025-06-10T07:10:44.911Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:44.920Z [INFO]: [2025-06-10T07:10:44.919Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:10:44.925Z [INFO]: [2025-06-10T07:10:44.923Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:44.926Z [INFO]: [2025-06-10T07:10:44.926Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:10:51.356Z [INFO]: [2025-06-10T07:10:51.355Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-10T07:11:00.324Z [INFO]: [2025-06-10T07:11:00.323Z] POST /api/v1/user/transactions/add-transaction - ::1 - New transaction added successfully.
+2025-06-10T07:11:07.754Z [INFO]: [2025-06-10T07:11:07.754Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:11:07.757Z [INFO]: [2025-06-10T07:11:07.756Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:11:07.758Z [INFO]: [2025-06-10T07:11:07.758Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:11:07.760Z [INFO]: [2025-06-10T07:11:07.760Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:11:07.774Z [INFO]: [2025-06-10T07:11:07.774Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:11:07.780Z [INFO]: [2025-06-10T07:11:07.780Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:11:07.776Z [INFO]: [2025-06-10T07:11:07.776Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:11:07.777Z [INFO]: [2025-06-10T07:11:07.777Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:22:09.711Z [INFO]: [2025-06-10T07:22:09.711Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:22:09.718Z [INFO]: [2025-06-10T07:22:09.717Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:22:09.714Z [INFO]: [2025-06-10T07:22:09.714Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:22:09.713Z [INFO]: [2025-06-10T07:22:09.713Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:22:09.731Z [INFO]: [2025-06-10T07:22:09.731Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:22:09.734Z [INFO]: [2025-06-10T07:22:09.733Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:22:09.735Z [INFO]: [2025-06-10T07:22:09.735Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:22:09.738Z [INFO]: [2025-06-10T07:22:09.738Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:23:28.471Z [INFO]: [2025-06-10T07:23:28.470Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:23:28.472Z [INFO]: [2025-06-10T07:23:28.472Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:23:28.476Z [INFO]: [2025-06-10T07:23:28.475Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:23:28.473Z [INFO]: [2025-06-10T07:23:28.473Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:23:44.455Z [INFO]: [2025-06-10T07:23:44.454Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:23:44.458Z [INFO]: [2025-06-10T07:23:44.457Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:23:44.461Z [INFO]: [2025-06-10T07:23:44.461Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:23:44.459Z [INFO]: [2025-06-10T07:23:44.459Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:27:26.619Z [INFO]: [2025-06-10T07:27:26.618Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:27:26.621Z [INFO]: [2025-06-10T07:27:26.620Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:27:26.624Z [INFO]: [2025-06-10T07:27:26.624Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:27:26.622Z [INFO]: [2025-06-10T07:27:26.621Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:27:26.632Z [INFO]: [2025-06-10T07:27:26.632Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:27:26.636Z [INFO]: [2025-06-10T07:27:26.634Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:27:26.640Z [INFO]: [2025-06-10T07:27:26.640Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:27:26.638Z [INFO]: [2025-06-10T07:27:26.637Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:30:02.837Z [INFO]: [2025-06-10T07:30:02.837Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:30:02.839Z [INFO]: [2025-06-10T07:30:02.838Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:30:02.844Z [INFO]: [2025-06-10T07:30:02.843Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-06-10T07:30:02.840Z [INFO]: [2025-06-10T07:30:02.840Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:30:02.854Z [INFO]: [2025-06-10T07:30:02.854Z] POST /api/v1/user/modes/get-modes - ::1 - Modes fetched successfully
+2025-06-10T07:30:02.857Z [INFO]: [2025-06-10T07:30:02.857Z] POST /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:30:02.858Z [INFO]: [2025-06-10T07:30:02.858Z] GET /api/v1/user/categories/get-categories - ::1 - Categories fetched successfully
+2025-06-10T07:30:02.861Z [INFO]: [2025-06-10T07:30:02.860Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully

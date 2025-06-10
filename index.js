@@ -26,7 +26,7 @@ AppDataSource.initialize()
             return;
         }
       Logger.info(`🚀 Server is running on ${host}: ${port}`)
-    //   await seedModes(AppDataSource)
+      // await seedModes(AppDataSource)
     // await seedCategories(AppDataSource);
       
     });

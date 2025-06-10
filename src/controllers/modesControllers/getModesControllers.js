@@ -12,7 +12,7 @@ const getModesController = asyncHandler(async (req, res, next) => {
   
 
   ApiResponse.success(req,res,200,true, "Modes fetched successfully", modes);
-  Logger.info(`[${new Date().toISOString()}] GET ${req?.originalUrl} - ${req.ip} - Modes fetched successfully`);
+  // Logger.info(`[${new Date().toISOString()}] GET ${req?.originalUrl} - ${req.ip} - Modes fetched successfully`);
   return;
 
 });
