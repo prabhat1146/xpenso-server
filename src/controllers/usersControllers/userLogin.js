@@ -3,7 +3,10 @@ const { AppDataSource } = require("../../db/sqldb");
 const ApiResponse = require("../../utility/apiResponse");
 const ErrorHandler = require("../../utility/ErrorHandler");
 const bcrypt = require("bcryptjs");
-const { generateToken, generateRefreshToken } = require("../../utility/jwtUtil");
+const {
+  generateToken,
+  generateRefreshToken,
+} = require("../../utility/jwtUtil");
 const User = require("../../entities/User");
 const UserSession = require("../../entities/UserSession");
 const Logger = require("../../utility/logger");
@@ -13,7 +16,14 @@ const loginController = asyncHandler(async (req, res) => {
   const { mobile, password, deviceInfo } = req.body;
 
   if (!mobile || !password) {
-   return ApiResponse.error(req,res,400,false,"Mobile and password are required",null);
+    return ApiResponse.error(
+      req,
+      res,
+      400,
+      false,
+      "Mobile and password are required",
+      null
+    );
   }
 
   const userRepo = AppDataSource.getRepository(User);
@@ -22,13 +32,21 @@ const loginController = asyncHandler(async (req, res) => {
   const user = await userRepo.findOneBy({ mobile });
 
   if (!user) {
-     return ApiResponse.error(req,res,404,false,"User not found", null);
+    return ApiResponse.error(req, res, 404, false, "User not found", null);
   }
 
-  const isPasswordValid = await hashUtils.comparePassword(password, user.passwordHash);
+  const isPasswordValid = await hashUtils.comparePassword(
+    password,
+    user.passwordHash
+  );
 
   if (!isPasswordValid) {
-    return ApiResponse.error(req,res,401,false,"Invalid credentials", null);
+    return ApiResponse.error(req, res, 401, false, "Invalid credentials", null);
+  }
+
+  if (user?.status.toLowerCase() === "Inactive".toLowerCase()) {
+    ApiResponse.error(req, res, 403, true, "Your account has been blocked.");
+    return;
   }
 
   const accessToken = await generateToken({ mobile: user.mobile });
@@ -45,7 +63,7 @@ const loginController = asyncHandler(async (req, res) => {
 
   await sessionRepo.save(session);
 
-  ApiResponse.success(req,res, 200, true, "Login successful", {
+  ApiResponse.success(req, res, 200, true, "Login successful", {
     accessToken,
     refreshToken,
     user: {
@@ -54,10 +72,16 @@ const loginController = asyncHandler(async (req, res) => {
       middleName: user?.middleName,
       lastName: user.lastName,
       email: user?.email,
+      status:user.status,
+      joinedAt:user.createdAt,
     },
   });
 
-  Logger.info(`[${new Date().toISOString()}] POST ${req?.originalUrl} - ${req.ip} - Login successful`);
+  Logger.info(
+    `[${new Date().toISOString()}] POST ${req?.originalUrl} - ${
+      req.ip
+    } - Login successful`
+  );
 });
 
 module.exports = loginController;

@@ -19,6 +19,11 @@ module.exports = new EntitySchema({
       length: 50,
       nullable: false,
     },
+    color: {
+      type: "varchar",
+      length: 50,
+      nullable: false,
+    },
     type: {
       type: "enum",
       enum: ["income", "expense", "transfer"],

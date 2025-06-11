@@ -1,54 +1,60 @@
 const Category = require("../entities/Category"); // adjust path if needed
 
+
+
 const incomeCategories = [
-  { label: "Salary", value: "salary" },
-  { label: "Business", value: "business" },
-  { label: "Interest", value: "interest" },
-  { label: "Dividends", value: "dividends" },
-  { label: "Rent", value: "rent" },
-  { label: "Commission", value: "commission" },
-  { label: "Gift", value: "gift" },
-  { label: "Refund", value: "refund" },
-  { label: "Bonus", value: "bonus" },
-  { label: "Investment Returns", value: "investment_returns" },
-  { label: "Lottery", value: "lottery" },
-  { label: "Pension", value: "pension" },
-  { label: "Allowance", value: "allowance" },
-  { label: "Other", value: "other" },
+  { label: "Salary", value: "salary", color: "#34d399" },
+  { label: "Business", value: "business", color: "#22d3ee" },
+  { label: "Interest", value: "interest", color: "#f59e0b" },
+  { label: "Dividends", value: "dividends", color: "#6366f1" },
+  { label: "Rent", value: "rent", color: "#10b981" },
+  { label: "Commission", value: "commission", color: "#3b82f6" },
+  { label: "Gift", value: "gift", color: "#f472b6" },
+  { label: "Refund", value: "refund", color: "#a855f7" },
+  { label: "Bonus", value: "bonus", color: "#ef4444" },
+  { label: "Investment Returns", value: "investment_returns", color: "#16a34a" },
+  { label: "Lottery", value: "lottery", color: "#f97316" },
+  { label: "Pension", value: "pension", color: "#14b8a6" },
+  { label: "Allowance", value: "allowance", color: "#8b5cf6" },
+  { label: "Other", value: "other", color: "#9ca3af" },
 ];
+
 
 const expenseCategories = [
-  { label: "Food & Groceries", value: "food_groceries" },
-  { label: "Rent", value: "rent" },
-  { label: "Utilities", value: "utilities" },
-  { label: "Transportation", value: "transportation" },
-  { label: "Fuel", value: "fuel" },
-  { label: "Education", value: "education" },
-  { label: "Healthcare", value: "healthcare" },
-  { label: "Insurance", value: "insurance" },
-  { label: "Shopping", value: "shopping" },
-  { label: "Entertainment", value: "entertainment" },
-  { label: "Travel", value: "travel" },
-  { label: "Mobile & Internet", value: "mobile_internet" },
-  { label: "EMI/Loan Payment", value: "emi_loan_payment" },
-  { label: "Investment", value: "investment" },
-  { label: "Charity/Donations", value: "charity_donations" },
-  { label: "Personal Care", value: "personal_care" },
-  { label: "Taxes", value: "taxes" },
-  { label: "Gifts", value: "gifts" },
-  { label: "Other", value: "other" },
+  { label: "Food & Groceries", value: "food_groceries", color: "#f87171" },
+  { label: "Rent", value: "rent", color: "#fb923c" },
+  { label: "Utilities", value: "utilities", color: "#facc15" },
+  { label: "Transportation", value: "transportation", color: "#34d399" },
+  { label: "Fuel", value: "fuel", color: "#60a5fa" },
+  { label: "Education", value: "education", color: "#a78bfa" },
+  { label: "Healthcare", value: "healthcare", color: "#f472b6" },
+  { label: "Insurance", value: "insurance", color: "#c084fc" },
+  { label: "Shopping", value: "shopping", color: "#f43f5e" },
+  { label: "Entertainment", value: "entertainment", color: "#3b82f6" },
+  { label: "Travel", value: "travel", color: "#22d3ee" },
+  { label: "Mobile & Internet", value: "mobile_internet", color: "#818cf8" },
+  { label: "EMI/Loan Payment", value: "emi_loan_payment", color: "#f97316" },
+  { label: "Investment", value: "investment", color: "#4ade80" },
+  { label: "Charity/Donations", value: "charity_donations", color: "#a3e635" },
+  { label: "Personal Care", value: "personal_care", color: "#ec4899" },
+  { label: "Taxes", value: "taxes", color: "#facc15" },
+  { label: "Gifts", value: "gifts", color: "#f472b6" },
+  { label: "Other", value: "other", color: "#9ca3af" },
 ];
 
+
 const transferCategories = [
-  { label: "Bank to Wallet", value: "bank_to_wallet" },
-  { label: "Wallet to Bank", value: "wallet_to_bank" },
-  { label: "Bank to Bank", value: "bank_to_bank" },
-  { label: "Wallet to Wallet", value: "wallet_to_wallet" },
-  { label: "Credit Card Payment", value: "credit_card_payment" },
-  { label: "Savings to Checking", value: "savings_to_checking" },
-  { label: "Checking to Savings", value: "checking_to_savings" },
-  { label: "Other", value: "other" },
+  { label: "Bank to Wallet", value: "bank_to_wallet", color: "#93c5fd" },
+  { label: "Wallet to Bank", value: "wallet_to_bank", color: "#67e8f9" },
+  { label: "Bank to Bank", value: "bank_to_bank", color: "#a5b4fc" },
+  { label: "Wallet to Wallet", value: "wallet_to_wallet", color: "#6ee7b7" },
+  { label: "Credit Card Payment", value: "credit_card_payment", color: "#fcd34d" },
+  { label: "Savings to Checking", value: "savings_to_checking", color: "#f9a8d4" },
+  { label: "Checking to Savings", value: "checking_to_savings", color: "#fde68a" },
+  { label: "Other", value: "other", color: "#d1d5db" },
 ];
+
+
 
 async function seedCategories(dataSource) {
   if (!dataSource || !dataSource.isInitialized) {
@@ -70,6 +76,7 @@ async function seedCategories(dataSource) {
           name: cat.value,
           icon: null,
           isDeleted: false,
+          color:cat.color
         });
         await categoryRepo.save(newCategory);
         console.log(`Inserted category: ${cat.value} (${type})`);

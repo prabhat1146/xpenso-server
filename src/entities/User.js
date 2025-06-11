@@ -46,6 +46,12 @@ module.exports = new EntitySchema({
       type: String,
       nullable: false,
     },
+    status: {
+      type: "enum",
+      enum:['Active','Inactive'],
+      nullable: false,
+      default:"Active",
+    },
     createdAt: {
       type: "timestamp",
       createDate: true,
