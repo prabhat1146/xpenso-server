@@ -18,6 +18,11 @@ module.exports = new EntitySchema({
       length: 255,
       nullable: true,
     },
+    userMobile: {
+      type: "varchar",
+      nullable: false,
+      unique: true,
+    },
     createdAt: {
       type: "timestamp",
       createDate: true,

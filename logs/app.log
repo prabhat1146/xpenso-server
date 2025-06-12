@@ -9269,3 +9269,165 @@
 💾 Database : test_xpenso_db
 👤 Username : root
 2025-06-12T10:45:26.330Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:46:02.925Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-12T10:46:02.930Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:46:23.110Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-12T10:46:23.118Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T11:08:01.606Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-12T11:08:01.611Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T11:10:43.184Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-12T11:10:43.190Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T11:12:41.276Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-12T11:12:41.280Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T11:14:39.933Z [INFO]: [2025-06-12T11:14:39.932Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T11:14:39.946Z [INFO]: [2025-06-12T11:14:39.945Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T11:14:40.050Z [INFO]: [2025-06-12T11:14:40.050Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T11:14:40.052Z [INFO]: [2025-06-12T11:14:40.052Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T11:14:40.260Z [INFO]: [2025-06-12T11:14:40.259Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T11:14:40.276Z [INFO]: [2025-06-12T11:14:40.275Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T11:14:40.385Z [INFO]: [2025-06-12T11:14:40.385Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T11:14:40.388Z [INFO]: [2025-06-12T11:14:40.388Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T11:15:42.844Z [INFO]: [2025-06-12T11:15:42.844Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T11:15:42.856Z [INFO]: [2025-06-12T11:15:42.855Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T11:15:42.858Z [INFO]: [2025-06-12T11:15:42.857Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T11:15:42.921Z [INFO]: [2025-06-12T11:15:42.920Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T11:15:43.137Z [INFO]: [2025-06-12T11:15:43.136Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T11:15:43.170Z [INFO]: [2025-06-12T11:15:43.170Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T11:15:43.171Z [INFO]: [2025-06-12T11:15:43.171Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T11:15:43.254Z [INFO]: [2025-06-12T11:15:43.254Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T11:32:54.733Z [ERROR]: ❌ Failed to connect to DB: Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T11:33:00.376Z [ERROR]: ❌ Failed to connect to DB: Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T11:36:12.444Z [ERROR]: ❌ Failed to connect to DB: Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T11:36:26.736Z [ERROR]: ❌ Failed to connect to DB: Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T11:37:05.370Z [ERROR]: ❌ Failed to connect to DB: Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T11:40:24.096Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-12T11:40:24.101Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T11:40:48.490Z [ERROR]: ❌ Failed to connect to DB: Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T11:45:00.025Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T11:45:00.029Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T11:46:31.204Z [INFO]: [2025-06-12T11:46:31.204Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T11:46:31.205Z [INFO]: [2025-06-12T11:46:31.204Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T11:46:31.278Z [INFO]: [2025-06-12T11:46:31.278Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T11:46:31.284Z [INFO]: [2025-06-12T11:46:31.284Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T11:46:31.292Z [INFO]: [2025-06-12T11:46:31.292Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T11:46:31.300Z [INFO]: [2025-06-12T11:46:31.300Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T11:46:35.843Z [INFO]: [2025-06-12T11:46:35.842Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:46:35.855Z [INFO]: [2025-06-12T11:46:35.855Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:47:27.211Z [INFO]: [2025-06-12T11:47:27.211Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:47:28.605Z [INFO]: [2025-06-12T11:47:28.605Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:49:27.083Z [INFO]: [2025-06-12T11:49:27.083Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:50:18.507Z [INFO]: [2025-06-12T11:50:18.507Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:50:18.513Z [INFO]: [2025-06-12T11:50:18.512Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:50:36.442Z [INFO]: [2025-06-12T11:50:36.441Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:50:36.450Z [INFO]: [2025-06-12T11:50:36.450Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:52:54.855Z [INFO]: [2025-06-12T11:52:54.852Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:52:54.862Z [INFO]: [2025-06-12T11:52:54.862Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:53:06.211Z [INFO]: [2025-06-12T11:53:06.210Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:53:06.219Z [INFO]: [2025-06-12T11:53:06.218Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:54:33.296Z [INFO]: [2025-06-12T11:54:33.295Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:54:33.306Z [INFO]: [2025-06-12T11:54:33.305Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:56:51.675Z [INFO]: [2025-06-12T11:56:51.672Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:56:51.682Z [INFO]: [2025-06-12T11:56:51.682Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:58:21.300Z [INFO]: [2025-06-12T11:58:21.298Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:58:21.317Z [INFO]: [2025-06-12T11:58:21.316Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T11:59:43.603Z [INFO]: [2025-06-12T11:59:43.603Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T11:59:56.437Z [ERROR]: [2025-06-12T11:59:56.436Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:01:20.295Z [INFO]: [2025-06-12T12:01:20.287Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:01:20.312Z [INFO]: [2025-06-12T12:01:20.305Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:01:53.982Z [INFO]: [2025-06-12T12:01:53.981Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:01:53.989Z [INFO]: [2025-06-12T12:01:53.989Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:02:02.883Z [INFO]: [2025-06-12T12:02:02.883Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T12:05:00.920Z [INFO]: [2025-06-12T12:05:00.919Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:05:00.926Z [INFO]: [2025-06-12T12:05:00.926Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:05:07.412Z [INFO]: [2025-06-12T12:05:07.412Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T12:06:15.443Z [ERROR]: [2025-06-12T12:06:15.443Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:07:12.850Z [INFO]: [2025-06-12T12:07:12.849Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:07:12.857Z [INFO]: [2025-06-12T12:07:12.857Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:07:18.550Z [INFO]: [2025-06-12T12:07:18.549Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:07:18.555Z [INFO]: [2025-06-12T12:07:18.555Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:07:56.638Z [INFO]: [2025-06-12T12:07:56.637Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:07:56.644Z [INFO]: [2025-06-12T12:07:56.643Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:08:19.579Z [INFO]: [2025-06-12T12:08:19.579Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T12:09:33.634Z [INFO]: [2025-06-12T12:09:33.634Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:09:33.642Z [INFO]: [2025-06-12T12:09:33.641Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:09:46.017Z [INFO]: [2025-06-12T12:09:46.017Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T12:10:58.628Z [INFO]: [2025-06-12T12:10:58.621Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:10:58.636Z [INFO]: [2025-06-12T12:10:58.636Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:11:04.552Z [INFO]: [2025-06-12T12:11:04.552Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T12:12:23.200Z [ERROR]: [2025-06-12T12:12:23.199Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:12:59.300Z [INFO]: [2025-06-12T12:12:59.300Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:12:59.308Z [INFO]: [2025-06-12T12:12:59.307Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:13:04.746Z [INFO]: [2025-06-12T12:13:04.746Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T12:14:27.393Z [INFO]: [2025-06-12T12:14:27.392Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:15:57.057Z [INFO]: [2025-06-12T12:15:57.057Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:15:57.064Z [INFO]: [2025-06-12T12:15:57.064Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:16:17.620Z [INFO]: [2025-06-12T12:16:17.619Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:16:17.626Z [INFO]: [2025-06-12T12:16:17.626Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:16:23.963Z [INFO]: [2025-06-12T12:16:23.963Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T12:18:21.147Z [INFO]: [2025-06-12T12:18:21.147Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:18:21.158Z [INFO]: [2025-06-12T12:18:21.155Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:18:34.832Z [INFO]: [2025-06-12T12:18:34.832Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T12:18:47.090Z [ERROR]: [2025-06-12T12:18:47.089Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:19:01.914Z [ERROR]: [2025-06-12T12:19:01.914Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:19:37.569Z [ERROR]: [2025-06-12T12:19:37.569Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:21:33.106Z [ERROR]: [2025-06-12T12:21:33.106Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:22:34.211Z [ERROR]: [2025-06-12T12:22:34.211Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:23:32.453Z [ERROR]: [2025-06-12T12:23:32.453Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:23:39.726Z [ERROR]: [2025-06-12T12:23:39.726Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:24:08.187Z [INFO]: [2025-06-12T12:24:08.186Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:24:08.204Z [INFO]: [2025-06-12T12:24:08.197Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:25:47.139Z [ERROR]: [2025-06-12T12:25:47.138Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:26:16.696Z [ERROR]: [2025-06-12T12:26:16.696Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:26:19.753Z [INFO]: [2025-06-12T12:26:19.752Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:26:19.761Z [INFO]: [2025-06-12T12:26:19.760Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:26:21.132Z [ERROR]: [2025-06-12T12:26:21.131Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:26:40.060Z [INFO]: [2025-06-12T12:26:40.060Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:26:40.066Z [INFO]: [2025-06-12T12:26:40.066Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:26:41.704Z [ERROR]: [2025-06-12T12:26:41.704Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Duplicate entry '+919468583931' for key 'ratings.IDX_4c501f90cad3445d7f1ba4e49e'
+2025-06-12T12:26:53.710Z [INFO]: [2025-06-12T12:26:53.710Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T12:26:53.716Z [INFO]: [2025-06-12T12:26:53.716Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T17:13:24.154Z [ERROR]: ❌ Failed to connect to DB: getaddrinfo ENOTFOUND sql205.infinityfree.com
+2025-06-12T17:15:25.947Z [ERROR]: ❌ Failed to connect to DB: getaddrinfo ENOTFOUND sql205.infinityfree.com
+2025-06-12T17:18:53.010Z [ERROR]: ❌ Failed to connect to DB: getaddrinfo ENOTFOUND sql205.infinityfree.com
+2025-06-12T17:31:06.345Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-12T17:31:06.394Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
