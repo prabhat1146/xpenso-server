@@ -14,5 +14,15 @@ module.exports = new EntitySchema({
       length: 255,
       nullable: false,
     },
+    icon: {
+      type: "varchar",
+      length: 255,
+      nullable: true,
+    },
+    color: {
+      type: "varchar",
+      length: 50,
+      nullable: true,
+    },
   },
 });

@@ -5590,3 +5590,3682 @@
 2025-06-11T13:50:02.547Z [INFO]: [2025-06-11T13:50:02.546Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
 2025-06-11T13:50:02.554Z [INFO]: [2025-06-11T13:50:02.554Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
 2025-06-11T13:50:02.561Z [INFO]: [2025-06-11T13:50:02.561Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:45:35.370Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T04:45:35.373Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T04:45:52.824Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T04:45:52.828Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T04:46:44.530Z [INFO]: [2025-06-12T04:46:44.530Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T04:46:44.535Z [INFO]: [2025-06-12T04:46:44.534Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T04:46:44.588Z [INFO]: [2025-06-12T04:46:44.587Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:46:44.595Z [INFO]: [2025-06-12T04:46:44.595Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:46:44.601Z [INFO]: [2025-06-12T04:46:44.601Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:46:44.608Z [INFO]: [2025-06-12T04:46:44.607Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:47:22.639Z [INFO]: [2025-06-12T04:47:22.638Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:47:22.645Z [INFO]: [2025-06-12T04:47:22.645Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:47:22.654Z [INFO]: [2025-06-12T04:47:22.653Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:47:22.663Z [INFO]: [2025-06-12T04:47:22.663Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:47:35.597Z [INFO]: [2025-06-12T04:47:35.597Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T04:47:35.599Z [INFO]: [2025-06-12T04:47:35.598Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T04:47:35.632Z [INFO]: [2025-06-12T04:47:35.631Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:47:35.640Z [INFO]: [2025-06-12T04:47:35.640Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:47:35.646Z [INFO]: [2025-06-12T04:47:35.646Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:47:35.651Z [INFO]: [2025-06-12T04:47:35.651Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:49:52.505Z [INFO]: [2025-06-12T04:49:52.505Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:49:52.514Z [INFO]: [2025-06-12T04:49:52.514Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:49:52.521Z [INFO]: [2025-06-12T04:49:52.521Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T04:49:52.531Z [INFO]: [2025-06-12T04:49:52.531Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:06:26.086Z [INFO]: [2025-06-12T05:06:26.086Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:06:26.092Z [INFO]: [2025-06-12T05:06:26.092Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:06:26.099Z [INFO]: [2025-06-12T05:06:26.098Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:06:26.103Z [INFO]: [2025-06-12T05:06:26.103Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:06:38.420Z [INFO]: [2025-06-12T05:06:38.420Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T05:06:38.421Z [INFO]: [2025-06-12T05:06:38.421Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T05:06:38.468Z [INFO]: [2025-06-12T05:06:38.468Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:06:38.475Z [INFO]: [2025-06-12T05:06:38.474Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:06:38.483Z [INFO]: [2025-06-12T05:06:38.482Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:06:38.488Z [INFO]: [2025-06-12T05:06:38.487Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:08:22.747Z [INFO]: [2025-06-12T05:08:22.747Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:08:22.755Z [INFO]: [2025-06-12T05:08:22.755Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:08:22.761Z [INFO]: [2025-06-12T05:08:22.760Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:08:22.770Z [INFO]: [2025-06-12T05:08:22.770Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:10:04.171Z [INFO]: [2025-06-12T05:10:04.171Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:10:04.178Z [INFO]: [2025-06-12T05:10:04.177Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:10:04.189Z [INFO]: [2025-06-12T05:10:04.188Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:10:04.196Z [INFO]: [2025-06-12T05:10:04.196Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:11:08.794Z [INFO]: [2025-06-12T05:11:08.772Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:11:08.817Z [INFO]: [2025-06-12T05:11:08.817Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:11:08.825Z [INFO]: [2025-06-12T05:11:08.824Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:11:08.858Z [INFO]: [2025-06-12T05:11:08.832Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:12:09.821Z [INFO]: [2025-06-12T05:12:09.820Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:12:09.827Z [INFO]: [2025-06-12T05:12:09.827Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:12:09.835Z [INFO]: [2025-06-12T05:12:09.835Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:12:09.844Z [INFO]: [2025-06-12T05:12:09.844Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:12.771Z [INFO]: [2025-06-12T05:14:12.770Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:12.779Z [INFO]: [2025-06-12T05:14:12.778Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:12.787Z [INFO]: [2025-06-12T05:14:12.787Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:12.798Z [INFO]: [2025-06-12T05:14:12.797Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:30.504Z [INFO]: [2025-06-12T05:14:30.503Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T05:14:30.504Z [INFO]: [2025-06-12T05:14:30.504Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T05:14:30.578Z [INFO]: [2025-06-12T05:14:30.578Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:30.587Z [INFO]: [2025-06-12T05:14:30.587Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:30.594Z [INFO]: [2025-06-12T05:14:30.593Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:30.601Z [INFO]: [2025-06-12T05:14:30.601Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:34.744Z [INFO]: [2025-06-12T05:14:34.743Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:34.753Z [INFO]: [2025-06-12T05:14:34.753Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:14:34.757Z [INFO]: [2025-06-12T05:14:34.757Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:14:34.760Z [INFO]: [2025-06-12T05:14:34.759Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:14:34.763Z [INFO]: [2025-06-12T05:14:34.763Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:14:34.771Z [INFO]: [2025-06-12T05:14:34.771Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:14:34.772Z [INFO]: [2025-06-12T05:14:34.772Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:14:34.773Z [INFO]: [2025-06-12T05:14:34.773Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:18:42.028Z [INFO]: [2025-06-12T05:18:42.027Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:18:42.030Z [INFO]: [2025-06-12T05:18:42.030Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:18:42.032Z [INFO]: [2025-06-12T05:18:42.031Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:18:42.029Z [INFO]: [2025-06-12T05:18:42.029Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:20:07.033Z [INFO]: [2025-06-12T05:20:07.033Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:20:07.036Z [INFO]: [2025-06-12T05:20:07.035Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:20:07.032Z [INFO]: [2025-06-12T05:20:07.032Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:20:07.034Z [INFO]: [2025-06-12T05:20:07.034Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:20:32.028Z [INFO]: [2025-06-12T05:20:32.028Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:20:32.027Z [INFO]: [2025-06-12T05:20:32.026Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:20:32.029Z [INFO]: [2025-06-12T05:20:32.029Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:20:32.031Z [INFO]: [2025-06-12T05:20:32.030Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:20:34.026Z [INFO]: [2025-06-12T05:20:34.025Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:20:34.027Z [INFO]: [2025-06-12T05:20:34.027Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:20:34.029Z [INFO]: [2025-06-12T05:20:34.029Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:20:34.031Z [INFO]: [2025-06-12T05:20:34.030Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:22:07.719Z [INFO]: [2025-06-12T05:22:07.718Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:22:07.721Z [INFO]: [2025-06-12T05:22:07.721Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:22:07.726Z [INFO]: [2025-06-12T05:22:07.724Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:22:07.723Z [INFO]: [2025-06-12T05:22:07.722Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:22:07.735Z [INFO]: [2025-06-12T05:22:07.735Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:22:07.737Z [INFO]: [2025-06-12T05:22:07.737Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:22:07.740Z [INFO]: [2025-06-12T05:22:07.739Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:22:07.738Z [INFO]: [2025-06-12T05:22:07.738Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:24:07.100Z [INFO]: [2025-06-12T05:24:07.086Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:24:07.103Z [INFO]: [2025-06-12T05:24:07.103Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:24:07.104Z [INFO]: [2025-06-12T05:24:07.104Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:24:07.106Z [INFO]: [2025-06-12T05:24:07.105Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:24:07.115Z [INFO]: [2025-06-12T05:24:07.115Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:24:07.118Z [INFO]: [2025-06-12T05:24:07.118Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:24:07.119Z [INFO]: [2025-06-12T05:24:07.119Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:24:07.121Z [INFO]: [2025-06-12T05:24:07.121Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:24:59.034Z [INFO]: [2025-06-12T05:24:59.022Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:24:59.038Z [INFO]: [2025-06-12T05:24:59.038Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:24:59.037Z [INFO]: [2025-06-12T05:24:59.036Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:24:59.039Z [INFO]: [2025-06-12T05:24:59.039Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:24:59.050Z [INFO]: [2025-06-12T05:24:59.049Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:24:59.053Z [INFO]: [2025-06-12T05:24:59.052Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:24:59.055Z [INFO]: [2025-06-12T05:24:59.054Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:24:59.057Z [INFO]: [2025-06-12T05:24:59.057Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:25:14.201Z [INFO]: [2025-06-12T05:25:14.201Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:25:14.203Z [INFO]: [2025-06-12T05:25:14.203Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:25:14.205Z [INFO]: [2025-06-12T05:25:14.205Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:25:14.206Z [INFO]: [2025-06-12T05:25:14.206Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:25:14.215Z [INFO]: [2025-06-12T05:25:14.214Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:25:14.218Z [INFO]: [2025-06-12T05:25:14.217Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:25:14.220Z [INFO]: [2025-06-12T05:25:14.219Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:25:14.222Z [INFO]: [2025-06-12T05:25:14.221Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:26:54.010Z [INFO]: [2025-06-12T05:26:54.010Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:26:54.013Z [INFO]: [2025-06-12T05:26:54.012Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:26:54.022Z [INFO]: [2025-06-12T05:26:54.020Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:26:54.019Z [INFO]: [2025-06-12T05:26:54.014Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:26:54.035Z [INFO]: [2025-06-12T05:26:54.027Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:26:54.048Z [INFO]: [2025-06-12T05:26:54.048Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:26:54.052Z [INFO]: [2025-06-12T05:26:54.052Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:26:54.051Z [INFO]: [2025-06-12T05:26:54.050Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:28:48.249Z [INFO]: [2025-06-12T05:28:48.248Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:28:48.251Z [INFO]: [2025-06-12T05:28:48.250Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:28:48.260Z [INFO]: [2025-06-12T05:28:48.252Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:28:48.246Z [INFO]: [2025-06-12T05:28:48.245Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:28:48.273Z [INFO]: [2025-06-12T05:28:48.269Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:28:48.284Z [INFO]: [2025-06-12T05:28:48.283Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:28:48.285Z [INFO]: [2025-06-12T05:28:48.285Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:28:48.286Z [INFO]: [2025-06-12T05:28:48.286Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:35:18.267Z [INFO]: [2025-06-12T05:35:18.267Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:35:18.269Z [INFO]: [2025-06-12T05:35:18.269Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:35:18.272Z [INFO]: [2025-06-12T05:35:18.272Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:35:18.270Z [INFO]: [2025-06-12T05:35:18.270Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:35:18.292Z [INFO]: [2025-06-12T05:35:18.291Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:35:18.297Z [INFO]: [2025-06-12T05:35:18.297Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:35:18.300Z [INFO]: [2025-06-12T05:35:18.299Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:35:18.302Z [INFO]: [2025-06-12T05:35:18.302Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:36:24.996Z [INFO]: [2025-06-12T05:36:24.996Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:36:25.004Z [INFO]: [2025-06-12T05:36:25.003Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:36:25.009Z [INFO]: [2025-06-12T05:36:25.009Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:36:25.011Z [INFO]: [2025-06-12T05:36:25.010Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:36:25.028Z [INFO]: [2025-06-12T05:36:25.012Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:36:25.041Z [INFO]: [2025-06-12T05:36:25.039Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:36:25.044Z [INFO]: [2025-06-12T05:36:25.044Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:36:25.045Z [INFO]: [2025-06-12T05:36:25.045Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:37:12.149Z [INFO]: [2025-06-12T05:37:12.149Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:37:12.153Z [INFO]: [2025-06-12T05:37:12.152Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:37:12.160Z [INFO]: [2025-06-12T05:37:12.160Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:37:12.162Z [INFO]: [2025-06-12T05:37:12.161Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:37:12.164Z [INFO]: [2025-06-12T05:37:12.162Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:37:12.175Z [INFO]: [2025-06-12T05:37:12.173Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:37:12.177Z [INFO]: [2025-06-12T05:37:12.177Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:37:12.178Z [INFO]: [2025-06-12T05:37:12.178Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:18.235Z [INFO]: [2025-06-12T05:38:18.235Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:38:18.238Z [INFO]: [2025-06-12T05:38:18.238Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:18.242Z [INFO]: [2025-06-12T05:38:18.242Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:18.251Z [INFO]: [2025-06-12T05:38:18.251Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:38:18.262Z [INFO]: [2025-06-12T05:38:18.262Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:38:18.280Z [INFO]: [2025-06-12T05:38:18.280Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:18.284Z [INFO]: [2025-06-12T05:38:18.284Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:38:18.282Z [INFO]: [2025-06-12T05:38:18.282Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:22.024Z [INFO]: [2025-06-12T05:38:22.023Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:38:22.025Z [INFO]: [2025-06-12T05:38:22.025Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:22.027Z [INFO]: [2025-06-12T05:38:22.027Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:22.029Z [INFO]: [2025-06-12T05:38:22.029Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:38:22.041Z [INFO]: [2025-06-12T05:38:22.041Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:38:22.045Z [INFO]: [2025-06-12T05:38:22.045Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:22.044Z [INFO]: [2025-06-12T05:38:22.044Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:22.048Z [INFO]: [2025-06-12T05:38:22.047Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:38:53.172Z [INFO]: [2025-06-12T05:38:53.172Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:38:53.176Z [INFO]: [2025-06-12T05:38:53.175Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:53.181Z [INFO]: [2025-06-12T05:38:53.180Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:38:53.178Z [INFO]: [2025-06-12T05:38:53.177Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:53.193Z [INFO]: [2025-06-12T05:38:53.193Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:38:53.196Z [INFO]: [2025-06-12T05:38:53.195Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:53.200Z [INFO]: [2025-06-12T05:38:53.200Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:38:53.197Z [INFO]: [2025-06-12T05:38:53.197Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:56.475Z [INFO]: [2025-06-12T05:38:56.475Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:38:56.480Z [INFO]: [2025-06-12T05:38:56.479Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:56.482Z [INFO]: [2025-06-12T05:38:56.482Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:38:56.481Z [INFO]: [2025-06-12T05:38:56.480Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:56.495Z [INFO]: [2025-06-12T05:38:56.494Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:38:56.498Z [INFO]: [2025-06-12T05:38:56.498Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:56.502Z [INFO]: [2025-06-12T05:38:56.502Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:38:56.504Z [INFO]: [2025-06-12T05:38:56.504Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:45:19.731Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:45:19.734Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:45:33.815Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:45:33.819Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:45:49.110Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:45:49.113Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:45:58.438Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:45:58.443Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:46:24.058Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:46:24.061Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:46:42.220Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:46:42.224Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:47:03.240Z [INFO]: [2025-06-12T05:47:03.240Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:47:03.253Z [INFO]: [2025-06-12T05:47:03.253Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:47:03.264Z [INFO]: [2025-06-12T05:47:03.264Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:47:03.269Z [INFO]: [2025-06-12T05:47:03.268Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:47:03.270Z [INFO]: [2025-06-12T05:47:03.270Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:47:03.271Z [INFO]: [2025-06-12T05:47:03.271Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:47:03.278Z [INFO]: [2025-06-12T05:47:03.278Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:47:03.279Z [INFO]: [2025-06-12T05:47:03.279Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:47:41.321Z [INFO]: [2025-06-12T05:47:41.321Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:47:41.323Z [INFO]: [2025-06-12T05:47:41.323Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:47:41.328Z [INFO]: [2025-06-12T05:47:41.327Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:47:41.324Z [INFO]: [2025-06-12T05:47:41.324Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:47:41.339Z [INFO]: [2025-06-12T05:47:41.339Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:47:41.345Z [INFO]: [2025-06-12T05:47:41.345Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:47:41.347Z [INFO]: [2025-06-12T05:47:41.347Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:47:41.349Z [INFO]: [2025-06-12T05:47:41.349Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:49:17.848Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:49:17.852Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:50:02.203Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:50:02.207Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:50:37.983Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:50:37.986Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:50:43.932Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:50:43.937Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:54:01.704Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:54:01.708Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:54:03.704Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:54:03.708Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:54:51.896Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:54:51.900Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:55:04.658Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:55:04.662Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:55:12.624Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:55:12.627Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:56:50.097Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:56:50.100Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:56:53.882Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T05:56:53.877Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T05:57:29.975Z [INFO]: [2025-06-12T05:57:29.975Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:57:29.992Z [INFO]: [2025-06-12T05:57:29.992Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:57:29.996Z [INFO]: [2025-06-12T05:57:29.995Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:57:30.007Z [INFO]: [2025-06-12T05:57:30.007Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:57:30.016Z [INFO]: [2025-06-12T05:57:30.015Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:57:30.021Z [INFO]: [2025-06-12T05:57:30.020Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:57:30.017Z [INFO]: [2025-06-12T05:57:30.017Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:57:30.030Z [INFO]: [2025-06-12T05:57:30.030Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:58:17.044Z [INFO]: [2025-06-12T05:58:17.044Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:58:17.048Z [INFO]: [2025-06-12T05:58:17.048Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:58:17.050Z [INFO]: [2025-06-12T05:58:17.049Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:58:17.054Z [INFO]: [2025-06-12T05:58:17.054Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:58:17.060Z [INFO]: [2025-06-12T05:58:17.059Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:58:17.069Z [INFO]: [2025-06-12T05:58:17.068Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:58:17.067Z [INFO]: [2025-06-12T05:58:17.067Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:58:17.071Z [INFO]: [2025-06-12T05:58:17.071Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:58:48.973Z [INFO]: [2025-06-12T05:58:48.973Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:58:48.978Z [INFO]: [2025-06-12T05:58:48.978Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:58:48.985Z [INFO]: [2025-06-12T05:58:48.985Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:58:48.993Z [INFO]: [2025-06-12T05:58:48.993Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:58:58.628Z [INFO]: [2025-06-12T05:58:58.628Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:58:58.630Z [INFO]: [2025-06-12T05:58:58.630Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:58:58.632Z [INFO]: [2025-06-12T05:58:58.632Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:58:58.635Z [INFO]: [2025-06-12T05:58:58.635Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:58:58.645Z [INFO]: [2025-06-12T05:58:58.645Z] POST /api/v1/user/modes/get-modes - ::ffff:192.168.31.136 - Modes fetched successfully
+2025-06-12T05:58:58.650Z [INFO]: [2025-06-12T05:58:58.650Z] GET /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:58:58.648Z [INFO]: [2025-06-12T05:58:58.648Z] POST /api/v1/user/categories/get-categories - ::ffff:192.168.31.136 - Categories fetched successfully
+2025-06-12T05:58:58.653Z [INFO]: [2025-06-12T05:58:58.652Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:59:05.929Z [INFO]: [2025-06-12T05:59:05.929Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:59:05.938Z [INFO]: [2025-06-12T05:59:05.938Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:59:05.951Z [INFO]: [2025-06-12T05:59:05.950Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T05:59:05.958Z [INFO]: [2025-06-12T05:59:05.958Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T06:03:10.331Z [INFO]: [2025-06-12T06:03:10.330Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T06:03:10.337Z [INFO]: [2025-06-12T06:03:10.336Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T06:03:10.345Z [INFO]: [2025-06-12T06:03:10.344Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T06:03:10.353Z [INFO]: [2025-06-12T06:03:10.352Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T06:52:24.831Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T06:52:24.835Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T06:57:09.078Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T06:57:09.082Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T06:57:16.110Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T06:57:16.113Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T06:57:17.805Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T06:57:17.809Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:00:44.081Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:00:44.121Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:00:47.780Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:00:47.784Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:02:47.003Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:02:47.007Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:02:56.310Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:02:56.314Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:02:57.961Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:02:57.964Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:03.421Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:03.417Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:09.492Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:09.495Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:10.807Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:10.811Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:12.329Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:12.334Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:17.455Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:17.459Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:20.641Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:20.644Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:25.987Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:25.990Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:28.598Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:28.601Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:32.262Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:32.266Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:33.836Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:33.841Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:38.019Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:38.023Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:46.350Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:46.355Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:54.677Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:54.680Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:55.716Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:55.719Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:03:59.269Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:03:59.273Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:05.790Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:05.793Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:14.551Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:14.555Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:16.970Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:16.975Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:19.786Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:19.789Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:22.299Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:22.303Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:27.321Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:27.326Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:37.784Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:37.789Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:39.298Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:39.302Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:40.990Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:40.994Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:04:56.343Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:04:56.347Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:03.344Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:03.348Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:08.430Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:08.433Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:24.099Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:24.102Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:25.702Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:25.705Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:27.068Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:27.071Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:29.569Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:29.572Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:31.986Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:31.989Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:33.160Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:33.163Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:36.187Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:36.190Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:38.681Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:38.684Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:45.333Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:45.337Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:46.457Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:46.454Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:47.665Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:47.668Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:49.812Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:49.816Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:05:55.106Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:05:55.110Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:04.679Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:04.682Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:07.599Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:07.602Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:10.863Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:10.867Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:13.824Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:13.827Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:17.378Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:17.381Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:22.924Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:22.927Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:23.865Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:23.869Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:28.970Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:28.973Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:38.714Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:38.717Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:40.160Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:40.164Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:41.372Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:41.377Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:46.759Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:46.762Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:49.356Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:49.361Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:06:55.227Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:06:55.230Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:07:25.716Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:07:25.719Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:13.344Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:13.350Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:16.733Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:16.736Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:19.180Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:19.183Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:21.911Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:21.915Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:23.923Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:23.926Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:27.535Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:27.538Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:29.230Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:29.233Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:31.104Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:31.107Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:42.981Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:42.984Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:44.080Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:44.084Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:45.392Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:45.395Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:47.409Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:47.413Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:51.527Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:51.531Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:57.044Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:57.050Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:08:58.558Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:08:58.562Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:13:22.408Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:13:22.412Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:13:23.707Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:13:23.710Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:00.123Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:00.127Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:01.493Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:01.496Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:06.485Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:06.488Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:08.108Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:08.113Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:10.694Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:10.699Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:13.685Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:13.688Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:14.996Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:14.999Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:20.675Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:20.678Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:25.787Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:25.791Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:30.033Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:30.037Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:31.174Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:31.177Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:32.809Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:32.812Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:40.926Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:40.930Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:48.885Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:48.888Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:14:51.676Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:14:51.679Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:15:11.381Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:15:11.384Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:15:13.734Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:15:13.737Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:15:49.426Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:15:49.429Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:16:09.759Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:16:09.763Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:16:15.704Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:16:15.708Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:16:22.402Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:16:22.405Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:16:26.833Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:16:26.836Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:16:28.391Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:16:28.395Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:16:31.229Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:16:31.232Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:16:43.184Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:16:43.188Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:16:44.547Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:16:44.550Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:16:48.209Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:16:48.213Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:02.911Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:02.914Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:04.062Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:04.066Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:05.755Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:05.758Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:09.094Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:09.097Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:13.550Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:13.554Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:15.724Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:15.727Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:19.131Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:19.135Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:20.251Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:20.254Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:27.158Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:27.161Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:29.888Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:29.891Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:17:58.875Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:17:58.878Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:18:03.583Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:18:03.587Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:18:06.598Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:18:06.601Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:18:08.804Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:18:08.807Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:18:10.432Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:18:10.436Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:18:23.076Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:18:23.079Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:18:25.177Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:18:25.181Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:18:29.956Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:18:29.959Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:18:55.965Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:18:55.968Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:00.562Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:00.565Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:01.681Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:01.685Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:06.568Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:06.565Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:08.998Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:09.003Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:10.208Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:10.211Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:19.756Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:19.759Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:21.159Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:21.162Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:22.776Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:22.779Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:24.761Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:24.764Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:28.977Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:28.982Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:30.892Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:30.895Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:33.723Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:33.727Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:34.829Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:34.832Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:19:38.413Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:19:38.417Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:20:23.681Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:20:23.685Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:20:25.176Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:20:25.179Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:20:53.659Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:20:53.662Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:20:56.207Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:20:56.211Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:20:57.791Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:20:57.794Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:21:06.251Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:21:06.255Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:21:07.855Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:21:07.858Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:21:11.494Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:21:11.498Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:21:12.481Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:21:12.485Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:21:14.800Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:21:14.804Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:22:09.783Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:22:09.786Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:22:13.051Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:22:13.055Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:22:18.255Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:22:18.258Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:22:30.660Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:22:30.663Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:22:38.396Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:22:38.399Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:03.371Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:03.375Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:11.132Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:11.135Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:18.005Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:18.001Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:22.184Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:22.188Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:26.956Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:26.960Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:28.730Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:28.733Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:29.705Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:29.709Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:33.646Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:33.648Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:41.901Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:41.905Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:55.683Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:55.686Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:23:57.890Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:23:57.893Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:24:04.978Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:24:04.983Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:24:11.858Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:24:11.861Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:24:19.092Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:24:19.096Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:24:21.646Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:24:21.649Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:41:01.527Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:41:01.531Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:43:38.463Z [INFO]: [2025-06-12T07:43:38.462Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T07:43:38.463Z [INFO]: [2025-06-12T07:43:38.463Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T07:43:38.572Z [INFO]: [2025-06-12T07:43:38.572Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T07:43:38.584Z [INFO]: [2025-06-12T07:43:38.583Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T07:43:38.595Z [INFO]: [2025-06-12T07:43:38.595Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T07:43:38.607Z [INFO]: [2025-06-12T07:43:38.606Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T07:46:10.383Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:46:10.386Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:46:23.201Z [ERROR]: [2025-06-12T07:46:23.200Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - You must provide selection conditions in order to find a single row.
+2025-06-12T07:47:35.054Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:47:35.058Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:47:38.022Z [ERROR]: [2025-06-12T07:47:38.021Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - You must provide selection conditions in order to find a single row.
+2025-06-12T07:48:38.373Z [ERROR]: [2025-06-12T07:48:38.372Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - You must provide selection conditions in order to find a single row.
+2025-06-12T07:49:38.896Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:49:38.900Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:49:40.803Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:49:40.806Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:49:51.651Z [INFO]: [2025-06-12T07:49:51.650Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - [object Object]
+2025-06-12T07:51:17.269Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:51:17.272Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:51:21.485Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:51:21.488Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:51:28.455Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:51:28.458Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:51:46.796Z [INFO]: [2025-06-12T07:51:46.795Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T07:52:09.606Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:52:09.609Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:53:18.571Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:53:18.574Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:53:19.590Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:53:19.594Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:53:22.744Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:53:22.747Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:53:36.401Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:53:36.404Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:53:47.912Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:53:47.915Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:53:55.008Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:53:55.011Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:53:59.987Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:53:59.990Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:54:11.522Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:54:11.525Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:54:21.802Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:54:21.805Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:54:29.104Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:54:29.108Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:54:33.325Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:54:33.329Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:54:35.464Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:54:35.469Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:55:06.903Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:55:06.906Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:55:09.001Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:55:09.004Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:55:23.560Z [INFO]: [2025-06-12T07:55:23.559Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T07:59:03.970Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:03.974Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:08.038Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:08.041Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:11.524Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:11.527Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:16.508Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:16.511Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:22.381Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:22.385Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:24.086Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:24.089Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:25.148Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:25.151Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:29.416Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:29.420Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:31.526Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:31.529Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:36.162Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:36.165Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:37.884Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:37.887Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T07:59:47.972Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T07:59:47.976Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:00:15.120Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T08:00:15.123Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:02:53.726Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T08:02:53.729Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:03:12.345Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T08:03:12.349Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:03:35.491Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T08:03:35.494Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:03:40.693Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T08:03:40.697Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:03:48.427Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T08:03:48.432Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:03:50.724Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T08:03:50.727Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:03:53.131Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T08:03:53.134Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:04:01.478Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T08:04:01.474Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T08:06:11.053Z [INFO]: [2025-06-12T08:06:11.053Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:06:33.031Z [INFO]: [2025-06-12T08:06:33.031Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:07:08.766Z [INFO]: [2025-06-12T08:07:08.766Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:07:08.773Z [INFO]: [2025-06-12T08:07:08.772Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:07:55.688Z [INFO]: [2025-06-12T08:07:55.688Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:07:55.695Z [INFO]: [2025-06-12T08:07:55.694Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:13:54.300Z [INFO]: [2025-06-12T08:13:54.300Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:13:54.306Z [INFO]: [2025-06-12T08:13:54.306Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:14:14.529Z [INFO]: [2025-06-12T08:14:14.528Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:14:14.534Z [INFO]: [2025-06-12T08:14:14.534Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:14:15.820Z [INFO]: [2025-06-12T08:14:15.820Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:14:15.826Z [INFO]: [2025-06-12T08:14:15.825Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:14:50.084Z [INFO]: [2025-06-12T08:14:50.083Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:14:50.089Z [INFO]: [2025-06-12T08:14:50.089Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:14:53.863Z [INFO]: [2025-06-12T08:14:53.862Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:14:53.868Z [INFO]: [2025-06-12T08:14:53.868Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:15:22.887Z [INFO]: [2025-06-12T08:15:22.887Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:15:22.893Z [INFO]: [2025-06-12T08:15:22.893Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:15:52.889Z [INFO]: [2025-06-12T08:15:52.889Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:15:52.895Z [INFO]: [2025-06-12T08:15:52.895Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:16:06.655Z [INFO]: [2025-06-12T08:16:06.655Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:16:06.659Z [INFO]: [2025-06-12T08:16:06.659Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:16:33.609Z [INFO]: [2025-06-12T08:16:33.609Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:16:33.614Z [INFO]: [2025-06-12T08:16:33.614Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:17:56.947Z [INFO]: [2025-06-12T08:17:56.947Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:17:56.951Z [INFO]: [2025-06-12T08:17:56.951Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:18:41.123Z [INFO]: [2025-06-12T08:18:41.122Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:18:41.127Z [INFO]: [2025-06-12T08:18:41.126Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:19:13.535Z [INFO]: [2025-06-12T08:19:13.534Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:19:13.540Z [INFO]: [2025-06-12T08:19:13.540Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:19:36.888Z [INFO]: [2025-06-12T08:19:36.888Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T08:19:43.356Z [INFO]: [2025-06-12T08:19:43.326Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:19:43.370Z [INFO]: [2025-06-12T08:19:43.369Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:19:56.527Z [INFO]: [2025-06-12T08:19:56.527Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T08:20:00.229Z [INFO]: [2025-06-12T08:20:00.229Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:20:00.234Z [INFO]: [2025-06-12T08:20:00.234Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:20:23.147Z [INFO]: [2025-06-12T08:20:23.147Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T08:20:26.266Z [INFO]: [2025-06-12T08:20:26.266Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:20:26.271Z [INFO]: [2025-06-12T08:20:26.271Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:21:49.719Z [INFO]: [2025-06-12T08:21:49.718Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T08:21:55.313Z [INFO]: [2025-06-12T08:21:55.313Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:21:55.317Z [INFO]: [2025-06-12T08:21:55.317Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:22:13.830Z [INFO]: [2025-06-12T08:22:13.829Z] POST /api/v1/user/ratings/add-rating - ::ffff:192.168.31.136 - Thanks for rating.
+2025-06-12T08:22:18.505Z [INFO]: [2025-06-12T08:22:18.505Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:22:18.511Z [INFO]: [2025-06-12T08:22:18.510Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:44:01.708Z [INFO]: [2025-06-12T08:44:01.707Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T08:44:01.708Z [INFO]: [2025-06-12T08:44:01.708Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T08:44:01.750Z [INFO]: [2025-06-12T08:44:01.749Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T08:44:01.757Z [INFO]: [2025-06-12T08:44:01.756Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T08:44:01.762Z [INFO]: [2025-06-12T08:44:01.762Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T08:44:01.768Z [INFO]: [2025-06-12T08:44:01.768Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T08:44:05.306Z [INFO]: [2025-06-12T08:44:05.306Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:44:05.312Z [INFO]: [2025-06-12T08:44:05.311Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T08:45:08.834Z [INFO]: [2025-06-12T08:45:08.834Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T08:45:08.840Z [INFO]: [2025-06-12T08:45:08.840Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T08:45:08.849Z [INFO]: [2025-06-12T08:45:08.848Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T08:45:08.854Z [INFO]: [2025-06-12T08:45:08.853Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T09:11:44.748Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:11:44.755Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:11:46.064Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:11:46.069Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:12:18.728Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:12:18.733Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:12:37.656Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:12:37.660Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:12:42.562Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:12:42.570Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:13:42.573Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:13:42.581Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:13:52.248Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:13:52.255Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:17:31.255Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:17:31.262Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:17:40.927Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:17:40.933Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:17:51.469Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:17:51.478Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:17:56.583Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:17:56.578Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:18:01.783Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:18:01.787Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:18:07.028Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:18:07.034Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:18:15.549Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:18:15.553Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:18:23.447Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:18:23.452Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:18:27.318Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:18:27.323Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:18:40.301Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:18:40.305Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:18:48.791Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:18:48.795Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:18:49.994Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:18:49.999Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:18:53.147Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:18:53.142Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:03.521Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:03.528Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:05.485Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:05.491Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:11.347Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:11.352Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:19.671Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:19.675Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:29.019Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:29.023Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:32.939Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:32.943Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:36.613Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:36.620Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:38.929Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:38.937Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:42.553Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:42.558Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:45.359Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:45.367Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:46.653Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:46.658Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:57.390Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:57.398Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:19:59.972Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:19:59.976Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:20:05.168Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:20:05.176Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:20:08.588Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:20:08.593Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:20:18.991Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:20:18.998Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:20:21.814Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:20:21.821Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:20:25.831Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:20:25.836Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:20:58.241Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:20:58.246Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:08.020Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:08.026Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:09.551Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:09.560Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:18.209Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:18.213Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:21.972Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:21.977Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:23.610Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:23.614Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:25.399Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:25.403Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:33.553Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:33.557Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:36.956Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:36.951Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:38.724Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:38.729Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:41.032Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:41.037Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:52.330Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:52.336Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:21:57.917Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:21:57.923Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:22:03.961Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:22:03.957Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:22:08.383Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:22:08.387Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:22:27.042Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:22:27.048Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:22:34.397Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:22:34.405Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:22:42.146Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:22:42.150Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:05.589Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:05.596Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:10.902Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:10.907Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:19.334Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:19.341Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:21.738Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:21.746Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:26.521Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:26.527Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:35.644Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:35.649Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:41.514Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:41.519Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:43.099Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:43.106Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:44.572Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:44.576Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:23:48.661Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:23:48.666Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:24:01.810Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:24:01.814Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:24:29.611Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:24:29.617Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:24:31.551Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:24:31.558Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:24:50.502Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:24:50.510Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:24:55.523Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:24:55.529Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:25:04.495Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:25:04.503Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:25:10.424Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:25:10.430Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:25:16.875Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:25:16.879Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:25:22.751Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:25:22.759Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:25:26.822Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:25:26.827Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:25:35.277Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:25:35.282Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:25:56.588Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:25:56.595Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:25:59.266Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:25:59.270Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:26:00.993Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:26:01.000Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:26:03.644Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:26:03.650Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:26:05.619Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:26:05.625Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:26:08.527Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:26:08.534Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:26:10.641Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:26:10.648Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:26:12.467Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:26:12.474Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:26:18.505Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:26:18.512Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:26:21.620Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:26:21.627Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:26:30.218Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:26:30.223Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:27:38.388Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:27:38.396Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:27:40.113Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:27:40.117Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:27:44.098Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:27:44.105Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:27:50.619Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:27:50.624Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:27:58.488Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:27:58.494Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:28:03.374Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:28:03.378Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:28:05.031Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:28:05.035Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:28:06.710Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:28:06.715Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:28:08.590Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:28:08.598Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:28:10.025Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:28:10.032Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:28:53.931Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:28:53.940Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:28:55.429Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:28:55.434Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:29:10.210Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:29:10.216Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:29:22.258Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:29:22.267Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:29:28.148Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:29:28.152Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:29:32.350Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:29:32.356Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:29:40.387Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:29:40.391Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:29:42.360Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:29:42.365Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:29:57.462Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:29:57.470Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:29:58.949Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:29:58.955Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:30:00.696Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:30:00.701Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:30:03.492Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:30:03.507Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:30:05.387Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:30:05.383Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:30:14.493Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:30:14.500Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:30:23.865Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:30:23.869Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:30:27.434Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:30:27.438Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:30:45.438Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:30:45.442Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:30:48.561Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:30:48.566Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:31:28.178Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:31:28.183Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:31:30.482Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:31:30.478Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:31:44.464Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:31:44.470Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:31:48.264Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:31:48.270Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:31:50.368Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:31:50.373Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:32:26.505Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:32:26.513Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:32:33.073Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:32:33.080Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:32:41.238Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:32:41.242Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:32:47.394Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:32:47.402Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:32:52.865Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:32:52.869Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:33:23.170Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:33:23.164Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:33:25.168Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:33:25.174Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:33:28.990Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:33:28.998Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:33:31.197Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:33:31.202Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:33:34.914Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:33:34.922Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:33:36.419Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:33:36.426Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:33:42.502Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:33:42.507Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:33:44.493Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:33:44.499Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:33:51.200Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:33:51.205Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:34:02.366Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:34:02.372Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:34:09.863Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:34:09.872Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:34:18.669Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:34:18.675Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:35:05.575Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:35:05.580Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:35:33.618Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:35:33.623Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:35:35.485Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:35:35.491Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:35:37.841Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:35:37.845Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:35:41.277Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:35:41.282Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:02.053Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:02.057Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:07.364Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:07.369Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:11.913Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:11.920Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:17.315Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:17.321Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:25.141Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:25.150Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:30.067Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:30.075Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:35.983Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:35.990Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:43.058Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:43.064Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:45.388Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:45.393Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:36:51.332Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:36:51.340Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:37:03.932Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:37:03.938Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:37:06.044Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:37:06.051Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:37:34.853Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:37:34.862Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:37:42.898Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:37:42.905Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:37:45.100Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:37:45.109Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:37:50.931Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:37:50.935Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:37:52.678Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:37:52.683Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:37:56.340Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:37:56.349Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:37:58.654Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:37:58.662Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:38:04.665Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:38:04.670Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:38:06.206Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:38:06.212Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:38:18.318Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:38:18.327Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:38:20.130Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:38:20.135Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:38:23.060Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:38:23.066Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:38:24.433Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:38:24.437Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:38:42.543Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:38:42.551Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:38:46.351Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:38:46.360Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:38:50.000Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:38:50.005Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:39:28.682Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:39:28.689Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:39:47.453Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:39:47.459Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:39:55.316Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:39:55.311Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:40:08.927Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:40:08.931Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:40:24.872Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:40:24.877Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:40:50.663Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:40:50.672Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:46:18.071Z [INFO]: [2025-06-12T09:46:18.070Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T09:46:18.074Z [INFO]: [2025-06-12T09:46:18.073Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T09:46:18.173Z [INFO]: [2025-06-12T09:46:18.172Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T09:46:18.192Z [INFO]: [2025-06-12T09:46:18.191Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T09:46:18.206Z [INFO]: [2025-06-12T09:46:18.205Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T09:46:18.224Z [INFO]: [2025-06-12T09:46:18.223Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T09:46:29.911Z [INFO]: [2025-06-12T09:46:29.910Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Success
+2025-06-12T09:46:50.653Z [ERROR]: [2025-06-12T09:46:50.652Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Invalid credentials
+2025-06-12T09:48:51.482Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:48:51.489Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:48:55.461Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:48:55.465Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:49:11.531Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:49:11.538Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:49:21.249Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:49:21.257Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:49:25.621Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:49:25.625Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:49:31.292Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:49:31.298Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:49:40.617Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:49:40.624Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:50:43.766Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:50:43.773Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:51:26.479Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:51:26.483Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:51:31.365Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:51:31.371Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:52:25.856Z [ERROR]: [2025-06-12T09:52:25.854Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Invalid credentials
+2025-06-12T09:53:13.908Z [ERROR]: [2025-06-12T09:53:13.907Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Invalid credentials
+2025-06-12T09:54:24.870Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:54:24.877Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:54:30.383Z [INFO]: [2025-06-12T09:54:30.383Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T09:54:30.389Z [INFO]: [2025-06-12T09:54:30.388Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T09:54:30.493Z [INFO]: [2025-06-12T09:54:30.493Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T09:54:30.508Z [INFO]: [2025-06-12T09:54:30.508Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T09:54:30.521Z [INFO]: [2025-06-12T09:54:30.521Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T09:54:30.531Z [INFO]: [2025-06-12T09:54:30.531Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T09:54:49.991Z [ERROR]: [2025-06-12T09:54:49.990Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - New password and confirm new password did not match.
+2025-06-12T09:55:04.915Z [ERROR]: [2025-06-12T09:55:04.914Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - New password and confirm new password did not match.
+2025-06-12T09:55:49.105Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:55:49.111Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:55:50.967Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:55:50.973Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:55:52.811Z [ERROR]: [2025-06-12T09:55:52.810Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - New password and confirm new password did not match.
+2025-06-12T09:56:30.989Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:56:30.997Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:56:37.574Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:56:37.580Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:56:43.197Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:56:43.206Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:56:44.269Z [ERROR]: [2025-06-12T09:56:44.269Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - New password and confirm new password did not match.
+2025-06-12T09:57:35.627Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:57:35.632Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:57:41.643Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:57:41.649Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:57:44.782Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:57:44.786Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:57:51.243Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:57:51.248Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:57:53.819Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:57:53.823Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:57:56.057Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:57:56.061Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:58:06.419Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T09:58:06.425Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T09:58:12.082Z [ERROR]: [2025-06-12T09:58:12.081Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Password is too short.
+2025-06-12T09:58:30.322Z [ERROR]: [2025-06-12T09:58:30.321Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Illegal arguments: undefined, string
+2025-06-12T10:00:12.652Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:00:12.659Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:00:15.417Z [ERROR]: [2025-06-12T10:00:15.417Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Illegal arguments: undefined, string
+2025-06-12T10:05:46.082Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:05:46.085Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:05:52.446Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:05:52.449Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:05:56.516Z [ERROR]: [2025-06-12T10:05:56.516Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Illegal arguments: undefined, string
+2025-06-12T10:06:30.906Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:06:30.910Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:06:35.698Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:06:35.702Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:06:38.373Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:06:38.378Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:06:45.168Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:06:45.171Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:06:47.954Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:06:47.958Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:07:04.048Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:07:04.052Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:07:11.088Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:07:11.092Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:07:20.483Z [ERROR]: [2025-06-12T10:07:20.482Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Wrong password
+2025-06-12T10:07:34.130Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:07:34.134Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:07:37.678Z [INFO]: [2025-06-12T10:07:37.677Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:07:47.879Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:07:47.883Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:08:03.496Z [INFO]: [2025-06-12T10:08:03.496Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:08:03.499Z [INFO]: [2025-06-12T10:08:03.499Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:08:03.550Z [INFO]: [2025-06-12T10:08:03.550Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:08:03.558Z [INFO]: [2025-06-12T10:08:03.558Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:08:03.566Z [INFO]: [2025-06-12T10:08:03.565Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:08:03.574Z [INFO]: [2025-06-12T10:08:03.573Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:08:28.756Z [ERROR]: [2025-06-12T10:08:28.755Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Duplicate entry 'prabhat9468@gmail.com' for key 'users.IDX_97672ac88f789774dd47f7c8be'
+2025-06-12T10:11:37.267Z [INFO]: [2025-06-12T10:11:37.266Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:11:45.188Z [INFO]: [2025-06-12T10:11:45.188Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:11:58.265Z [INFO]: [2025-06-12T10:11:58.265Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:11:58.267Z [INFO]: [2025-06-12T10:11:58.266Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:11:58.315Z [INFO]: [2025-06-12T10:11:58.314Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:11:58.326Z [INFO]: [2025-06-12T10:11:58.326Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:11:58.333Z [INFO]: [2025-06-12T10:11:58.332Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:11:58.342Z [INFO]: [2025-06-12T10:11:58.341Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:12:25.786Z [INFO]: [2025-06-12T10:12:25.785Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:12:36.831Z [INFO]: [2025-06-12T10:12:36.830Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:12:36.832Z [INFO]: [2025-06-12T10:12:36.831Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:12:36.871Z [INFO]: [2025-06-12T10:12:36.870Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:12:36.879Z [INFO]: [2025-06-12T10:12:36.878Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:12:36.885Z [INFO]: [2025-06-12T10:12:36.885Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:12:36.893Z [INFO]: [2025-06-12T10:12:36.892Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:12:58.852Z [ERROR]: [2025-06-12T10:12:58.852Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Password is too short.
+2025-06-12T10:13:39.662Z [INFO]: [2025-06-12T10:13:39.661Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:13:47.237Z [ERROR]: [2025-06-12T10:13:47.237Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Wrong password
+2025-06-12T10:14:01.839Z [INFO]: [2025-06-12T10:14:01.838Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:14:01.840Z [INFO]: [2025-06-12T10:14:01.839Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:14:01.876Z [INFO]: [2025-06-12T10:14:01.875Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:14:01.883Z [INFO]: [2025-06-12T10:14:01.883Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:14:01.889Z [INFO]: [2025-06-12T10:14:01.889Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:14:01.897Z [INFO]: [2025-06-12T10:14:01.897Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:14:30.382Z [INFO]: [2025-06-12T10:14:30.382Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:23:02.190Z [INFO]: [2025-06-12T10:23:02.190Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:23:16.301Z [ERROR]: [2025-06-12T10:23:16.301Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Duplicate entry 'prabhat94681@gmail.com' for key 'users.IDX_97672ac88f789774dd47f7c8be'
+2025-06-12T10:23:27.394Z [ERROR]: [2025-06-12T10:23:27.393Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Duplicate entry 'prabhat94681@gmail.com' for key 'users.IDX_97672ac88f789774dd47f7c8be'
+2025-06-12T10:23:45.542Z [INFO]: [2025-06-12T10:23:45.542Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:23:45.544Z [INFO]: [2025-06-12T10:23:45.543Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:23:45.582Z [INFO]: [2025-06-12T10:23:45.582Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:23:45.589Z [INFO]: [2025-06-12T10:23:45.589Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:23:45.597Z [INFO]: [2025-06-12T10:23:45.597Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:23:45.603Z [INFO]: [2025-06-12T10:23:45.603Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:24:02.466Z [ERROR]: [2025-06-12T10:24:02.465Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Duplicate entry 'prabhat9468@gmail.com' for key 'users.IDX_97672ac88f789774dd47f7c8be'
+2025-06-12T10:24:09.191Z [ERROR]: [2025-06-12T10:24:09.190Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Duplicate entry 'prabhat9468@gmail.com' for key 'users.IDX_97672ac88f789774dd47f7c8be'
+2025-06-12T10:24:16.121Z [ERROR]: [2025-06-12T10:24:16.121Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Duplicate entry 'prabhat9468@gmail.com' for key 'users.IDX_97672ac88f789774dd47f7c8be'
+2025-06-12T10:24:28.761Z [ERROR]: [2025-06-12T10:24:28.761Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Duplicate entry 'prabhat9468@gmail.com' for key 'users.IDX_97672ac88f789774dd47f7c8be'
+2025-06-12T10:24:38.083Z [ERROR]: [2025-06-12T10:24:38.083Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Duplicate entry 'prabhat9468@gmail.com' for key 'users.IDX_97672ac88f789774dd47f7c8be'
+2025-06-12T10:30:29.484Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:30:29.488Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:30:33.554Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:30:33.557Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:30:38.644Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:30:38.648Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:30:42.219Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:30:42.223Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:30:43.375Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:30:43.379Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:30:57.744Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:30:57.748Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:30:59.460Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:30:59.463Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:31:10.510Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:31:10.515Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:31:31.124Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:31:31.127Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:31:37.477Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:31:37.480Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:31:41.440Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:31:41.443Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:31:49.780Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:31:49.784Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:31:52.202Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:31:52.206Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:32:06.921Z [ERROR]: [2025-06-12T10:32:06.920Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Cannot delete or update a parent row: a foreign key constraint fails (`test_xpenso_db`.`ratings`, CONSTRAINT `FK_4c501f90cad3445d7f1ba4e49e0` FOREIGN KEY (`userMobile`) REFERENCES `users` (`mobile`))
+2025-06-12T10:33:14.668Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:33:14.671Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:33:22.195Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:33:22.199Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:33:25.485Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:33:25.488Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:33:29.016Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:33:29.019Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:33:36.864Z [INFO]: [2025-06-12T10:33:36.863Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:35:20.741Z [ERROR]: [2025-06-12T10:35:20.741Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Duplicate entry 'prabhat94681@gmail.com' for key 'users.IDX_97672ac88f789774dd47f7c8be'
+2025-06-12T10:35:56.036Z [INFO]: [2025-06-12T10:35:56.035Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:36:25.068Z [INFO]: [2025-06-12T10:36:25.068Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:36:25.069Z [INFO]: [2025-06-12T10:36:25.069Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:36:25.114Z [INFO]: [2025-06-12T10:36:25.113Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:36:25.122Z [INFO]: [2025-06-12T10:36:25.121Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:36:25.127Z [INFO]: [2025-06-12T10:36:25.127Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:36:25.135Z [INFO]: [2025-06-12T10:36:25.134Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:36:35.444Z [INFO]: [2025-06-12T10:36:35.444Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:37:45.069Z [INFO]: [2025-06-12T10:37:45.069Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:37:45.076Z [INFO]: [2025-06-12T10:37:45.076Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:38:01.237Z [ERROR]: [2025-06-12T10:38:01.236Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Wrong password
+2025-06-12T10:38:12.988Z [INFO]: [2025-06-12T10:38:12.987Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:38:12.989Z [INFO]: [2025-06-12T10:38:12.989Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:38:13.028Z [INFO]: [2025-06-12T10:38:13.028Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:13.037Z [INFO]: [2025-06-12T10:38:13.037Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:13.045Z [INFO]: [2025-06-12T10:38:13.045Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:13.050Z [INFO]: [2025-06-12T10:38:13.050Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:21.890Z [INFO]: [2025-06-12T10:38:21.890Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:38:39.314Z [INFO]: [2025-06-12T10:38:39.314Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:38:39.315Z [INFO]: [2025-06-12T10:38:39.315Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:38:39.352Z [INFO]: [2025-06-12T10:38:39.352Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:39.361Z [INFO]: [2025-06-12T10:38:39.360Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:39.368Z [INFO]: [2025-06-12T10:38:39.368Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:39.378Z [INFO]: [2025-06-12T10:38:39.377Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:49.084Z [INFO]: [2025-06-12T10:38:49.084Z] POST /api/v1/user/update-user-settings - ::ffff:192.168.31.136 - Settings updated successfully.
+2025-06-12T10:38:59.808Z [INFO]: [2025-06-12T10:38:59.808Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:38:59.809Z [INFO]: [2025-06-12T10:38:59.809Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-12T10:38:59.852Z [INFO]: [2025-06-12T10:38:59.852Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:59.864Z [INFO]: [2025-06-12T10:38:59.863Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:59.870Z [INFO]: [2025-06-12T10:38:59.870Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:38:59.877Z [INFO]: [2025-06-12T10:38:59.876Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:39:41.860Z [INFO]: [2025-06-12T10:39:41.860Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T10:39:41.865Z [INFO]: [2025-06-12T10:39:41.865Z] POST /api/v1/user/ratings/get-total-ratings - ::ffff:192.168.31.136 - Rating summary
+2025-06-12T10:44:15.800Z [INFO]: [2025-06-12T10:44:15.799Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:44:15.808Z [INFO]: [2025-06-12T10:44:15.807Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:44:15.814Z [INFO]: [2025-06-12T10:44:15.814Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:44:15.822Z [INFO]: [2025-06-12T10:44:15.822Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-12T10:44:45.039Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:44:45.043Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:44:52.318Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:44:52.322Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-12T10:45:26.326Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-06-12T10:45:26.330Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
