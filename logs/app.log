@@ -9431,3 +9431,18 @@
 💾 Database : db_aba303_xpenso
 👤 Username : aba303_xpenso
 2025-06-12T17:31:06.394Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-13T07:57:36.972Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : MYSQL1002.site4now.net
+📍 Port     : 3306
+💾 Database : db_aba303_xpenso
+👤 Username : aba303_xpenso
+2025-06-13T07:57:36.976Z [INFO]: 🚀 Server is running on http://192.168.31.136: 5000
+2025-06-13T07:59:57.247Z [INFO]: [2025-06-13T07:59:57.246Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-13T07:59:57.256Z [INFO]: [2025-06-13T07:59:57.255Z] POST /api/v1/auth/login - ::ffff:192.168.31.136 - Login successful
+2025-06-13T07:59:57.667Z [INFO]: [2025-06-13T07:59:57.667Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-13T07:59:57.975Z [INFO]: [2025-06-13T07:59:57.974Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-13T07:59:58.305Z [INFO]: [2025-06-13T07:59:58.304Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-13T07:59:58.646Z [INFO]: [2025-06-13T07:59:58.646Z] POST /api/v1/user/transactions/get-transactions - ::ffff:192.168.31.136 - Transactions fetched successfully
+2025-06-13T08:01:06.702Z [ERROR]: [2025-06-13T08:01:06.701Z] POST /api/v1/auth/login - ::ffff:192.168.31.192 - User not found
+2025-06-13T08:01:16.715Z [ERROR]: [2025-06-13T08:01:16.714Z] POST /api/v1/auth/login - ::ffff:192.168.31.192 - User not found
