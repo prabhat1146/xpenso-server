@@ -10,6 +10,10 @@ module.exports = new EntitySchema({
       generated: "uuid",
       name: "session_id",
     },
+    id: {
+      type: "varchar",
+      nullable: false,
+    },
     mobile: {
       type: "varchar",
       length: 13,
@@ -73,8 +77,8 @@ module.exports = new EntitySchema({
       type: "many-to-one",
       target: "User",
       joinColumn: {
-        name: "mobile",
-        referencedColumnName: "mobile",
+        name: "id",
+        referencedColumnName: "id",
       },
       onDelete: "CASCADE",
     },

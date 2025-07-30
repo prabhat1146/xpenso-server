@@ -8,6 +8,8 @@ const transactionsRouter=require("./src/routes/transactionsRouter");
 const ratingsRouter=require("./src/routes/ratingRouter");
 const usersRouter=require("./src/routes/usersRouter");
 const authRouter=require("./src/routes/authRouter");
+const emailRouter=require("./src/routes/emailRouter");
+const mobileRouter=require("./src/routes/mobileRouter");
 const verifyToken = require("./src/middlewares/auth/verifyToken");
 //default middleware
 app.use(cors({
@@ -16,9 +18,17 @@ app.use(cors({
 app.use(express.urlencoded({extended:true}));
 app.use(express.json())
 
+
+// default route
+app.get("/",(req,res)=>{
+res.send("Server is running.")
+})
 // routes
 // for authentication only
 app.use("/api/v1/auth",authRouter);
+app.use("/api/v1/auth",authRouter);
+app.use("/api/v1/email",emailRouter);
+app.use("/api/v1/mobile",mobileRouter);
 
 app.use("/api/v1/user",verifyToken);
 app.use("/api/v1/admin",modesRouter);

@@ -13,26 +13,64 @@ const Logger = require("../../utility/logger");
 const hashUtils = require("../../utility/hashUtils");
 
 const loginController = asyncHandler(async (req, res) => {
-  const { mobile, password, deviceInfo } = req.body;
+  const { mobile, email, password, deviceInfo } = req.body;
 
-  if (!mobile || !password) {
+
+  if (!mobile && !email) {
     return ApiResponse.error(
       req,
       res,
       400,
       false,
-      "Mobile and password are required",
+      "Mobile or email is required",
+      null
+    );
+  }
+  if (!password) {
+    return ApiResponse.error(
+      req,
+      res,
+      400,
+      false,
+      "password is required",
       null
     );
   }
 
   const userRepo = AppDataSource.getRepository(User);
   const sessionRepo = AppDataSource.getRepository(UserSession);
+  let isMobile = true;
 
-  const user = await userRepo.findOneBy({ mobile });
+  let user = await userRepo.findOneBy({ mobile });
+
+  if (!user) {
+    user = await userRepo.findOneBy({ email });
+    isMobile = false;
+  }
 
   if (!user) {
     return ApiResponse.error(req, res, 404, false, "User not found", null);
+  }
+
+  if (isMobile && !user.isMobileVerified) {
+    return ApiResponse.error(
+      req,
+      res,
+      401,
+      false,
+      "Mobile is not verified.",
+      null
+    );
+  }
+  if (!isMobile && !user.isEmailVerified) {
+    return ApiResponse.error(
+      req,
+      res,
+      401,
+      false,
+      "Email is not verified.",
+      null
+    );
   }
 
   const isPasswordValid = await hashUtils.comparePassword(
@@ -72,8 +110,8 @@ const loginController = asyncHandler(async (req, res) => {
       middleName: user?.middleName,
       lastName: user.lastName,
       email: user?.email,
-      status:user.status,
-      joinedAt:user.createdAt,
+      status: user.status,
+      joinedAt: user.createdAt,
     },
   });
 

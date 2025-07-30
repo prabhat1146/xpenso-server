@@ -4,20 +4,28 @@ module.exports = new EntitySchema({
   name: "User",
   tableName: "users",
   columns: {
+    id: {
+      type: "int", // ✅ Use string "int", not Number
+      primary: true,
+      nullable:false,
+      unique:true,
+      generated: true,
+      
+    },
     mobile: {
       type: String,
-      primary: true,
+      unique: true,
+      nullable: true,
+      primary:false
     },
     mobileOTP: {
       type: String,
-      primary: false,
       nullable: true,
     },
     isMobileVerified: {
       type: Boolean,
-      primary: false,
-      default:false,
-      nullable:false
+      default: false,
+      nullable: false,
     },
     firstName: {
       type: String,
@@ -34,13 +42,16 @@ module.exports = new EntitySchema({
     email: {
       type: String,
       unique: true,
-      nullable: false,
+      nullable: true,
+    },
+    emailOTP: {
+      type: String,
+      nullable: true,
     },
     isEmailVerified: {
       type: Boolean,
-      unique: false,
+      default: false,
       nullable: false,
-      default:false
     },
     passwordHash: {
       type: String,
@@ -48,9 +59,9 @@ module.exports = new EntitySchema({
     },
     status: {
       type: "enum",
-      enum:['Active','Inactive'],
+      enum: ["Active", "Inactive"],
+      default: "Active",
       nullable: false,
-      default:"Active",
     },
     createdAt: {
       type: "timestamp",
