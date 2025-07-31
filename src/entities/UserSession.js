@@ -17,7 +17,11 @@ module.exports = new EntitySchema({
     mobile: {
       type: "varchar",
       length: 13,
-      nullable: false,
+      
+    },
+    email: {
+      type: "varchar",
+      length: 50,
     },
     accessToken: {
       type: "varchar",

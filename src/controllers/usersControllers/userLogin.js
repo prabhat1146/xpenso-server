@@ -15,7 +15,6 @@ const hashUtils = require("../../utility/hashUtils");
 const loginController = asyncHandler(async (req, res) => {
   const { mobile, email, password, deviceInfo } = req.body;
 
-
   if (!mobile && !email) {
     return ApiResponse.error(
       req,
@@ -41,12 +40,18 @@ const loginController = asyncHandler(async (req, res) => {
   const sessionRepo = AppDataSource.getRepository(UserSession);
   let isMobile = true;
 
-  let user = await userRepo.findOneBy({ mobile });
+  let user;
 
-  if (!user) {
-    user = await userRepo.findOneBy({ email });
+  if (mobile) {
+    user = await userRepo.findOne({ where: { mobile } });
+  }
+
+  if (!user && email) {
+    user = await userRepo.findOne({ where: { email } });
     isMobile = false;
   }
+
+  console.log(user)
 
   if (!user) {
     return ApiResponse.error(req, res, 404, false, "User not found", null);
@@ -91,7 +96,9 @@ const loginController = asyncHandler(async (req, res) => {
   const refreshToken = await generateRefreshToken({ mobile: user.mobile });
 
   const session = sessionRepo.create({
+    id:user.id,
     mobile: user.mobile,
+    email:user.email,
     accessToken,
     refreshToken,
     deviceInfo: deviceInfo || req.headers["user-agent"],
