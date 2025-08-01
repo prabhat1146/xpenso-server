@@ -18,14 +18,12 @@ const runServer = async () => {
       return;
     }
     Logger.info(`🚀 Server is running on ${host}: ${port}`);
-    // await seedModes(AppDataSource)
-    // await seedCategories(AppDataSource);
   });
 };
 
 const initializeDataSource = async () => {
   AppDataSource.initialize()
-    .then((res) => {
+    .then(async(res) => {
       const options = res.options;
       // console.log(options)
       Logger.info(
@@ -36,6 +34,8 @@ const initializeDataSource = async () => {
           `💾 Database : ${options.database}\n` +
           `👤 Username : ${options.username}`
       );
+      // await seedModes(AppDataSource);
+      // await seedCategories(AppDataSource);
     })
     .catch((error) => {
       Logger.error(`❌ Failed to connect to DB: ${error.message}`);
@@ -47,8 +47,9 @@ const startApp = async () => {
   // await connectSSH();
   await createSSHTunnel();
   await initializeDataSource();
+
+  // await seedModes(AppDataSource);
+  // await seedCategories(AppDataSource);
 };
-
-
 
 startApp();

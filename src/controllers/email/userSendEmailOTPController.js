@@ -4,6 +4,7 @@ const asyncHandler = require("../../utility/asyncHandler");
 const generateOTP = require("../../utility/generateOTP");
 const sendEmail = require("../../utility/email/sendEmail");
 const ApiResponse = require("../../utility/apiResponse");
+const { emailOTPValidity, mobileOTPValidity } = require("../../constants");
 
 
 const userSendEmailOTPController = asyncHandler(async (req, res) => {
@@ -22,6 +23,11 @@ const userSendEmailOTPController = asyncHandler(async (req, res) => {
   }
 
   user.emailOTP = otp;
+  user.emailOTPGeneratedAt=Date.now();
+  user.emailOTPExpiresAt=Date.now()+(Number(emailOTPValidity)*60*1000);
+  
+
+
   await userRepo.save(user);
 
   const to = email;
@@ -33,7 +39,7 @@ const userSendEmailOTPController = asyncHandler(async (req, res) => {
       <p>Hello,</p>
       <p>Your one-time password (OTP) for verifying your email is:</p>
       <h3 style="color: #10b981;">${otp}</h3>
-      <p>This OTP will expire in 10 minutes. Please do not share it with anyone.</p>
+      <p>This OTP will expire in ${emailOTPValidity} minutes. Please do not share it with anyone.</p>
       <br />
       <p>Thank you,<br/>Xpenso Team</p>
     </div>

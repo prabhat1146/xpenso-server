@@ -16,6 +16,7 @@ const incomeCategories = [
   { label: "Lottery", value: "lottery", color: "#f97316", icon: "Ticket" },
   { label: "Pension", value: "pension", color: "#14b8a6", icon: "UserCheck" },
   { label: "Allowance", value: "allowance", color: "#8b5cf6", icon: "Wallet" },
+  { label: "Cashback", value: "cashback", color: "#10b981", icon: "BadgePercent" },
   { label: "Other", value: "other", color: "#9ca3af", icon: "HelpCircle" },
 ];
 
@@ -92,6 +93,7 @@ async function seedCategories(dataSource) {
   await insertCategories(incomeCategories, "income");
   await insertCategories(expenseCategories, "expense");
   await insertCategories(transferCategories, "transfer");
+  console.log("Category seeding completed.")
 }
 
 module.exports = seedCategories;

@@ -11022,3 +11022,149 @@ No recipients defined
 2025-07-31T12:52:21.240Z [INFO]: [2025-07-31T12:52:21.240Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
 2025-07-31T12:52:21.448Z [INFO]: [2025-07-31T12:52:21.448Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
 2025-07-31T12:52:21.653Z [INFO]: [2025-07-31T12:52:21.652Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-08-01T05:54:58.000Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T05:55:04.920Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:05:11.826Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:05:18.816Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:07:37.535Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:08:13.518Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:08:19.003Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:09:10.599Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:09:44.214Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:09:47.773Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:09:49.883Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:09:52.907Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:10:20.804Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:13:39.320Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:13:42.218Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:13:48.920Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:14:52.834Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:14:55.499Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:15:02.535Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:15:25.424Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:15:32.544Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:15:36.032Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:16:22.606Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:16:29.377Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:16:48.717Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:16:55.176Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:18:37.836Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:18:38.951Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:18:40.994Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:18:42.327Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:18:45.257Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:18:52.897Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:18:53.706Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:18:59.705Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:19:37.413Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:19:44.418Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:33:05.359Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:33:10.955Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T06:33:39.856Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T06:33:45.541Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T07:40:32.991Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:40:41.360Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T07:41:00.745Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:41:02.692Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:41:09.043Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T07:45:25.043Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:45:28.223Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:45:29.623Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:45:32.258Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:45:38.934Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:45:42.422Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:45:48.598Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T07:47:45.525Z [ERROR]: [2025-08-01T07:47:45.524Z] POST /api/v1/email/send-email-otp - ::1 - User not found.
+2025-08-01T07:48:02.932Z [ERROR]: [2025-08-01T07:48:02.931Z] POST /api/v1/email/send-email-otp - ::1 - Email already verified.
+2025-08-01T07:48:47.318Z [INFO]: ✅ Email sent: yarana1137@gmail.com
+2025-08-01T07:48:47.319Z [INFO]: [2025-08-01T07:48:47.318Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.
+2025-08-01T07:50:42.139Z [ERROR]: [2025-08-01T07:50:42.138Z] POST /api/v1/email/verify-email-otp - ::1 - OTP expired
+2025-08-01T07:50:57.201Z [ERROR]: [2025-08-01T07:50:57.201Z] POST /api/v1/email/verify-email-otp - ::1 - OTP expired
+2025-08-01T07:51:00.157Z [ERROR]: [2025-08-01T07:51:00.156Z] POST /api/v1/email/verify-email-otp - ::1 - OTP expired
+2025-08-01T07:51:03.366Z [ERROR]: [2025-08-01T07:51:03.366Z] POST /api/v1/email/verify-email-otp - ::1 - OTP expired
+2025-08-01T07:51:05.201Z [ERROR]: [2025-08-01T07:51:05.201Z] POST /api/v1/email/verify-email-otp - ::1 - OTP expired
+2025-08-01T07:51:46.916Z [INFO]: ✅ Email sent: yarana1137@gmail.com
+2025-08-01T07:51:46.916Z [INFO]: [2025-08-01T07:51:46.916Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.
+2025-08-01T07:52:03.490Z [INFO]: [2025-08-01T07:52:03.490Z] POST /api/v1/email/verify-email-otp - ::1 - Email verified successfully.
+2025-08-01T07:52:38.147Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:52:39.113Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:52:41.302Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:52:45.450Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:52:50.080Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-08-01T07:52:56.881Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-08-01T07:53:07.273Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000

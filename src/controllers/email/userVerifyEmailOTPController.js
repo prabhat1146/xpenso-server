@@ -21,12 +21,18 @@ const userVerifyEmailOTPController = asyncHandler(async (req, res) => {
     return ApiResponse.error(req, res, 404, false, "User not found.");
   }
 
+  if(user.emailOTPExpiresAt && Date.now()>Number(user?.emailOTPExpiresAt)){
+     return ApiResponse.error(req, res, 401, false, "OTP expired");
+  }
+
   if (user.emailOTP !== generatedOTP) {
     return ApiResponse.error(req, res, 401, false, "Invalid OTP.");
   }
 
   user.isEmailVerified = true;
   user.emailOTP = null; // Optional: clear OTP after verification
+  user.emailOTPGeneratedAt=null;
+  user.emailOTPExpiresAt=null;
   await userRepo.save(user);
 
   return ApiResponse.success(req, res, 200, true, "Email verified successfully.");

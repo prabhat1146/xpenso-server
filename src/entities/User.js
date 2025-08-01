@@ -22,6 +22,14 @@ module.exports = new EntitySchema({
       type: String,
       nullable: true,
     },
+    mobileOTPGeneratedAt: {
+      type: String,
+      nullable: true,
+    },
+    mobileOTPExpiresAt: {
+      type: String,
+      nullable: true,
+    },
     isMobileVerified: {
       type: Boolean,
       default: false,
@@ -48,6 +56,15 @@ module.exports = new EntitySchema({
       type: String,
       nullable: true,
     },
+    emailOTPGeneratedAt: {
+      type: String,
+      nullable: true,
+    },
+    emailOTPExpiresAt: {
+      type: String,
+      nullable: true,
+    },
+     
     isEmailVerified: {
       type: Boolean,
       default: false,

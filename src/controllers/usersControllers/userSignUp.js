@@ -6,6 +6,7 @@ const User = require("../../entities/User");
 const hashUtils = require("../../utility/hashUtils");
 const sendEmail = require("../../utility/email/sendEmail");
 const generateOTP = require("../../utility/generateOTP");
+const { emailOTPValidity, mobileOTPValidity } = require("../../constants");
 
 const signUpUserController = asyncHandler(async (req, res, next) => {
   const userRepo = AppDataSource.getRepository(User);
@@ -54,7 +55,7 @@ If you did not request this, please ignore the email.`;
       <h2 style="color: #333;">🔐 Verify your Email for <span style="color: #4e73df;">Xpenso</span></h2>
       <p style="font-size: 16px;">Use the following OTP to verify your email address:</p>
       <h1 style="font-size: 36px; color: #4e73df; margin: 20px 0;">${email_otp}</h1>
-      <p style="font-size: 14px; color: #666;">This OTP is valid for <strong>10 minutes</strong>.</p>
+      <p style="font-size: 14px; color: #666;">This OTP is valid for <strong>${emailOTPValidity} minutes</strong>.</p>
       <p style="font-size: 14px; color: #999;">If you did not request this, you can safely ignore this email.</p>
     </div>
   </div>
@@ -73,7 +74,11 @@ const user = userRepo.create({
     email,
     passwordHash,
     emailOTP: email_otp,
+    emailOTPGeneratedAt:Date.now(),
+    emailOTPExpiresAt:Date.now()+ (Number(emailOTPValidity) *60*1000),
     mobileOTP:mobile_otp,
+    mobileOTPGeneratedAt:Date.now(),
+    mobileOTPExpiresAt:Date.now()+ (Number(mobileOTPValidity)*60*1000),
     
   });
   
