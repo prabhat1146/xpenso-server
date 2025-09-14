@@ -15640,3 +15640,31 @@ No recipients defined
 📍 Port     : 3307
 💾 Database : business_xpenso_db
 👤 Username : business_prabhat1137
+2025-09-14T12:20:03.494Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T12:20:10.301Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-09-14T12:26:49.464Z [ERROR]: [2025-09-14T12:26:49.463Z] POST /api/v1/auth/login - ::1 - Connection lost: The server closed the connection.
+2025-09-14T12:27:07.980Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T12:27:14.676Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-09-14T12:28:32.905Z [INFO]: [2025-09-14T12:28:32.905Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-09-14T12:28:32.908Z [INFO]: [2025-09-14T12:28:32.908Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-09-14T12:28:33.161Z [INFO]: [2025-09-14T12:28:33.160Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-09-14T12:28:33.344Z [INFO]: [2025-09-14T12:28:33.344Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-09-14T12:28:33.521Z [INFO]: [2025-09-14T12:28:33.521Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-09-14T12:28:33.701Z [INFO]: [2025-09-14T12:28:33.701Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-09-14T12:28:54.322Z [ERROR]: [2025-09-14T12:28:54.322Z] POST /api/v1/auth/login - ::1 - User not found
+2025-09-14T12:29:03.446Z [INFO]: [2025-09-14T12:29:03.445Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-09-14T12:29:03.448Z [INFO]: [2025-09-14T12:29:03.447Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-09-14T12:29:03.697Z [INFO]: [2025-09-14T12:29:03.696Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-09-14T12:29:03.882Z [INFO]: [2025-09-14T12:29:03.882Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-09-14T12:29:04.073Z [INFO]: [2025-09-14T12:29:04.073Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-09-14T12:29:04.251Z [INFO]: [2025-09-14T12:29:04.251Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
