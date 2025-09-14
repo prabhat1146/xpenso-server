@@ -99,7 +99,7 @@ const loginController = asyncHandler(async (req, res) => {
   const refreshToken = await generateRefreshToken(payload);
 
   const session = sessionRepo.create({
-    id:user.id,
+    userId:user.id,
     mobile: user.mobile,
     email:user.email,
     accessToken,
