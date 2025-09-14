@@ -51,7 +51,7 @@ const loginController = asyncHandler(async (req, res) => {
     isMobile = false;
   }
 
-  console.log(user)
+  // console.log(user)
 
   if (!user) {
     return ApiResponse.error(req, res, 404, false, "User not found", null);
@@ -92,8 +92,11 @@ const loginController = asyncHandler(async (req, res) => {
     return;
   }
 
-  const accessToken = await generateToken({ mobile: user.mobile });
-  const refreshToken = await generateRefreshToken({ mobile: user.mobile });
+  const payload={id:user.id,mobile:user.mobile,email:user.email};
+  
+
+  const accessToken = await generateToken(payload);
+  const refreshToken = await generateRefreshToken(payload);
 
   const session = sessionRepo.create({
     id:user.id,
@@ -112,6 +115,7 @@ const loginController = asyncHandler(async (req, res) => {
     accessToken,
     refreshToken,
     user: {
+      id:user.id,
       mobile: user.mobile,
       firstName: user.firstName,
       middleName: user?.middleName,

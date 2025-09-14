@@ -5,6 +5,7 @@ const errorMiddleware = require("./src/middlewares/errorMiddleware");
 const modesRouter=require("./src/routes/modesRouter");
 const categoriesRouter=require("./src/routes/categoriesRouter");
 const transactionsRouter=require("./src/routes/transactionsRouter");
+const borrowerLenderTransactionsRouter=require("./src/routes/borrowerLenderRouter");
 const ratingsRouter=require("./src/routes/ratingRouter");
 const usersRouter=require("./src/routes/usersRouter");
 const authRouter=require("./src/routes/authRouter");
@@ -36,6 +37,7 @@ app.use("/api/v1/user",usersRouter);
 app.use("/api/v1/user/modes",modesRouter);
 app.use("/api/v1/user/categories",categoriesRouter);
 app.use("/api/v1/user/transactions",transactionsRouter);
+app.use("/api/v1/user/borrower-lender-transactions",borrowerLenderTransactionsRouter);
 app.use("/api/v1/user/ratings",ratingsRouter);
 
 // erro middle-ware

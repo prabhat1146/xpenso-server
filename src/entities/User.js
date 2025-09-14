@@ -74,6 +74,11 @@ module.exports = new EntitySchema({
       type: String,
       nullable: false,
     },
+    resetPassword: {
+      type: Boolean,
+      nullable: false,
+      default:false
+    },
     status: {
       type: "enum",
       enum: ["Active", "Inactive"],

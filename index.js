@@ -45,7 +45,7 @@ const initializeDataSource = async () => {
 const startApp = async () => {
   await runServer();
   // await connectSSH();
-  await createSSHTunnel();
+  // await createSSHTunnel();
   await initializeDataSource();
 
   // await seedModes(AppDataSource);

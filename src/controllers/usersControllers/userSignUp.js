@@ -13,7 +13,7 @@ const signUpUserController = asyncHandler(async (req, res, next) => {
 
   const { mobile, firstName, middleName, lastName, email, password } = req.body;
 
-  console.log(req.body)
+  // console.log(req.body)
   // Basic validation
   if (!mobile || !firstName || !lastName || !email || !password) {
     return ApiResponse.error(
