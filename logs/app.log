@@ -15525,3 +15525,103 @@ No recipients defined
 2025-09-14T11:03:10.054Z [INFO]: [2025-09-14T11:03:10.054Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
 2025-09-14T11:03:10.060Z [INFO]: [2025-09-14T11:03:10.059Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
 2025-09-14T11:03:10.066Z [INFO]: [2025-09-14T11:03:10.066Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-09-14T11:13:57.655Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:13:57.664Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:21:00.344Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:21:00.354Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:27:28.683Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:27:28.697Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:29:04.555Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:29:04.564Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:29:58.459Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:29:58.471Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:30:25.354Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:30:25.366Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:31:14.143Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:31:14.242Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : localhost
+📍 Port     : 3306
+💾 Database : test_xpenso_db
+👤 Username : root
+2025-09-14T11:31:41.770Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:31:41.779Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:37:18.566Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:37:18.576Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:38:32.239Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:38:32.250Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:38:39.316Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:38:39.326Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:38:48.257Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:38:48.266Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:39:17.750Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:39:17.760Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:39:23.280Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:39:23.290Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:39:28.369Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:39:28.379Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:44:54.106Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:44:54.120Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:44:56.635Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:44:56.645Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:44:59.670Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:44:59.680Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:45:28.921Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:45:28.932Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:47:22.679Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:47:22.688Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:48:59.089Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:48:59.100Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:49:10.198Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:49:10.226Z [ERROR]: ❌ Failed to connect to DB: Access denied for user 'business_prabhat1137'@'localhost' (using password: YES)
+2025-09-14T11:49:47.696Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:49:47.705Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:52:48.123Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:52:48.133Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:52:57.822Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:52:57.832Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:54:04.540Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:54:08.481Z [ERROR]: ❌ Failed to connect to DB: connect ECONNREFUSED 127.0.0.1:3307
+2025-09-14T11:54:09.774Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:54:18.173Z [ERROR]: ❌ Failed to connect to DB: Column 'id' cannot be NOT NULL: needed in a foreign key constraint 'FK_e93e031a5fed190d4789b6bfd83' SET NULL
+2025-09-14T11:54:55.577Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:55:04.351Z [ERROR]: ❌ Failed to connect to DB: Column 'id' cannot be NOT NULL: needed in a foreign key constraint 'FK_e93e031a5fed190d4789b6bfd83' SET NULL
+2025-09-14T11:56:20.183Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:56:22.808Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T11:56:33.318Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-09-14T12:02:01.806Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T12:02:10.997Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-09-14T12:02:50.289Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T12:02:58.033Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_test_business_xpenso_db
+👤 Username : business_prabhat1137
+2025-09-14T12:04:12.191Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T12:04:22.297Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-09-14T12:05:16.284Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T12:05:20.051Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T12:05:21.787Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T12:05:24.720Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-09-14T12:05:31.921Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137

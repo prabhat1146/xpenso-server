@@ -10,7 +10,7 @@ module.exports = new EntitySchema({
       generated: "uuid",
       name: "session_id",
     },
-    id: {
+    userId: {
       type: "varchar",
       nullable: false,
     },
@@ -81,7 +81,7 @@ module.exports = new EntitySchema({
       type: "many-to-one",
       target: "User",
       joinColumn: {
-        name: "id",
+        name: "userId",
         referencedColumnName: "id",
       },
       onDelete: "CASCADE",

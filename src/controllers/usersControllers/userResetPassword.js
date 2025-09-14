@@ -39,6 +39,7 @@ const userResetPassword = asyncHandler(async (req, res) => {
   } else {
     const newPasswordHash = await hashUtils.hashPassword(newPassword);
     user.passwordHash = newPasswordHash;
+    user.resetPassword=false;
     await userRepo.save(user);
     // console.log(user)
     ApiResponse.success(req, res, 200, true, "Password updatedd successfully.");
