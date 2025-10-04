@@ -39,8 +39,8 @@ const signUpUserController = asyncHandler(async (req, res, next) => {
 
   //send email otp
 
-  const email_otp=generateOTP();
-  const mobile_otp=generateOTP();
+  const email_otp = generateOTP();
+  const mobile_otp = generateOTP();
 
   const to = email;
   const subject = "Xpenso Email Verification Code";
@@ -61,29 +61,27 @@ If you did not request this, please ignore the email.`;
   </div>
 `;
 
+  // Hash password
+  const passwordHash = await hashUtils.hashPassword(password);
 
-// Hash password
-const passwordHash = await hashUtils.hashPassword(password);
-
-// Create and save user
-const user = userRepo.create({
-  mobile,
-  firstName,
-  middleName,
-  lastName,
+  // Create and save user
+  const user = userRepo.create({
+    mobile,
+    firstName,
+    middleName,
+    lastName,
     email,
     passwordHash,
     emailOTP: email_otp,
-    emailOTPGeneratedAt:Date.now(),
-    emailOTPExpiresAt:Date.now()+ (Number(emailOTPValidity) *60*1000),
-    mobileOTP:mobile_otp,
-    mobileOTPGeneratedAt:Date.now(),
-    mobileOTPExpiresAt:Date.now()+ (Number(mobileOTPValidity)*60*1000),
-    
+    emailOTPGeneratedAt: Date.now(),
+    emailOTPExpiresAt: Date.now() + Number(emailOTPValidity) * 60 * 1000,
+    mobileOTP: mobile_otp,
+    mobileOTPGeneratedAt: Date.now(),
+    mobileOTPExpiresAt: Date.now() + Number(mobileOTPValidity) * 60 * 1000,
   });
-  
+
   await userRepo.save(user);
-  await sendEmail({to, subject, text, html});
+  await sendEmail({ to, subject, text, html });
 
   ApiResponse.success(req, res, 201, true, "User created successfully", {
     mobile: user.mobile,

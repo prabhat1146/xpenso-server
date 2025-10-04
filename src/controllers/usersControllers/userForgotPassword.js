@@ -15,7 +15,7 @@ const userForgotPassword = asyncHandler(async (req, res) => {
     const userRepo=AppDataSource.getRepository(User);
     const user=await userRepo.findOne({where:{email}})
     if(!user){
-        ApiResponse.error(req,res,404,false,"User not found.")
+        return ApiResponse.error(req,res,404,false,"User not found.")
     }
     user.emailOTP=otp;
     user.resetPassword=true;
@@ -32,7 +32,7 @@ const userForgotPassword = asyncHandler(async (req, res) => {
     `;
     
     if (isValidEmail(email)) {
-        console.log(email);
+        // console.log(email);
         const to=email;
         await sendEmail({to, subject, text, html});
         ApiResponse.error(

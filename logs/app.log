@@ -15668,3 +15668,10 @@ No recipients defined
 2025-09-14T12:29:03.882Z [INFO]: [2025-09-14T12:29:03.882Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
 2025-09-14T12:29:04.073Z [INFO]: [2025-09-14T12:29:04.073Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
 2025-09-14T12:29:04.251Z [INFO]: [2025-09-14T12:29:04.251Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-09-15T12:58:03.688Z [INFO]: listen EADDRINUSE: address already in use :::5000
+2025-09-15T12:58:13.187Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
