@@ -15675,3 +15675,69 @@ No recipients defined
 📍 Port     : 3307
 💾 Database : business_xpenso_db
 👤 Username : business_prabhat1137
+2025-10-04T17:22:19.770Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-10-04T17:22:31.899Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-10-04T17:28:07.591Z [ERROR]: [2025-10-04T17:28:07.590Z] POST /api/v1/auth/sign-up - ::1 - Connection lost: The server closed the connection.
+2025-10-04T17:28:13.285Z [ERROR]: [2025-10-04T17:28:13.285Z] POST /api/v1/auth/sign-up - ::1 - connect ECONNREFUSED 127.0.0.1:3307
+2025-10-04T17:28:54.195Z [ERROR]: [2025-10-04T17:28:54.195Z] POST /api/v1/auth/sign-up - ::1 - connect ECONNREFUSED 127.0.0.1:3307
+2025-10-04T17:29:15.288Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-10-04T17:29:22.302Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-10-04T17:29:31.128Z [ERROR]: ❌ Failed to send email: Authentication failed
+Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-28ea699f24dsm31706575ad.63 - gsmtp
+2025-10-04T17:29:31.130Z [ERROR]: [2025-10-04T17:29:31.130Z] POST /api/v1/auth/sign-up - ::1 - Authentication failed
+2025-10-04T17:32:23.479Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-10-04T17:32:32.743Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-10-04T17:32:49.955Z [ERROR]: [2025-10-04T17:32:49.954Z] POST /api/v1/auth/sign-up - ::1 - User with given email or mobile already exists
+2025-10-04T17:33:15.368Z [INFO]: ✅ Email sent: prabhat9468@gmail.com
+2025-10-04T17:33:15.369Z [INFO]: [2025-10-04T17:33:15.368Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.
+2025-10-04T17:34:37.364Z [INFO]: [2025-10-04T17:34:37.363Z] POST /api/v1/email/verify-email-otp - ::1 - Email verified successfully.
+2025-10-04T17:34:41.059Z [ERROR]: [2025-10-04T17:34:41.059Z] POST /api/v1/email/verify-email-otp - ::1 - Invalid OTP.
+2025-10-04T17:35:07.031Z [INFO]: [2025-10-04T17:35:07.031Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-10-04T17:35:07.029Z [INFO]: [2025-10-04T17:35:07.029Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-10-04T17:35:07.340Z [INFO]: [2025-10-04T17:35:07.339Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-10-04T17:35:07.593Z [INFO]: [2025-10-04T17:35:07.593Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-10-04T17:35:07.845Z [INFO]: [2025-10-04T17:35:07.845Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-10-04T17:35:08.106Z [INFO]: [2025-10-04T17:35:08.106Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-10-04T17:35:14.149Z [ERROR]: [2025-10-04T17:35:14.148Z] POST /api/v1/auth/login - ::1 - Invalid credentials
+2025-10-04T17:35:25.192Z [INFO]: ✅ Email sent: prabhat9468@gmail.com
+2025-10-04T17:35:25.193Z [ERROR]: [2025-10-04T17:35:25.192Z] POST /api/v1/auth/forgot-password - ::1 - OTP is sent to your email.
+2025-10-04T17:35:42.978Z [INFO]: [2025-10-04T17:35:42.978Z] POST /api/v1/email/verify-email-otp - ::1 - Email verified successfully.
+2025-10-04T17:36:26.014Z [INFO]: [2025-10-04T17:36:26.013Z] POST /api/v1/auth/reset-password - ::1 - Password updatedd successfully.
+2025-10-04T17:36:34.867Z [ERROR]: [2025-10-04T17:36:34.866Z] POST /api/v1/auth/login - ::1 - Invalid credentials
+2025-10-04T17:36:40.788Z [INFO]: [2025-10-04T17:36:40.787Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-10-04T17:36:40.789Z [INFO]: [2025-10-04T17:36:40.788Z] POST /api/v1/auth/login - ::1 - Login successful
+2025-10-04T17:36:41.086Z [INFO]: [2025-10-04T17:36:41.085Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-10-04T17:36:41.336Z [INFO]: [2025-10-04T17:36:41.335Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-10-04T17:36:41.579Z [INFO]: [2025-10-04T17:36:41.578Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-10-04T17:36:41.831Z [INFO]: [2025-10-04T17:36:41.830Z] POST /api/v1/user/transactions/get-transactions - ::1 - Transactions fetched successfully
+2025-10-04T18:29:39.233Z [ERROR]: [2025-10-04T18:29:39.232Z] POST /api/v1/email/send-email-otp - ::1 - Connection lost: The server closed the connection.
+2025-10-04T18:29:55.655Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-10-04T18:29:59.745Z [ERROR]: [2025-10-04T18:29:59.744Z] POST /api/v1/email/send-email-otp - ::1 - No metadata for "User" was found.
+2025-10-04T18:30:01.071Z [ERROR]: [2025-10-04T18:30:01.071Z] POST /api/v1/email/send-email-otp - ::1 - No metadata for "User" was found.
+2025-10-04T18:30:01.724Z [ERROR]: [2025-10-04T18:30:01.724Z] POST /api/v1/email/send-email-otp - ::1 - No metadata for "User" was found.
+2025-10-04T18:30:02.061Z [ERROR]: [2025-10-04T18:30:02.061Z] POST /api/v1/email/send-email-otp - ::1 - No metadata for "User" was found.
+2025-10-04T18:30:02.223Z [ERROR]: [2025-10-04T18:30:02.223Z] POST /api/v1/email/send-email-otp - ::1 - No metadata for "User" was found.
+2025-10-04T18:30:08.071Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-10-04T18:30:36.304Z [INFO]: ✅ Email sent: yarana1137@gmail.com
+2025-10-04T18:30:36.305Z [INFO]: [2025-10-04T18:30:36.304Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.
