@@ -15741,3 +15741,22 @@ Invalid login: 535-5.7.8 Username and Password not accepted. For more informatio
 👤 Username : business_prabhat1137
 2025-10-04T18:30:36.304Z [INFO]: ✅ Email sent: yarana1137@gmail.com
 2025-10-04T18:30:36.305Z [INFO]: [2025-10-04T18:30:36.304Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.
+2025-10-04T18:56:31.196Z [ERROR]: [2025-10-04T18:56:31.196Z] POST /api/v1/email/send-email-otp - ::1 - Connection lost: The server closed the connection.
+2025-10-04T18:56:48.088Z [INFO]: listen EADDRINUSE: address already in use :::5000
+2025-10-04T18:56:56.560Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-10-04T18:57:07.882Z [INFO]: ✅ Email sent: yarana1137@gmail.com
+2025-10-04T18:57:07.883Z [INFO]: [2025-10-04T18:57:07.882Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.
+2025-10-05T04:14:57.255Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-10-05T04:15:04.450Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
+2025-10-05T04:16:06.980Z [INFO]: ✅ Email sent: yarana1137@gmail.com
+2025-10-05T04:16:06.981Z [INFO]: [2025-10-05T04:16:06.981Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.

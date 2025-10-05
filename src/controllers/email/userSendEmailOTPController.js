@@ -8,8 +8,13 @@ const { emailOTPValidity, mobileOTPValidity } = require("../../constants");
 
 
 const userSendEmailOTPController = asyncHandler(async (req, res) => {
-  const { email } = req.body;
+  let { email } = req.body;
+  email=email?.toString()?.trim();
   const otp = generateOTP(); // 6-digit OTP by default
+
+  if(!email){
+    return ApiResponse.error(req, res, 400, false, "Bad request");
+  }
 
   const userRepo = AppDataSource.getRepository(User);
   const user = await userRepo.findOne({ where: { email } });
