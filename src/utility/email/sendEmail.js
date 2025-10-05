@@ -32,7 +32,7 @@ async function sendEmail({ to, subject, text, html }) {
     return info;
 
   } catch (error) {
-    // console.log(error)
+    console.log(error)
     let statusCode = 500;
     let message = "Internal server error";
 

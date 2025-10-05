@@ -15760,3 +15760,14 @@ Invalid login: 535-5.7.8 Username and Password not accepted. For more informatio
 👤 Username : business_prabhat1137
 2025-10-05T04:16:06.980Z [INFO]: ✅ Email sent: yarana1137@gmail.com
 2025-10-05T04:16:06.981Z [INFO]: [2025-10-05T04:16:06.981Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.
+2025-10-05T04:18:34.664Z [INFO]: ✅ Email sent: yarana1137@gmail.com
+2025-10-05T04:18:34.665Z [INFO]: [2025-10-05T04:18:34.664Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.
+2025-10-05T04:23:03.914Z [INFO]: ✅ Email sent: yarana1137@gmail.com
+2025-10-05T04:23:03.914Z [INFO]: [2025-10-05T04:23:03.914Z] POST /api/v1/email/send-email-otp - ::1 - OTP sent successfully.
+2025-10-05T04:27:22.125Z [INFO]: 🚀 Server is running on http://192.168.162.86: 5000
+2025-10-05T04:27:29.099Z [INFO]: 📦 Database connected successfully:
+🔌 Type     : mysql
+🌐 Host     : 127.0.0.1
+📍 Port     : 3307
+💾 Database : business_xpenso_db
+👤 Username : business_prabhat1137
