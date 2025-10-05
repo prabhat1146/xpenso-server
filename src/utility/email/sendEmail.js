@@ -2,7 +2,7 @@ require("dotenv").config();
 const nodemailer = require("nodemailer");
 const Logger = require("../logger");
 
-const transporter = nodemailer.createTransport({
+const transporterPayload = {
   host: process.env.SMTP_HOST,
   port: parseInt(process.env.SMTP_PORT),
   secure: process.env.SMTP_SECURE === "true", // true for 465, false for 587
@@ -10,7 +10,11 @@ const transporter = nodemailer.createTransport({
     user: process.env.SMTP_USER,
     pass: process.env.SMTP_PASS,
   },
-});
+};
+
+const transporter = nodemailer.createTransport(transporterPayload);
+
+console.log(transporterPayload)
 
 /**
  * Sends an email using nodemailer.
@@ -18,21 +22,20 @@ const transporter = nodemailer.createTransport({
  */
 async function sendEmail({ to, subject, text, html }) {
   try {
-    const options={
+    const options = {
       from: `"Xpenso Support" <${process.env.SMTP_USER}>`,
       to,
       subject,
       text,
       html,
-    }
+    };
     // console.log(options)
     const info = await transporter.sendMail(options);
 
     Logger.info(`✅ Email sent: ${to}`);
     return info;
-
   } catch (error) {
-    console.log(error)
+    console.log(error);
     let statusCode = 500;
     let message = "Internal server error";
 
@@ -42,7 +45,10 @@ async function sendEmail({ to, subject, text, html }) {
     } else if (error.code === "ECONNECTION") {
       statusCode = 503;
       message = "SMTP service unavailable";
-    } else if (error.code === "EENVELOPE" || error.message.includes("No recipients defined")) {
+    } else if (
+      error.code === "EENVELOPE" ||
+      error.message.includes("No recipients defined")
+    ) {
       statusCode = 400;
       message = "Invalid or missing email fields";
     }
